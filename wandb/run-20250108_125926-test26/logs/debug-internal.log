@@ -1,0 +1,9 @@
+{"time":"2025-01-08T12:59:26.833908164+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-08T12:59:26.833921519+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20250108_125926-test26/logs/debug-core.log"}
+{"time":"2025-01-08T12:59:26.938948593+01:00","level":"INFO","msg":"created new stream","id":"test26"}
+{"time":"2025-01-08T12:59:26.939005029+01:00","level":"INFO","msg":"stream: started","id":"test26"}
+{"time":"2025-01-08T12:59:26.93903775+01:00","level":"INFO","msg":"sender: started","stream_id":"test26"}
+{"time":"2025-01-08T12:59:26.939027171+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test26"}
+{"time":"2025-01-08T12:59:26.939087334+01:00","level":"INFO","msg":"handler: started","stream_id":"test26"}
+{"time":"2025-01-08T12:59:27.40195493+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-08T13:57:33.277933888+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}

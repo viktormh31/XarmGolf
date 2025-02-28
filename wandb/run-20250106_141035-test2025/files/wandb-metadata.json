@@ -1,0 +1,45 @@
+{
+  "os":  "Linux-6.8.0-49-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-01-06T13:10:35.950044Z",
+  "program":  "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/proba.py",
+  "codePath":  "proba.py",
+  "git":  {
+    "remote":  "https://github.com/viktormh31/XarmGolf.git",
+    "commit":  "f65d9e595d209038ea0dec34c23defef60248b22"
+  },
+  "email":  "viktorsalaj01@gmail.com",
+  "root":  "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf",
+  "host":  "viktor-desktop",
+  "executable":  "/bin/python3",
+  "codePathLocal":  "proba.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "153818406912",
+      "used":  "123146600448"
+    }
+  },
+  "memory":  {
+    "total":  "33568796672"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_amd":  [
+    {
+      "id":  "0x73bf",
+      "uniqueId":  "0x4d127cdcdfa4fe45",
+      "vbiosVersion":  "113-2437SM2-U18",
+      "performanceLevel":  "auto",
+      "maxPower":  "219.0",
+      "series":  "Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]",
+      "model":  "0x73bf",
+      "vendor":  "Advanced Micro Devices, Inc. [AMD/ATI]",
+      "sku":  "2437SM2"
+    }
+  ]
+}

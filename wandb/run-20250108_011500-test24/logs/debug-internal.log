@@ -1,0 +1,8 @@
+{"time":"2025-01-08T01:15:00.587959781+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-08T01:15:00.587972906+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20250108_011500-test24/logs/debug-core.log"}
+{"time":"2025-01-08T01:15:00.692427975+01:00","level":"INFO","msg":"created new stream","id":"test24"}
+{"time":"2025-01-08T01:15:00.692472099+01:00","level":"INFO","msg":"stream: started","id":"test24"}
+{"time":"2025-01-08T01:15:00.692470496+01:00","level":"INFO","msg":"sender: started","stream_id":"test24"}
+{"time":"2025-01-08T01:15:00.692469804+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test24"}
+{"time":"2025-01-08T01:15:00.692504199+01:00","level":"INFO","msg":"handler: started","stream_id":"test24"}
+{"time":"2025-01-08T01:15:00.952401101+01:00","level":"INFO","msg":"Starting system monitor"}

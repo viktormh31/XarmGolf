@@ -1,0 +1,17 @@
+{"time":"2024-12-23T15:49:04.114091523+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T15:49:04.114103075+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241223_154904-test3/logs/debug-core.log"}
+{"time":"2024-12-23T15:49:04.218685943+01:00","level":"INFO","msg":"created new stream","id":"test3"}
+{"time":"2024-12-23T15:49:04.218731108+01:00","level":"INFO","msg":"stream: started","id":"test3"}
+{"time":"2024-12-23T15:49:04.218765402+01:00","level":"INFO","msg":"sender: started","stream_id":"test3"}
+{"time":"2024-12-23T15:49:04.218765392+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test3"}
+{"time":"2024-12-23T15:49:04.218787614+01:00","level":"INFO","msg":"handler: started","stream_id":"test3"}
+{"time":"2024-12-23T15:49:04.521892803+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T15:49:43.868685611+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T15:49:43.869089902+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T15:49:44.869580109+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.359310991,"progress":"620B/620B"},{"desc":"uploading output.log","runtime_seconds":0.359296734,"progress":"3.4KB/3.4KB"}],"total_operations":2}}
+{"time":"2024-12-23T15:49:45.264110859+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T15:49:46.631859316+01:00","level":"INFO","msg":"stream: closing","id":"test3"}
+{"time":"2024-12-23T15:49:46.631875536+01:00","level":"INFO","msg":"handler: closed","stream_id":"test3"}
+{"time":"2024-12-23T15:49:46.631882539+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"test3"}
+{"time":"2024-12-23T15:49:46.631891697+01:00","level":"INFO","msg":"sender: closed","stream_id":"test3"}
+{"time":"2024-12-23T15:49:46.631921332+01:00","level":"INFO","msg":"stream: closed","id":"test3"}

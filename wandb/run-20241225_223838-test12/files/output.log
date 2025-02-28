@@ -1,0 +1,40 @@
+  0%|                                                                                                                  | 0/10000 [00:00<?, ?it/s]/home/viktor/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:125: UserWarning: Attempting to use hipBLASLt on an unsupported architecture! Overriding blas backend to hipblas (Triggered internally at ../aten/src/ATen/Context.cpp:296.)
+  return F.linear(input, self.weight, self.bias)
+Episode:, 0, score: -50.0, average score: -50.0
+  0%|▎                                                                                                        | 32/10000 [00:03<19:01,  8.74it/s]
+Episode:, 1, score: -50.0, average score: -50.0
+Episode:, 2, score: -50.0, average score: -50.0
+Episode:, 3, score: -50.0, average score: -50.0
+Episode:, 4, score: -50.0, average score: -50.0
+Episode:, 5, score: -18.0, average score: -44.666666666666664
+Episode:, 6, score: -50.0, average score: -45.42857142857143
+Episode:, 7, score: -50.0, average score: -46.0
+Episode:, 8, score: -50.0, average score: -46.44444444444444
+Episode:, 9, score: -50.0, average score: -46.8
+Episode:, 10, score: -50.0, average score: -47.09090909090909
+Episode:, 11, score: -50.0, average score: -47.333333333333336
+Episode:, 12, score: -50.0, average score: -47.53846153846154
+Episode:, 13, score: -50.0, average score: -47.714285714285715
+Episode:, 14, score: -50.0, average score: -47.86666666666667
+Episode:, 15, score: -50.0, average score: -48.0
+Episode:, 16, score: -50.0, average score: -48.11764705882353
+Episode:, 17, score: -50.0, average score: -48.22222222222222
+Episode:, 18, score: -50.0, average score: -48.31578947368421
+Episode:, 19, score: -50.0, average score: -48.4
+Episode:, 20, score: -50.0, average score: -48.476190476190474
+Episode:, 21, score: -50.0, average score: -48.54545454545455
+Episode:, 22, score: -50.0, average score: -48.608695652173914
+Episode:, 23, score: -18.0, average score: -47.333333333333336
+Episode:, 24, score: -28.0, average score: -46.56
+Episode:, 25, score: -50.0, average score: -46.69230769230769
+Episode:, 26, score: -50.0, average score: -46.81481481481482
+Episode:, 27, score: -50.0, average score: -46.92857142857143
+Episode:, 28, score: -50.0, average score: -47.03448275862069
+Episode:, 29, score: -50.0, average score: -47.13333333333333
+Episode:, 30, score: -50.0, average score: -47.225806451612904
+Episode:, 31, score: -50.0, average score: -47.3125
+Episode:, 32, score: -50.0, average score: -47.39393939393939
+Episode:, 33, score: -50.0, average score: -47.470588235294116
+Episode:, 34, score: -50.0, average score: -47.542857142857144
+Episode:, 35, score: -50.0, average score: -47.611111111111114
+Episode:, 36, score: -50.0, average score: -47.67567567567568

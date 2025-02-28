@@ -1,0 +1,17 @@
+{"time":"2024-12-23T15:45:04.554348091+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T15:45:04.554363681+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241223_154504-lnhhzd76/logs/debug-core.log"}
+{"time":"2024-12-23T15:45:04.658282646+01:00","level":"INFO","msg":"created new stream","id":"lnhhzd76"}
+{"time":"2024-12-23T15:45:04.658323623+01:00","level":"INFO","msg":"stream: started","id":"lnhhzd76"}
+{"time":"2024-12-23T15:45:04.658340855+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"lnhhzd76"}
+{"time":"2024-12-23T15:45:04.65835404+01:00","level":"INFO","msg":"handler: started","stream_id":"lnhhzd76"}
+{"time":"2024-12-23T15:45:04.65834887+01:00","level":"INFO","msg":"sender: started","stream_id":"lnhhzd76"}
+{"time":"2024-12-23T15:45:04.956474376+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T15:47:48.376872579+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T15:47:48.377295645+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T15:47:49.377309655+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.398252912,"progress":"12.0KB/12.0KB"}],"total_operations":1}}
+{"time":"2024-12-23T15:47:49.571005228+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T15:47:50.879880636+01:00","level":"INFO","msg":"stream: closing","id":"lnhhzd76"}
+{"time":"2024-12-23T15:47:50.879902397+01:00","level":"INFO","msg":"handler: closed","stream_id":"lnhhzd76"}
+{"time":"2024-12-23T15:47:50.879912716+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lnhhzd76"}
+{"time":"2024-12-23T15:47:50.879922565+01:00","level":"INFO","msg":"sender: closed","stream_id":"lnhhzd76"}
+{"time":"2024-12-23T15:47:50.879970054+01:00","level":"INFO","msg":"stream: closed","id":"lnhhzd76"}
