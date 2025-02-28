@@ -1,0 +1,3773 @@
+  0%|                                                                                                                                                                                      | 0/20000 [00:00<?, ?it/s]/home/viktor/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:125: UserWarning: Attempting to use hipBLASLt on an unsupported architecture! Overriding blas backend to hipblas (Triggered internally at ../aten/src/ATen/Context.cpp:296.)
+  return F.linear(input, self.weight, self.bias)
+Episode:, 0, score: -50.0, average score: -50.0
+  0%|▎                                                                                                                                                                            | 32/20000 [00:03<38:13,  8.70it/s]
+Episode:, 1, score: -50.0, average score: -50.0
+Episode:, 2, score: -50.0, average score: -50.0
+Episode:, 3, score: -50.0, average score: -50.0
+Episode:, 4, score: -50.0, average score: -50.0
+Episode:, 5, score: -50.0, average score: -50.0
+Episode:, 6, score: -50.0, average score: -50.0
+Episode:, 7, score: -50.0, average score: -50.0
+Episode:, 8, score: -50.0, average score: -50.0
+Episode:, 9, score: -50.0, average score: -50.0
+Episode:, 10, score: -50.0, average score: -50.0
+Episode:, 11, score: -50.0, average score: -50.0
+Episode:, 12, score: -50.0, average score: -50.0
+Episode:, 13, score: -50.0, average score: -50.0
+Episode:, 14, score: -50.0, average score: -50.0
+Episode:, 15, score: -50.0, average score: -50.0
+Episode:, 16, score: -50.0, average score: -50.0
+Episode:, 17, score: -50.0, average score: -50.0
+Episode:, 18, score: -50.0, average score: -50.0
+Episode:, 19, score: -50.0, average score: -50.0
+Episode:, 20, score: -50.0, average score: -50.0
+Episode:, 21, score: -50.0, average score: -50.0
+Episode:, 22, score: -50.0, average score: -50.0
+Episode:, 23, score: -50.0, average score: -50.0
+Episode:, 24, score: -50.0, average score: -50.0
+Episode:, 25, score: -50.0, average score: -50.0
+Episode:, 26, score: -50.0, average score: -50.0
+Episode:, 27, score: -50.0, average score: -50.0
+Episode:, 28, score: -50.0, average score: -50.0
+Episode:, 29, score: -50.0, average score: -50.0
+Episode:, 30, score: -50.0, average score: -50.0
+Episode:, 31, score: -50.0, average score: -50.0
+Episode:, 32, score: -50.0, average score: -50.0
+Episode:, 33, score: -50.0, average score: -50.0
+Episode:, 34, score: -50.0, average score: -50.0
+Episode:, 35, score: -50.0, average score: -50.0
+Episode:, 36, score: -50.0, average score: -50.0
+Episode:, 37, score: -50.0, average score: -50.0
+Episode:, 38, score: -50.0, average score: -50.0
+Episode:, 39, score: -50.0, average score: -50.0
+Episode:, 40, score: -50.0, average score: -50.0
+Episode:, 41, score: -50.0, average score: -50.0
+Episode:, 42, score: -50.0, average score: -50.0
+Episode:, 43, score: -50.0, average score: -50.0
+Episode:, 44, score: -50.0, average score: -50.0
+Episode:, 45, score: -50.0, average score: -50.0
+Episode:, 46, score: -50.0, average score: -50.0
+Episode:, 47, score: -50.0, average score: -50.0
+Episode:, 48, score: -50.0, average score: -50.0
+Episode:, 49, score: -50.0, average score: -50.0
+Episode:, 50, score: -50.0, average score: -50.0
+Episode:, 51, score: -50.0, average score: -50.0
+Episode:, 52, score: -50.0, average score: -50.0
+Episode:, 53, score: -50.0, average score: -50.0
+Episode:, 54, score: -50.0, average score: -50.0
+Episode:, 55, score: -50.0, average score: -50.0
+Episode:, 56, score: -50.0, average score: -50.0
+Episode:, 57, score: -50.0, average score: -50.0
+Episode:, 58, score: -50.0, average score: -50.0
+Episode:, 59, score: -50.0, average score: -50.0
+Episode:, 60, score: -50.0, average score: -50.0
+Episode:, 61, score: -50.0, average score: -50.0
+Episode:, 62, score: -50.0, average score: -50.0
+Episode:, 63, score: -50.0, average score: -50.0
+Episode:, 64, score: -50.0, average score: -50.0
+Episode:, 65, score: -50.0, average score: -50.0
+Episode:, 66, score: -50.0, average score: -50.0
+Episode:, 67, score: -50.0, average score: -50.0
+Episode:, 68, score: -50.0, average score: -50.0
+Episode:, 69, score: -50.0, average score: -50.0
+Episode:, 70, score: -50.0, average score: -50.0
+Episode:, 71, score: -50.0, average score: -50.0
+Episode:, 72, score: -50.0, average score: -50.0
+Episode:, 73, score: -50.0, average score: -50.0
+Episode:, 74, score: -50.0, average score: -50.0
+Episode:, 75, score: -50.0, average score: -50.0
+Episode:, 76, score: -50.0, average score: -50.0
+Episode:, 77, score: -50.0, average score: -50.0
+Episode:, 78, score: -50.0, average score: -50.0
+Episode:, 79, score: -50.0, average score: -50.0
+Episode:, 80, score: -50.0, average score: -50.0
+Episode:, 81, score: -50.0, average score: -50.0
+Episode:, 82, score: -50.0, average score: -50.0
+Episode:, 83, score: -50.0, average score: -50.0
+Episode:, 84, score: -50.0, average score: -50.0
+Episode:, 85, score: -50.0, average score: -50.0
+Episode:, 86, score: -50.0, average score: -50.0
+Episode:, 87, score: -50.0, average score: -50.0
+Episode:, 88, score: -50.0, average score: -50.0
+Episode:, 89, score: -50.0, average score: -50.0
+Episode:, 90, score: -50.0, average score: -50.0
+Episode:, 91, score: -50.0, average score: -50.0
+Episode:, 92, score: -50.0, average score: -50.0
+Episode:, 93, score: -50.0, average score: -50.0
+Episode:, 94, score: -50.0, average score: -50.0
+Episode:, 95, score: -50.0, average score: -50.0
+Episode:, 96, score: -50.0, average score: -50.0
+Episode:, 97, score: -50.0, average score: -50.0
+Episode:, 98, score: -50.0, average score: -50.0
+Episode:, 99, score: -50.0, average score: -50.0
+Test Episode 1, score - -50.0
+Test Episode 2, score - -50.0
+Test Episode 3, score - -50.0
+Test Episode 4, score - -50.0
+Test Episode 5, score - -50.0
+Test Episode 6, score - -50.0
+Test Episode 7, score - -50.0
+Test Episode 8, score - -50.0
+Test Episode 9, score - -50.0
+Test Episode 10, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -50.0
+Episode:, 100, score: -50.0, average score: -50.0
+Episode:, 101, score: -34.0, average score: -49.84
+Episode:, 102, score: -50.0, average score: -49.84
+Episode:, 103, score: -50.0, average score: -49.84
+Episode:, 104, score: -50.0, average score: -49.84
+Episode:, 105, score: -50.0, average score: -49.84
+Episode:, 106, score: -50.0, average score: -49.84
+Episode:, 107, score: -50.0, average score: -49.84
+Episode:, 108, score: -50.0, average score: -49.84
+Episode:, 109, score: -50.0, average score: -49.84
+Episode:, 110, score: -50.0, average score: -49.84
+Episode:, 111, score: -50.0, average score: -49.84
+Episode:, 112, score: -50.0, average score: -49.84
+Episode:, 113, score: -50.0, average score: -49.84
+Episode:, 114, score: -50.0, average score: -49.84
+Episode:, 115, score: -50.0, average score: -49.84
+Episode:, 116, score: -50.0, average score: -49.84
+Episode:, 117, score: -50.0, average score: -49.84
+Episode:, 118, score: -50.0, average score: -49.84
+Episode:, 119, score: -50.0, average score: -49.84
+Episode:, 120, score: -50.0, average score: -49.84
+Episode:, 121, score: -50.0, average score: -49.84
+Episode:, 122, score: -50.0, average score: -49.84
+Episode:, 123, score: -50.0, average score: -49.84
+Episode:, 124, score: -50.0, average score: -49.84
+Episode:, 125, score: -50.0, average score: -49.84
+Episode:, 126, score: -50.0, average score: -49.84
+Episode:, 127, score: -50.0, average score: -49.84
+Episode:, 128, score: -50.0, average score: -49.84
+Episode:, 129, score: -50.0, average score: -49.84
+Episode:, 130, score: -50.0, average score: -49.84
+Episode:, 131, score: -50.0, average score: -49.84
+Episode:, 132, score: -50.0, average score: -49.84
+Episode:, 133, score: -50.0, average score: -49.84
+Episode:, 134, score: -50.0, average score: -49.84
+Episode:, 135, score: -50.0, average score: -49.84
+Episode:, 136, score: -50.0, average score: -49.84
+Episode:, 137, score: -50.0, average score: -49.84
+Episode:, 138, score: -50.0, average score: -49.84
+Episode:, 139, score: -50.0, average score: -49.84
+Episode:, 140, score: -50.0, average score: -49.84
+Episode:, 141, score: -50.0, average score: -49.84
+Episode:, 142, score: -50.0, average score: -49.84
+Episode:, 143, score: -50.0, average score: -49.84
+Episode:, 144, score: -50.0, average score: -49.84
+Episode:, 145, score: -50.0, average score: -49.84
+Episode:, 146, score: -50.0, average score: -49.84
+Episode:, 147, score: -50.0, average score: -49.84
+Episode:, 148, score: -50.0, average score: -49.84
+Episode:, 149, score: -50.0, average score: -49.84
+Episode:, 150, score: -50.0, average score: -49.84
+Episode:, 151, score: -50.0, average score: -49.84
+Episode:, 152, score: -50.0, average score: -49.84
+Episode:, 153, score: -50.0, average score: -49.84
+Episode:, 154, score: -50.0, average score: -49.84
+Episode:, 155, score: -50.0, average score: -49.84
+Episode:, 156, score: -50.0, average score: -49.84
+Episode:, 157, score: -50.0, average score: -49.84
+Episode:, 158, score: -50.0, average score: -49.84
+Episode:, 159, score: -50.0, average score: -49.84
+Episode:, 160, score: -50.0, average score: -49.84
+Episode:, 161, score: -50.0, average score: -49.84
+Episode:, 162, score: -50.0, average score: -49.84
+Episode:, 163, score: -50.0, average score: -49.84
+Episode:, 164, score: -50.0, average score: -49.84
+Episode:, 165, score: -50.0, average score: -49.84
+Episode:, 166, score: -50.0, average score: -49.84
+Episode:, 167, score: -50.0, average score: -49.84
+Episode:, 168, score: -50.0, average score: -49.84
+Episode:, 169, score: -50.0, average score: -49.84
+Episode:, 170, score: -50.0, average score: -49.84
+Episode:, 171, score: -50.0, average score: -49.84
+Episode:, 172, score: -50.0, average score: -49.84
+Episode:, 173, score: -50.0, average score: -49.84
+Episode:, 174, score: -50.0, average score: -49.84
+Episode:, 175, score: -50.0, average score: -49.84
+Episode:, 176, score: -50.0, average score: -49.84
+Episode:, 177, score: -50.0, average score: -49.84
+Episode:, 178, score: -50.0, average score: -49.84
+Episode:, 179, score: -50.0, average score: -49.84
+Episode:, 180, score: -50.0, average score: -49.84
+Episode:, 181, score: -50.0, average score: -49.84
+Episode:, 182, score: -50.0, average score: -49.84
+Episode:, 183, score: -50.0, average score: -49.84
+Episode:, 184, score: -50.0, average score: -49.84
+Episode:, 185, score: -50.0, average score: -49.84
+Episode:, 186, score: -50.0, average score: -49.84
+Episode:, 187, score: -50.0, average score: -49.84
+Episode:, 188, score: -50.0, average score: -49.84
+Episode:, 189, score: -50.0, average score: -49.84
+Episode:, 190, score: -50.0, average score: -49.84
+Episode:, 191, score: -50.0, average score: -49.84
+Episode:, 192, score: -27.0, average score: -49.61
+Episode:, 193, score: -50.0, average score: -49.61
+Episode:, 194, score: -50.0, average score: -49.61
+Episode:, 195, score: -50.0, average score: -49.61
+Episode:, 196, score: -50.0, average score: -49.61
+Episode:, 197, score: -50.0, average score: -49.61
+Episode:, 198, score: -50.0, average score: -49.61
+Episode:, 199, score: -50.0, average score: -49.61
+Test Episode 11, score - -50.0
+Test Episode 12, score - -50.0
+Test Episode 13, score - -50.0
+Test Episode 14, score - -23.0
+Test Episode 15, score - -50.0
+Test Episode 16, score - -50.0
+Test Episode 17, score - -50.0
+Test Episode 18, score - -50.0
+Test Episode 19, score - -50.0
+Test Episode 20, score - -50.0
+Test 10 average score: -47.3
+Test 100 average score: -48.65
+Episode:, 200, score: -50.0, average score: -49.61
+Episode:, 201, score: -50.0, average score: -49.77
+Episode:, 202, score: -50.0, average score: -49.77
+Episode:, 203, score: -50.0, average score: -49.77
+Episode:, 204, score: -18.0, average score: -49.45
+Episode:, 205, score: -50.0, average score: -49.45
+Episode:, 206, score: -50.0, average score: -49.45
+Episode:, 207, score: -50.0, average score: -49.45
+Episode:, 208, score: -50.0, average score: -49.45
+Episode:, 209, score: -50.0, average score: -49.45
+Episode:, 210, score: -50.0, average score: -49.45
+Episode:, 211, score: -50.0, average score: -49.45
+Episode:, 212, score: -50.0, average score: -49.45
+Episode:, 213, score: -50.0, average score: -49.45
+Episode:, 214, score: -50.0, average score: -49.45
+Episode:, 215, score: -50.0, average score: -49.45
+Episode:, 216, score: -50.0, average score: -49.45
+Episode:, 217, score: -50.0, average score: -49.45
+Episode:, 218, score: -50.0, average score: -49.45
+Episode:, 219, score: -50.0, average score: -49.45
+Episode:, 220, score: -50.0, average score: -49.45
+Episode:, 221, score: -50.0, average score: -49.45
+Episode:, 222, score: -50.0, average score: -49.45
+Episode:, 223, score: -50.0, average score: -49.45
+Episode:, 224, score: -50.0, average score: -49.45
+Episode:, 225, score: -50.0, average score: -49.45
+Episode:, 226, score: -50.0, average score: -49.45
+Episode:, 227, score: -50.0, average score: -49.45
+Episode:, 228, score: -50.0, average score: -49.45
+Episode:, 229, score: -50.0, average score: -49.45
+Episode:, 230, score: -50.0, average score: -49.45
+Episode:, 231, score: -50.0, average score: -49.45
+Episode:, 232, score: -50.0, average score: -49.45
+Episode:, 233, score: -50.0, average score: -49.45
+Episode:, 234, score: -50.0, average score: -49.45
+Episode:, 235, score: -50.0, average score: -49.45
+Episode:, 236, score: -50.0, average score: -49.45
+Episode:, 237, score: -50.0, average score: -49.45
+Episode:, 238, score: -50.0, average score: -49.45
+Episode:, 239, score: -50.0, average score: -49.45
+Episode:, 240, score: -50.0, average score: -49.45
+Episode:, 241, score: -50.0, average score: -49.45
+Episode:, 242, score: -50.0, average score: -49.45
+Episode:, 243, score: -50.0, average score: -49.45
+Episode:, 244, score: -50.0, average score: -49.45
+Episode:, 245, score: -50.0, average score: -49.45
+Episode:, 246, score: -50.0, average score: -49.45
+Episode:, 247, score: -50.0, average score: -49.45
+Episode:, 248, score: -50.0, average score: -49.45
+Episode:, 249, score: -50.0, average score: -49.45
+Episode:, 250, score: -50.0, average score: -49.45
+Episode:, 251, score: -50.0, average score: -49.45
+Episode:, 252, score: -50.0, average score: -49.45
+Episode:, 253, score: -50.0, average score: -49.45
+Episode:, 254, score: -50.0, average score: -49.45
+Episode:, 255, score: -50.0, average score: -49.45
+Episode:, 256, score: -50.0, average score: -49.45
+Episode:, 257, score: -50.0, average score: -49.45
+Episode:, 258, score: -50.0, average score: -49.45
+Episode:, 259, score: -50.0, average score: -49.45
+Episode:, 260, score: -50.0, average score: -49.45
+Episode:, 261, score: -50.0, average score: -49.45
+Episode:, 262, score: -50.0, average score: -49.45
+Episode:, 263, score: -50.0, average score: -49.45
+Episode:, 264, score: -50.0, average score: -49.45
+Episode:, 265, score: -50.0, average score: -49.45
+Episode:, 266, score: -50.0, average score: -49.45
+Episode:, 267, score: -50.0, average score: -49.45
+Episode:, 268, score: -50.0, average score: -49.45
+Episode:, 269, score: -50.0, average score: -49.45
+Episode:, 270, score: -50.0, average score: -49.45
+Episode:, 271, score: -50.0, average score: -49.45
+Episode:, 272, score: -50.0, average score: -49.45
+Episode:, 273, score: -50.0, average score: -49.45
+Episode:, 274, score: -50.0, average score: -49.45
+Episode:, 275, score: -50.0, average score: -49.45
+Episode:, 276, score: -50.0, average score: -49.45
+Episode:, 277, score: -50.0, average score: -49.45
+Episode:, 278, score: -50.0, average score: -49.45
+Episode:, 279, score: -50.0, average score: -49.45
+Episode:, 280, score: -50.0, average score: -49.45
+Episode:, 281, score: -50.0, average score: -49.45
+Episode:, 282, score: -50.0, average score: -49.45
+Episode:, 283, score: -50.0, average score: -49.45
+Episode:, 284, score: -50.0, average score: -49.45
+Episode:, 285, score: -50.0, average score: -49.45
+Episode:, 286, score: -50.0, average score: -49.45
+Episode:, 287, score: -50.0, average score: -49.45
+Episode:, 288, score: -50.0, average score: -49.45
+Episode:, 289, score: -50.0, average score: -49.45
+Episode:, 290, score: -50.0, average score: -49.45
+Episode:, 291, score: -50.0, average score: -49.45
+Episode:, 292, score: -50.0, average score: -49.68
+Episode:, 293, score: -50.0, average score: -49.68
+Episode:, 294, score: -50.0, average score: -49.68
+Episode:, 295, score: -50.0, average score: -49.68
+Episode:, 296, score: -50.0, average score: -49.68
+Episode:, 297, score: -50.0, average score: -49.68
+Episode:, 298, score: -50.0, average score: -49.68
+Episode:, 299, score: -50.0, average score: -49.68
+Test Episode 21, score - -50.0
+Test Episode 22, score - -50.0
+Test Episode 23, score - -50.0
+Test Episode 24, score - -50.0
+Test Episode 25, score - -50.0
+Test Episode 26, score - -50.0
+Test Episode 27, score - -50.0
+Test Episode 28, score - -50.0
+Test Episode 29, score - -50.0
+Test Episode 30, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.1
+Episode:, 300, score: -50.0, average score: -49.68
+Episode:, 301, score: -50.0, average score: -49.68
+Episode:, 302, score: -50.0, average score: -49.68
+Episode:, 303, score: -50.0, average score: -49.68
+Episode:, 304, score: -50.0, average score: -50.0
+Episode:, 305, score: -50.0, average score: -50.0
+Episode:, 306, score: -50.0, average score: -50.0
+Episode:, 307, score: -50.0, average score: -50.0
+Episode:, 308, score: -50.0, average score: -50.0
+Episode:, 309, score: -50.0, average score: -50.0
+Episode:, 310, score: -50.0, average score: -50.0
+Episode:, 311, score: -50.0, average score: -50.0
+Episode:, 312, score: -50.0, average score: -50.0
+Episode:, 313, score: -50.0, average score: -50.0
+Episode:, 314, score: -50.0, average score: -50.0
+Episode:, 315, score: -50.0, average score: -50.0
+Episode:, 316, score: -50.0, average score: -50.0
+Episode:, 317, score: -50.0, average score: -50.0
+Episode:, 318, score: -50.0, average score: -50.0
+Episode:, 319, score: -50.0, average score: -50.0
+Episode:, 320, score: -50.0, average score: -50.0
+Episode:, 321, score: -50.0, average score: -50.0
+Episode:, 322, score: -50.0, average score: -50.0
+Episode:, 323, score: -50.0, average score: -50.0
+Episode:, 324, score: -50.0, average score: -50.0
+Episode:, 325, score: -50.0, average score: -50.0
+Episode:, 326, score: -50.0, average score: -50.0
+Episode:, 327, score: -50.0, average score: -50.0
+Episode:, 328, score: -50.0, average score: -50.0
+Episode:, 329, score: -50.0, average score: -50.0
+Episode:, 330, score: -50.0, average score: -50.0
+Episode:, 331, score: -50.0, average score: -50.0
+Episode:, 332, score: -50.0, average score: -50.0
+Episode:, 333, score: -50.0, average score: -50.0
+Episode:, 334, score: -50.0, average score: -50.0
+Episode:, 335, score: -50.0, average score: -50.0
+Episode:, 336, score: -50.0, average score: -50.0
+Episode:, 337, score: -50.0, average score: -50.0
+Episode:, 338, score: -50.0, average score: -50.0
+Episode:, 339, score: -50.0, average score: -50.0
+Episode:, 340, score: -50.0, average score: -50.0
+Episode:, 341, score: -50.0, average score: -50.0
+Episode:, 342, score: -50.0, average score: -50.0
+Episode:, 343, score: -50.0, average score: -50.0
+Episode:, 344, score: -50.0, average score: -50.0
+Episode:, 345, score: -50.0, average score: -50.0
+Episode:, 346, score: -50.0, average score: -50.0
+Episode:, 347, score: -50.0, average score: -50.0
+Episode:, 348, score: -50.0, average score: -50.0
+Episode:, 349, score: -50.0, average score: -50.0
+Episode:, 350, score: -50.0, average score: -50.0
+Episode:, 351, score: -50.0, average score: -50.0
+Episode:, 352, score: -50.0, average score: -50.0
+Episode:, 353, score: -50.0, average score: -50.0
+Episode:, 354, score: -50.0, average score: -50.0
+Episode:, 355, score: -50.0, average score: -50.0
+Episode:, 356, score: -50.0, average score: -50.0
+Episode:, 357, score: -50.0, average score: -50.0
+Episode:, 358, score: -50.0, average score: -50.0
+Episode:, 359, score: -50.0, average score: -50.0
+Episode:, 360, score: -50.0, average score: -50.0
+Episode:, 361, score: -50.0, average score: -50.0
+Episode:, 362, score: -50.0, average score: -50.0
+Episode:, 363, score: -50.0, average score: -50.0
+Episode:, 364, score: -50.0, average score: -50.0
+Episode:, 365, score: -50.0, average score: -50.0
+Episode:, 366, score: -50.0, average score: -50.0
+Episode:, 367, score: -50.0, average score: -50.0
+Episode:, 368, score: -50.0, average score: -50.0
+Episode:, 369, score: -50.0, average score: -50.0
+Episode:, 370, score: -50.0, average score: -50.0
+Episode:, 371, score: -50.0, average score: -50.0
+Episode:, 372, score: -50.0, average score: -50.0
+Episode:, 373, score: -50.0, average score: -50.0
+Episode:, 374, score: -50.0, average score: -50.0
+Episode:, 375, score: -50.0, average score: -50.0
+Episode:, 376, score: -50.0, average score: -50.0
+Episode:, 377, score: -50.0, average score: -50.0
+Episode:, 378, score: -50.0, average score: -50.0
+Episode:, 379, score: -50.0, average score: -50.0
+Episode:, 380, score: -50.0, average score: -50.0
+Episode:, 381, score: -50.0, average score: -50.0
+Episode:, 382, score: -50.0, average score: -50.0
+Episode:, 383, score: -50.0, average score: -50.0
+Episode:, 384, score: -50.0, average score: -50.0
+Episode:, 385, score: -50.0, average score: -50.0
+Episode:, 386, score: -50.0, average score: -50.0
+Episode:, 387, score: -50.0, average score: -50.0
+Episode:, 388, score: -50.0, average score: -50.0
+Episode:, 389, score: -50.0, average score: -50.0
+Episode:, 390, score: -50.0, average score: -50.0
+Episode:, 391, score: -50.0, average score: -50.0
+Episode:, 392, score: -50.0, average score: -50.0
+Episode:, 393, score: -50.0, average score: -50.0
+Episode:, 394, score: -50.0, average score: -50.0
+Episode:, 395, score: -50.0, average score: -50.0
+Episode:, 396, score: -50.0, average score: -50.0
+Episode:, 397, score: -50.0, average score: -50.0
+Episode:, 398, score: -50.0, average score: -50.0
+Episode:, 399, score: -50.0, average score: -50.0
+Test Episode 31, score - -50.0
+Test Episode 32, score - -50.0
+Test Episode 33, score - -50.0
+Test Episode 34, score - -50.0
+Test Episode 35, score - -50.0
+Test Episode 36, score - -50.0
+Test Episode 37, score - -50.0
+Test Episode 38, score - -50.0
+Test Episode 39, score - -50.0
+Test Episode 40, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.325
+Episode:, 400, score: -50.0, average score: -50.0
+Episode:, 401, score: -50.0, average score: -50.0
+Episode:, 402, score: -50.0, average score: -50.0
+Episode:, 403, score: -50.0, average score: -50.0
+Episode:, 404, score: -50.0, average score: -50.0
+Episode:, 405, score: -50.0, average score: -50.0
+Episode:, 406, score: -50.0, average score: -50.0
+Episode:, 407, score: -50.0, average score: -50.0
+Episode:, 408, score: -50.0, average score: -50.0
+Episode:, 409, score: -50.0, average score: -50.0
+Episode:, 410, score: -50.0, average score: -50.0
+Episode:, 411, score: -50.0, average score: -50.0
+Episode:, 412, score: -50.0, average score: -50.0
+Episode:, 413, score: -50.0, average score: -50.0
+Episode:, 414, score: -50.0, average score: -50.0
+Episode:, 415, score: -50.0, average score: -50.0
+Episode:, 416, score: -50.0, average score: -50.0
+Episode:, 417, score: -50.0, average score: -50.0
+Episode:, 418, score: -50.0, average score: -50.0
+Episode:, 419, score: -50.0, average score: -50.0
+Episode:, 420, score: -50.0, average score: -50.0
+Episode:, 421, score: -50.0, average score: -50.0
+Episode:, 422, score: -50.0, average score: -50.0
+Episode:, 423, score: -50.0, average score: -50.0
+Episode:, 424, score: -50.0, average score: -50.0
+Episode:, 425, score: -50.0, average score: -50.0
+Episode:, 426, score: -50.0, average score: -50.0
+Episode:, 427, score: -50.0, average score: -50.0
+Episode:, 428, score: -50.0, average score: -50.0
+Episode:, 429, score: -50.0, average score: -50.0
+Episode:, 430, score: -50.0, average score: -50.0
+Episode:, 431, score: -50.0, average score: -50.0
+Episode:, 432, score: -50.0, average score: -50.0
+Episode:, 433, score: -50.0, average score: -50.0
+Episode:, 434, score: -50.0, average score: -50.0
+Episode:, 435, score: -50.0, average score: -50.0
+Episode:, 436, score: -50.0, average score: -50.0
+Episode:, 437, score: -50.0, average score: -50.0
+Episode:, 438, score: -50.0, average score: -50.0
+Episode:, 439, score: -50.0, average score: -50.0
+Episode:, 440, score: -50.0, average score: -50.0
+Episode:, 441, score: -50.0, average score: -50.0
+Episode:, 442, score: -50.0, average score: -50.0
+Episode:, 443, score: -50.0, average score: -50.0
+Episode:, 444, score: -50.0, average score: -50.0
+Episode:, 445, score: -50.0, average score: -50.0
+Episode:, 446, score: -50.0, average score: -50.0
+Episode:, 447, score: -50.0, average score: -50.0
+Episode:, 448, score: -50.0, average score: -50.0
+Episode:, 449, score: -50.0, average score: -50.0
+Episode:, 450, score: -50.0, average score: -50.0
+Episode:, 451, score: -50.0, average score: -50.0
+Episode:, 452, score: -50.0, average score: -50.0
+Episode:, 453, score: -50.0, average score: -50.0
+Episode:, 454, score: -50.0, average score: -50.0
+Episode:, 455, score: -50.0, average score: -50.0
+Episode:, 456, score: -50.0, average score: -50.0
+Episode:, 457, score: -50.0, average score: -50.0
+Episode:, 458, score: -50.0, average score: -50.0
+Episode:, 459, score: -50.0, average score: -50.0
+Episode:, 460, score: -50.0, average score: -50.0
+Episode:, 461, score: -50.0, average score: -50.0
+Episode:, 462, score: -50.0, average score: -50.0
+Episode:, 463, score: -50.0, average score: -50.0
+Episode:, 464, score: -50.0, average score: -50.0
+Episode:, 465, score: -50.0, average score: -50.0
+Episode:, 466, score: -50.0, average score: -50.0
+Episode:, 467, score: -50.0, average score: -50.0
+Episode:, 468, score: -50.0, average score: -50.0
+Episode:, 469, score: -50.0, average score: -50.0
+Episode:, 470, score: -50.0, average score: -50.0
+Episode:, 471, score: -50.0, average score: -50.0
+Episode:, 472, score: -50.0, average score: -50.0
+Episode:, 473, score: -50.0, average score: -50.0
+Episode:, 474, score: -50.0, average score: -50.0
+Episode:, 475, score: -50.0, average score: -50.0
+Episode:, 476, score: -50.0, average score: -50.0
+Episode:, 477, score: -50.0, average score: -50.0
+Episode:, 478, score: -50.0, average score: -50.0
+Episode:, 479, score: -50.0, average score: -50.0
+Episode:, 480, score: -50.0, average score: -50.0
+Episode:, 481, score: -50.0, average score: -50.0
+Episode:, 482, score: -50.0, average score: -50.0
+Episode:, 483, score: -50.0, average score: -50.0
+Episode:, 484, score: -50.0, average score: -50.0
+Episode:, 485, score: -50.0, average score: -50.0
+Episode:, 486, score: -50.0, average score: -50.0
+Episode:, 487, score: -50.0, average score: -50.0
+Episode:, 488, score: -50.0, average score: -50.0
+Episode:, 489, score: -50.0, average score: -50.0
+Episode:, 490, score: -50.0, average score: -50.0
+Episode:, 491, score: -50.0, average score: -50.0
+Episode:, 492, score: -50.0, average score: -50.0
+Episode:, 493, score: -50.0, average score: -50.0
+Episode:, 494, score: -50.0, average score: -50.0
+Episode:, 495, score: -50.0, average score: -50.0
+Episode:, 496, score: -50.0, average score: -50.0
+Episode:, 497, score: -50.0, average score: -50.0
+Episode:, 498, score: -50.0, average score: -50.0
+Episode:, 499, score: -50.0, average score: -50.0
+Test Episode 41, score - -50.0
+Test Episode 42, score - -50.0
+Test Episode 43, score - -50.0
+Test Episode 44, score - -50.0
+Test Episode 45, score - -50.0
+Test Episode 46, score - -50.0
+Test Episode 47, score - -50.0
+Test Episode 48, score - -50.0
+Test Episode 49, score - -50.0
+Test Episode 50, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.46
+Episode:, 500, score: -50.0, average score: -50.0
+Episode:, 501, score: -50.0, average score: -50.0
+Episode:, 502, score: -50.0, average score: -50.0
+Episode:, 503, score: -50.0, average score: -50.0
+Episode:, 504, score: -50.0, average score: -50.0
+Episode:, 505, score: -50.0, average score: -50.0
+Episode:, 506, score: -50.0, average score: -50.0
+Episode:, 507, score: -50.0, average score: -50.0
+Episode:, 508, score: -50.0, average score: -50.0
+Episode:, 509, score: -50.0, average score: -50.0
+Episode:, 510, score: -50.0, average score: -50.0
+Episode:, 511, score: -50.0, average score: -50.0
+Episode:, 512, score: -50.0, average score: -50.0
+Episode:, 513, score: -50.0, average score: -50.0
+Episode:, 514, score: -50.0, average score: -50.0
+Episode:, 515, score: -50.0, average score: -50.0
+Episode:, 516, score: -50.0, average score: -50.0
+Episode:, 517, score: -50.0, average score: -50.0
+Episode:, 518, score: -50.0, average score: -50.0
+Episode:, 519, score: -50.0, average score: -50.0
+Episode:, 520, score: -50.0, average score: -50.0
+Episode:, 521, score: -50.0, average score: -50.0
+Episode:, 522, score: -50.0, average score: -50.0
+Episode:, 523, score: -50.0, average score: -50.0
+Episode:, 524, score: -50.0, average score: -50.0
+Episode:, 525, score: -50.0, average score: -50.0
+Episode:, 526, score: -50.0, average score: -50.0
+Episode:, 527, score: -50.0, average score: -50.0
+Episode:, 528, score: -50.0, average score: -50.0
+Episode:, 529, score: -50.0, average score: -50.0
+Episode:, 530, score: -50.0, average score: -50.0
+Episode:, 531, score: -50.0, average score: -50.0
+Episode:, 532, score: -50.0, average score: -50.0
+Episode:, 533, score: -50.0, average score: -50.0
+Episode:, 534, score: -25.0, average score: -49.75
+Episode:, 535, score: -50.0, average score: -49.75
+Episode:, 536, score: -50.0, average score: -49.75
+Episode:, 537, score: -50.0, average score: -49.75
+Episode:, 538, score: -50.0, average score: -49.75
+Episode:, 539, score: -50.0, average score: -49.75
+Episode:, 540, score: -50.0, average score: -49.75
+Episode:, 541, score: -50.0, average score: -49.75
+Episode:, 542, score: -50.0, average score: -49.75
+Episode:, 543, score: -50.0, average score: -49.75
+Episode:, 544, score: -50.0, average score: -49.75
+Episode:, 545, score: -50.0, average score: -49.75
+Episode:, 546, score: -50.0, average score: -49.75
+Episode:, 547, score: -50.0, average score: -49.75
+Episode:, 548, score: -50.0, average score: -49.75
+Episode:, 549, score: -50.0, average score: -49.75
+Episode:, 550, score: -50.0, average score: -49.75
+Episode:, 551, score: -50.0, average score: -49.75
+Episode:, 552, score: -50.0, average score: -49.75
+Episode:, 553, score: -50.0, average score: -49.75
+Episode:, 554, score: -50.0, average score: -49.75
+Episode:, 555, score: -50.0, average score: -49.75
+Episode:, 556, score: -50.0, average score: -49.75
+Episode:, 557, score: -50.0, average score: -49.75
+Episode:, 558, score: -50.0, average score: -49.75
+Episode:, 559, score: -50.0, average score: -49.75
+Episode:, 560, score: -50.0, average score: -49.75
+Episode:, 561, score: -50.0, average score: -49.75
+Episode:, 562, score: -50.0, average score: -49.75
+Episode:, 563, score: -50.0, average score: -49.75
+Episode:, 564, score: -50.0, average score: -49.75
+Episode:, 565, score: -28.0, average score: -49.53
+Episode:, 566, score: -50.0, average score: -49.53
+Episode:, 567, score: -50.0, average score: -49.53
+Episode:, 568, score: -50.0, average score: -49.53
+Episode:, 569, score: -50.0, average score: -49.53
+Episode:, 570, score: -50.0, average score: -49.53
+Episode:, 571, score: -50.0, average score: -49.53
+Episode:, 572, score: -50.0, average score: -49.53
+Episode:, 573, score: -50.0, average score: -49.53
+Episode:, 574, score: -50.0, average score: -49.53
+Episode:, 575, score: -50.0, average score: -49.53
+Episode:, 576, score: -50.0, average score: -49.53
+Episode:, 577, score: -50.0, average score: -49.53
+Episode:, 578, score: -50.0, average score: -49.53
+Episode:, 579, score: -50.0, average score: -49.53
+Episode:, 580, score: -50.0, average score: -49.53
+Episode:, 581, score: -50.0, average score: -49.53
+Episode:, 582, score: -50.0, average score: -49.53
+Episode:, 583, score: -50.0, average score: -49.53
+Episode:, 584, score: -50.0, average score: -49.53
+Episode:, 585, score: -50.0, average score: -49.53
+Episode:, 586, score: -50.0, average score: -49.53
+Episode:, 587, score: -50.0, average score: -49.53
+Episode:, 588, score: -50.0, average score: -49.53
+Episode:, 589, score: -50.0, average score: -49.53
+Episode:, 590, score: -50.0, average score: -49.53
+Episode:, 591, score: -50.0, average score: -49.53
+Episode:, 592, score: -50.0, average score: -49.53
+Episode:, 593, score: -50.0, average score: -49.53
+Episode:, 594, score: -50.0, average score: -49.53
+Episode:, 595, score: -50.0, average score: -49.53
+Episode:, 596, score: -50.0, average score: -49.53
+Episode:, 597, score: -50.0, average score: -49.53
+Episode:, 598, score: -50.0, average score: -49.53
+Episode:, 599, score: -50.0, average score: -49.53
+Test Episode 51, score - -50.0
+Test Episode 52, score - -50.0
+Test Episode 53, score - -50.0
+Test Episode 54, score - -50.0
+Test Episode 55, score - -50.0
+Test Episode 56, score - -50.0
+Test Episode 57, score - -50.0
+Test Episode 58, score - -50.0
+Test Episode 59, score - -50.0
+Test Episode 60, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.55
+Episode:, 600, score: -50.0, average score: -49.53
+Episode:, 601, score: -50.0, average score: -49.53
+Episode:, 602, score: -50.0, average score: -49.53
+Episode:, 603, score: -50.0, average score: -49.53
+Episode:, 604, score: -50.0, average score: -49.53
+Episode:, 605, score: -50.0, average score: -49.53
+Episode:, 606, score: -50.0, average score: -49.53
+Episode:, 607, score: -50.0, average score: -49.53
+Episode:, 608, score: -50.0, average score: -49.53
+Episode:, 609, score: -50.0, average score: -49.53
+Episode:, 610, score: -50.0, average score: -49.53
+Episode:, 611, score: -50.0, average score: -49.53
+Episode:, 612, score: -50.0, average score: -49.53
+Episode:, 613, score: -50.0, average score: -49.53
+Episode:, 614, score: -50.0, average score: -49.53
+Episode:, 615, score: -50.0, average score: -49.53
+Episode:, 616, score: -50.0, average score: -49.53
+Episode:, 617, score: -50.0, average score: -49.53
+Episode:, 618, score: -50.0, average score: -49.53
+Episode:, 619, score: -50.0, average score: -49.53
+Episode:, 620, score: -50.0, average score: -49.53
+Episode:, 621, score: -50.0, average score: -49.53
+Episode:, 622, score: -50.0, average score: -49.53
+Episode:, 623, score: -50.0, average score: -49.53
+Episode:, 624, score: -21.0, average score: -49.24
+Episode:, 625, score: -50.0, average score: -49.24
+Episode:, 626, score: -50.0, average score: -49.24
+Episode:, 627, score: -50.0, average score: -49.24
+Episode:, 628, score: -50.0, average score: -49.24
+Episode:, 629, score: -50.0, average score: -49.24
+Episode:, 630, score: -50.0, average score: -49.24
+Episode:, 631, score: -50.0, average score: -49.24
+Episode:, 632, score: -50.0, average score: -49.24
+Episode:, 633, score: -50.0, average score: -49.24
+Episode:, 634, score: -50.0, average score: -49.49
+Episode:, 635, score: -50.0, average score: -49.49
+Episode:, 636, score: -32.0, average score: -49.31
+Episode:, 637, score: -50.0, average score: -49.31
+Episode:, 638, score: -50.0, average score: -49.31
+Episode:, 639, score: -50.0, average score: -49.31
+Episode:, 640, score: -50.0, average score: -49.31
+Episode:, 641, score: -50.0, average score: -49.31
+Episode:, 642, score: -50.0, average score: -49.31
+Episode:, 643, score: -50.0, average score: -49.31
+Episode:, 644, score: -50.0, average score: -49.31
+Episode:, 645, score: -50.0, average score: -49.31
+Episode:, 646, score: -50.0, average score: -49.31
+Episode:, 647, score: -50.0, average score: -49.31
+Episode:, 648, score: -50.0, average score: -49.31
+Episode:, 649, score: -50.0, average score: -49.31
+Episode:, 650, score: -50.0, average score: -49.31
+Episode:, 651, score: -50.0, average score: -49.31
+Episode:, 652, score: -50.0, average score: -49.31
+Episode:, 653, score: -50.0, average score: -49.31
+Episode:, 654, score: -50.0, average score: -49.31
+Episode:, 655, score: -50.0, average score: -49.31
+Episode:, 656, score: -50.0, average score: -49.31
+Episode:, 657, score: -50.0, average score: -49.31
+Episode:, 658, score: -50.0, average score: -49.31
+Episode:, 659, score: -50.0, average score: -49.31
+Episode:, 660, score: -50.0, average score: -49.31
+Episode:, 661, score: -50.0, average score: -49.31
+Episode:, 662, score: -50.0, average score: -49.31
+Episode:, 663, score: -50.0, average score: -49.31
+Episode:, 664, score: -50.0, average score: -49.31
+Episode:, 665, score: -50.0, average score: -49.53
+Episode:, 666, score: -50.0, average score: -49.53
+Episode:, 667, score: -35.0, average score: -49.38
+Episode:, 668, score: -50.0, average score: -49.38
+Episode:, 669, score: -50.0, average score: -49.38
+Episode:, 670, score: -50.0, average score: -49.38
+Episode:, 671, score: -50.0, average score: -49.38
+Episode:, 672, score: -50.0, average score: -49.38
+Episode:, 673, score: -50.0, average score: -49.38
+Episode:, 674, score: -50.0, average score: -49.38
+Episode:, 675, score: -50.0, average score: -49.38
+Episode:, 676, score: -50.0, average score: -49.38
+Episode:, 677, score: -50.0, average score: -49.38
+Episode:, 678, score: -50.0, average score: -49.38
+Episode:, 679, score: -50.0, average score: -49.38
+Episode:, 680, score: -50.0, average score: -49.38
+Episode:, 681, score: -50.0, average score: -49.38
+Episode:, 682, score: -50.0, average score: -49.38
+Episode:, 683, score: -50.0, average score: -49.38
+Episode:, 684, score: -14.0, average score: -49.02
+Episode:, 685, score: -50.0, average score: -49.02
+Episode:, 686, score: -50.0, average score: -49.02
+Episode:, 687, score: -50.0, average score: -49.02
+Episode:, 688, score: -50.0, average score: -49.02
+Episode:, 689, score: -50.0, average score: -49.02
+Episode:, 690, score: -50.0, average score: -49.02
+Episode:, 691, score: -50.0, average score: -49.02
+Episode:, 692, score: -50.0, average score: -49.02
+Episode:, 693, score: -50.0, average score: -49.02
+Episode:, 694, score: -50.0, average score: -49.02
+Episode:, 695, score: -50.0, average score: -49.02
+Episode:, 696, score: -50.0, average score: -49.02
+Episode:, 697, score: -50.0, average score: -49.02
+Episode:, 698, score: -50.0, average score: -49.02
+Episode:, 699, score: -50.0, average score: -49.02
+Test Episode 61, score - -50.0
+Test Episode 62, score - -50.0
+Test Episode 63, score - -50.0
+Test Episode 64, score - -50.0
+Test Episode 65, score - -50.0
+Test Episode 66, score - -50.0
+Test Episode 67, score - -50.0
+Test Episode 68, score - -50.0
+Test Episode 69, score - -50.0
+Test Episode 70, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.614285714285714
+Episode:, 700, score: -50.0, average score: -49.02
+Episode:, 701, score: -50.0, average score: -49.02
+Episode:, 702, score: -50.0, average score: -49.02
+Episode:, 703, score: -50.0, average score: -49.02
+Episode:, 704, score: -50.0, average score: -49.02
+Episode:, 705, score: -50.0, average score: -49.02
+Episode:, 706, score: -50.0, average score: -49.02
+Episode:, 707, score: -50.0, average score: -49.02
+Episode:, 708, score: -50.0, average score: -49.02
+Episode:, 709, score: -50.0, average score: -49.02
+Episode:, 710, score: -23.0, average score: -48.75
+Episode:, 711, score: -50.0, average score: -48.75
+Episode:, 712, score: -50.0, average score: -48.75
+Episode:, 713, score: -50.0, average score: -48.75
+Episode:, 714, score: -50.0, average score: -48.75
+Episode:, 715, score: -50.0, average score: -48.75
+Episode:, 716, score: -50.0, average score: -48.75
+Episode:, 717, score: -50.0, average score: -48.75
+Episode:, 718, score: -50.0, average score: -48.75
+Episode:, 719, score: -50.0, average score: -48.75
+Episode:, 720, score: -50.0, average score: -48.75
+Episode:, 721, score: -43.0, average score: -48.68
+Episode:, 722, score: -50.0, average score: -48.68
+Episode:, 723, score: -50.0, average score: -48.68
+Episode:, 724, score: -50.0, average score: -48.97
+Episode:, 725, score: -50.0, average score: -48.97
+Episode:, 726, score: -50.0, average score: -48.97
+Episode:, 727, score: -50.0, average score: -48.97
+Episode:, 728, score: -50.0, average score: -48.97
+Episode:, 729, score: -50.0, average score: -48.97
+Episode:, 730, score: -50.0, average score: -48.97
+Episode:, 731, score: -50.0, average score: -48.97
+Episode:, 732, score: -50.0, average score: -48.97
+Episode:, 733, score: -50.0, average score: -48.97
+Episode:, 734, score: -50.0, average score: -48.97
+Episode:, 735, score: -50.0, average score: -48.97
+Episode:, 736, score: -50.0, average score: -49.15
+Episode:, 737, score: -50.0, average score: -49.15
+Episode:, 738, score: -50.0, average score: -49.15
+Episode:, 739, score: -50.0, average score: -49.15
+Episode:, 740, score: -50.0, average score: -49.15
+Episode:, 741, score: -50.0, average score: -49.15
+Episode:, 742, score: -50.0, average score: -49.15
+Episode:, 743, score: -50.0, average score: -49.15
+Episode:, 744, score: -50.0, average score: -49.15
+Episode:, 745, score: -50.0, average score: -49.15
+Episode:, 746, score: -50.0, average score: -49.15
+Episode:, 747, score: -50.0, average score: -49.15
+Episode:, 748, score: -50.0, average score: -49.15
+Episode:, 749, score: -50.0, average score: -49.15
+Episode:, 750, score: -50.0, average score: -49.15
+Episode:, 751, score: -50.0, average score: -49.15
+Episode:, 752, score: -50.0, average score: -49.15
+Episode:, 753, score: -50.0, average score: -49.15
+Episode:, 754, score: -50.0, average score: -49.15
+Episode:, 755, score: -50.0, average score: -49.15
+Episode:, 756, score: -50.0, average score: -49.15
+Episode:, 757, score: -50.0, average score: -49.15
+Episode:, 758, score: -50.0, average score: -49.15
+Episode:, 759, score: -50.0, average score: -49.15
+Episode:, 760, score: -50.0, average score: -49.15
+Episode:, 761, score: -50.0, average score: -49.15
+Episode:, 762, score: -50.0, average score: -49.15
+Episode:, 763, score: -50.0, average score: -49.15
+Episode:, 764, score: -50.0, average score: -49.15
+Episode:, 765, score: -50.0, average score: -49.15
+Episode:, 766, score: -50.0, average score: -49.15
+Episode:, 767, score: -50.0, average score: -49.3
+Episode:, 768, score: -50.0, average score: -49.3
+Episode:, 769, score: -10.0, average score: -48.9
+Episode:, 770, score: -12.0, average score: -48.52
+Episode:, 771, score: -50.0, average score: -48.52
+Episode:, 772, score: -50.0, average score: -48.52
+Episode:, 773, score: -50.0, average score: -48.52
+Episode:, 774, score: -50.0, average score: -48.52
+Episode:, 775, score: -10.0, average score: -48.12
+Episode:, 776, score: -50.0, average score: -48.12
+Episode:, 777, score: -50.0, average score: -48.12
+Episode:, 778, score: -11.0, average score: -47.73
+Episode:, 779, score: -50.0, average score: -47.73
+Episode:, 780, score: -50.0, average score: -47.73
+Episode:, 781, score: -50.0, average score: -47.73
+Episode:, 782, score: -12.0, average score: -47.35
+Episode:, 783, score: -50.0, average score: -47.35
+Episode:, 784, score: -50.0, average score: -47.71
+Episode:, 785, score: -50.0, average score: -47.71
+Episode:, 786, score: -50.0, average score: -47.71
+Episode:, 787, score: -50.0, average score: -47.71
+Episode:, 788, score: -50.0, average score: -47.71
+Episode:, 789, score: -50.0, average score: -47.71
+Episode:, 790, score: -50.0, average score: -47.71
+Episode:, 791, score: -50.0, average score: -47.71
+Episode:, 792, score: -50.0, average score: -47.71
+Episode:, 793, score: -50.0, average score: -47.71
+Episode:, 794, score: -50.0, average score: -47.71
+Episode:, 795, score: -50.0, average score: -47.71
+Episode:, 796, score: -50.0, average score: -47.71
+Episode:, 797, score: -50.0, average score: -47.71
+Episode:, 798, score: -13.0, average score: -47.34
+Episode:, 799, score: -24.0, average score: -47.08
+Test Episode 71, score - -11.0
+Test Episode 72, score - -50.0
+Test Episode 73, score - -50.0
+Test Episode 74, score - -50.0
+Test Episode 75, score - -28.0
+Test Episode 76, score - -50.0
+Test Episode 77, score - -16.0
+Test Episode 78, score - -50.0
+Test Episode 79, score - -50.0
+Test Episode 80, score - -50.0
+Test 10 average score: -40.5
+Test 100 average score: -48.475
+Episode:, 800, score: -50.0, average score: -47.08
+Episode:, 801, score: -50.0, average score: -47.08
+Episode:, 802, score: -50.0, average score: -47.08
+Episode:, 803, score: -45.0, average score: -47.03
+Episode:, 804, score: -50.0, average score: -47.03
+Episode:, 805, score: -50.0, average score: -47.03
+Episode:, 806, score: -50.0, average score: -47.03
+Episode:, 807, score: -50.0, average score: -47.03
+Episode:, 808, score: -50.0, average score: -47.03
+Episode:, 809, score: -50.0, average score: -47.03
+Episode:, 810, score: -50.0, average score: -47.3
+Episode:, 811, score: -50.0, average score: -47.3
+Episode:, 812, score: -50.0, average score: -47.3
+Episode:, 813, score: -50.0, average score: -47.3
+Episode:, 814, score: -50.0, average score: -47.3
+Episode:, 815, score: -50.0, average score: -47.3
+Episode:, 816, score: -50.0, average score: -47.3
+Episode:, 817, score: -50.0, average score: -47.3
+Episode:, 818, score: -50.0, average score: -47.3
+Episode:, 819, score: -50.0, average score: -47.3
+Episode:, 820, score: -50.0, average score: -47.3
+Episode:, 821, score: -50.0, average score: -47.37
+Episode:, 822, score: -50.0, average score: -47.37
+Episode:, 823, score: -50.0, average score: -47.37
+Episode:, 824, score: -50.0, average score: -47.37
+Episode:, 825, score: -50.0, average score: -47.37
+Episode:, 826, score: -50.0, average score: -47.37
+Episode:, 827, score: -50.0, average score: -47.37
+Episode:, 828, score: -50.0, average score: -47.37
+Episode:, 829, score: -50.0, average score: -47.37
+Episode:, 830, score: -50.0, average score: -47.37
+Episode:, 831, score: -50.0, average score: -47.37
+Episode:, 832, score: -50.0, average score: -47.37
+Episode:, 833, score: -50.0, average score: -47.37
+Episode:, 834, score: -50.0, average score: -47.37
+Episode:, 835, score: -50.0, average score: -47.37
+Episode:, 836, score: -50.0, average score: -47.37
+Episode:, 837, score: -50.0, average score: -47.37
+Episode:, 838, score: -50.0, average score: -47.37
+Episode:, 839, score: -50.0, average score: -47.37
+Episode:, 840, score: -50.0, average score: -47.37
+Episode:, 841, score: -50.0, average score: -47.37
+Episode:, 842, score: -50.0, average score: -47.37
+Episode:, 843, score: -50.0, average score: -47.37
+Episode:, 844, score: -50.0, average score: -47.37
+Episode:, 845, score: -50.0, average score: -47.37
+Episode:, 846, score: -50.0, average score: -47.37
+Episode:, 847, score: -50.0, average score: -47.37
+Episode:, 848, score: -50.0, average score: -47.37
+Episode:, 849, score: -50.0, average score: -47.37
+Episode:, 850, score: -50.0, average score: -47.37
+Episode:, 851, score: -50.0, average score: -47.37
+Episode:, 852, score: -50.0, average score: -47.37
+Episode:, 853, score: -50.0, average score: -47.37
+Episode:, 854, score: -50.0, average score: -47.37
+Episode:, 855, score: -50.0, average score: -47.37
+Episode:, 856, score: -50.0, average score: -47.37
+Episode:, 857, score: -50.0, average score: -47.37
+Episode:, 858, score: -50.0, average score: -47.37
+Episode:, 859, score: -50.0, average score: -47.37
+Episode:, 860, score: -50.0, average score: -47.37
+Episode:, 861, score: -50.0, average score: -47.37
+Episode:, 862, score: -50.0, average score: -47.37
+Episode:, 863, score: -50.0, average score: -47.37
+Episode:, 864, score: -50.0, average score: -47.37
+Episode:, 865, score: -50.0, average score: -47.37
+Episode:, 866, score: -50.0, average score: -47.37
+Episode:, 867, score: -50.0, average score: -47.37
+Episode:, 868, score: -50.0, average score: -47.37
+Episode:, 869, score: -50.0, average score: -47.77
+Episode:, 870, score: -50.0, average score: -48.15
+Episode:, 871, score: -50.0, average score: -48.15
+Episode:, 872, score: -50.0, average score: -48.15
+Episode:, 873, score: -50.0, average score: -48.15
+Episode:, 874, score: -50.0, average score: -48.15
+Episode:, 875, score: -50.0, average score: -48.55
+Episode:, 876, score: -50.0, average score: -48.55
+Episode:, 877, score: -50.0, average score: -48.55
+Episode:, 878, score: -50.0, average score: -48.94
+Episode:, 879, score: -50.0, average score: -48.94
+Episode:, 880, score: -50.0, average score: -48.94
+Episode:, 881, score: -50.0, average score: -48.94
+Episode:, 882, score: -50.0, average score: -49.32
+Episode:, 883, score: -50.0, average score: -49.32
+Episode:, 884, score: -50.0, average score: -49.32
+Episode:, 885, score: -50.0, average score: -49.32
+Episode:, 886, score: -50.0, average score: -49.32
+Episode:, 887, score: -50.0, average score: -49.32
+Episode:, 888, score: -50.0, average score: -49.32
+Episode:, 889, score: -50.0, average score: -49.32
+Episode:, 890, score: -50.0, average score: -49.32
+Episode:, 891, score: -50.0, average score: -49.32
+Episode:, 892, score: -50.0, average score: -49.32
+Episode:, 893, score: -50.0, average score: -49.32
+Episode:, 894, score: -50.0, average score: -49.32
+Episode:, 895, score: -50.0, average score: -49.32
+Episode:, 896, score: -50.0, average score: -49.32
+Episode:, 897, score: -50.0, average score: -49.32
+Episode:, 898, score: -50.0, average score: -49.69
+Episode:, 899, score: -50.0, average score: -49.95
+Test Episode 81, score - -50.0
+Test Episode 82, score - -50.0
+Test Episode 83, score - -50.0
+Test Episode 84, score - -50.0
+Test Episode 85, score - -50.0
+Test Episode 86, score - -50.0
+Test Episode 87, score - -50.0
+Test Episode 88, score - -50.0
+Test Episode 89, score - -50.0
+Test Episode 90, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.644444444444446
+Episode:, 900, score: -50.0, average score: -49.95
+Episode:, 901, score: -50.0, average score: -49.95
+Episode:, 902, score: -50.0, average score: -49.95
+Episode:, 903, score: -50.0, average score: -50.0
+Episode:, 904, score: -50.0, average score: -50.0
+Episode:, 905, score: -50.0, average score: -50.0
+Episode:, 906, score: -50.0, average score: -50.0
+Episode:, 907, score: -50.0, average score: -50.0
+Episode:, 908, score: -50.0, average score: -50.0
+Episode:, 909, score: -50.0, average score: -50.0
+Episode:, 910, score: -50.0, average score: -50.0
+Episode:, 911, score: -50.0, average score: -50.0
+Episode:, 912, score: -50.0, average score: -50.0
+Episode:, 913, score: -50.0, average score: -50.0
+Episode:, 914, score: -50.0, average score: -50.0
+Episode:, 915, score: -50.0, average score: -50.0
+Episode:, 916, score: -50.0, average score: -50.0
+Episode:, 917, score: -50.0, average score: -50.0
+Episode:, 918, score: -50.0, average score: -50.0
+Episode:, 919, score: -50.0, average score: -50.0
+Episode:, 920, score: -50.0, average score: -50.0
+Episode:, 921, score: -50.0, average score: -50.0
+Episode:, 922, score: -50.0, average score: -50.0
+Episode:, 923, score: -50.0, average score: -50.0
+Episode:, 924, score: -50.0, average score: -50.0
+Episode:, 925, score: -50.0, average score: -50.0
+Episode:, 926, score: -50.0, average score: -50.0
+Episode:, 927, score: -50.0, average score: -50.0
+Episode:, 928, score: -50.0, average score: -50.0
+Episode:, 929, score: -50.0, average score: -50.0
+Episode:, 930, score: -50.0, average score: -50.0
+Episode:, 931, score: -50.0, average score: -50.0
+Episode:, 932, score: -50.0, average score: -50.0
+Episode:, 933, score: -50.0, average score: -50.0
+Episode:, 934, score: -50.0, average score: -50.0
+Episode:, 935, score: -50.0, average score: -50.0
+Episode:, 936, score: -50.0, average score: -50.0
+Episode:, 937, score: -50.0, average score: -50.0
+Episode:, 938, score: -50.0, average score: -50.0
+Episode:, 939, score: -50.0, average score: -50.0
+Episode:, 940, score: -50.0, average score: -50.0
+Episode:, 941, score: -50.0, average score: -50.0
+Episode:, 942, score: -50.0, average score: -50.0
+Episode:, 943, score: -50.0, average score: -50.0
+Episode:, 944, score: -50.0, average score: -50.0
+Episode:, 945, score: -50.0, average score: -50.0
+Episode:, 946, score: -50.0, average score: -50.0
+Episode:, 947, score: -50.0, average score: -50.0
+Episode:, 948, score: -50.0, average score: -50.0
+Episode:, 949, score: -50.0, average score: -50.0
+Episode:, 950, score: -50.0, average score: -50.0
+Episode:, 951, score: -50.0, average score: -50.0
+Episode:, 952, score: -50.0, average score: -50.0
+Episode:, 953, score: -50.0, average score: -50.0
+Episode:, 954, score: -50.0, average score: -50.0
+Episode:, 955, score: -50.0, average score: -50.0
+Episode:, 956, score: -50.0, average score: -50.0
+Episode:, 957, score: -50.0, average score: -50.0
+Episode:, 958, score: -50.0, average score: -50.0
+Episode:, 959, score: -50.0, average score: -50.0
+Episode:, 960, score: -50.0, average score: -50.0
+Episode:, 961, score: -50.0, average score: -50.0
+Episode:, 962, score: -50.0, average score: -50.0
+Episode:, 963, score: -50.0, average score: -50.0
+Episode:, 964, score: -50.0, average score: -50.0
+Episode:, 965, score: -50.0, average score: -50.0
+Episode:, 966, score: -50.0, average score: -50.0
+Episode:, 967, score: -50.0, average score: -50.0
+Episode:, 968, score: -50.0, average score: -50.0
+Episode:, 969, score: -50.0, average score: -50.0
+Episode:, 970, score: -50.0, average score: -50.0
+Episode:, 971, score: -50.0, average score: -50.0
+Episode:, 972, score: -50.0, average score: -50.0
+Episode:, 973, score: -50.0, average score: -50.0
+Episode:, 974, score: -50.0, average score: -50.0
+Episode:, 975, score: -50.0, average score: -50.0
+Episode:, 976, score: -50.0, average score: -50.0
+Episode:, 977, score: -50.0, average score: -50.0
+Episode:, 978, score: -50.0, average score: -50.0
+Episode:, 979, score: -50.0, average score: -50.0
+Episode:, 980, score: -50.0, average score: -50.0
+Episode:, 981, score: -50.0, average score: -50.0
+Episode:, 982, score: -50.0, average score: -50.0
+Episode:, 983, score: -50.0, average score: -50.0
+Episode:, 984, score: -50.0, average score: -50.0
+Episode:, 985, score: -50.0, average score: -50.0
+Episode:, 986, score: -50.0, average score: -50.0
+Episode:, 987, score: -50.0, average score: -50.0
+Episode:, 988, score: -50.0, average score: -50.0
+Episode:, 989, score: -50.0, average score: -50.0
+Episode:, 990, score: -50.0, average score: -50.0
+Episode:, 991, score: -50.0, average score: -50.0
+Episode:, 992, score: -50.0, average score: -50.0
+Episode:, 993, score: -50.0, average score: -50.0
+Episode:, 994, score: -50.0, average score: -50.0
+Episode:, 995, score: -50.0, average score: -50.0
+Episode:, 996, score: -50.0, average score: -50.0
+Episode:, 997, score: -50.0, average score: -50.0
+Episode:, 998, score: -50.0, average score: -50.0
+Episode:, 999, score: -50.0, average score: -50.0
+Test Episode 91, score - -11.0
+Test Episode 92, score - -50.0
+Test Episode 93, score - -50.0
+Test Episode 94, score - -50.0
+Test Episode 95, score - -50.0
+Test Episode 96, score - -50.0
+Test Episode 97, score - -50.0
+Test Episode 98, score - -50.0
+Test Episode 99, score - -50.0
+Test Episode 100, score - -50.0
+Test 10 average score: -46.1
+Test 100 average score: -48.39
+Episode:, 1000, score: -50.0, average score: -50.0
+Episode:, 1001, score: -50.0, average score: -50.0
+Episode:, 1002, score: -50.0, average score: -50.0
+Episode:, 1003, score: -50.0, average score: -50.0
+Episode:, 1004, score: -50.0, average score: -50.0
+Episode:, 1005, score: -50.0, average score: -50.0
+Episode:, 1006, score: -50.0, average score: -50.0
+Episode:, 1007, score: -50.0, average score: -50.0
+Episode:, 1008, score: -50.0, average score: -50.0
+Episode:, 1009, score: -50.0, average score: -50.0
+Episode:, 1010, score: -50.0, average score: -50.0
+Episode:, 1011, score: -50.0, average score: -50.0
+Episode:, 1012, score: -50.0, average score: -50.0
+Episode:, 1013, score: -50.0, average score: -50.0
+Episode:, 1014, score: -28.0, average score: -49.78
+Episode:, 1015, score: -50.0, average score: -49.78
+Episode:, 1016, score: -50.0, average score: -49.78
+Episode:, 1017, score: -50.0, average score: -49.78
+Episode:, 1018, score: -50.0, average score: -49.78
+Episode:, 1019, score: -50.0, average score: -49.78
+Episode:, 1020, score: -50.0, average score: -49.78
+Episode:, 1021, score: -50.0, average score: -49.78
+Episode:, 1022, score: -50.0, average score: -49.78
+Episode:, 1023, score: -50.0, average score: -49.78
+Episode:, 1024, score: -50.0, average score: -49.78
+Episode:, 1025, score: -50.0, average score: -49.78
+Episode:, 1026, score: -50.0, average score: -49.78
+Episode:, 1027, score: -50.0, average score: -49.78
+Episode:, 1028, score: -50.0, average score: -49.78
+Episode:, 1029, score: -50.0, average score: -49.78
+Episode:, 1030, score: -50.0, average score: -49.78
+Episode:, 1031, score: -50.0, average score: -49.78
+Episode:, 1032, score: -50.0, average score: -49.78
+Episode:, 1033, score: -50.0, average score: -49.78
+Episode:, 1034, score: -50.0, average score: -49.78
+Episode:, 1035, score: -50.0, average score: -49.78
+Episode:, 1036, score: -50.0, average score: -49.78
+Episode:, 1037, score: -50.0, average score: -49.78
+Episode:, 1038, score: -50.0, average score: -49.78
+Episode:, 1039, score: -50.0, average score: -49.78
+Episode:, 1040, score: -50.0, average score: -49.78
+Episode:, 1041, score: -50.0, average score: -49.78
+Episode:, 1042, score: -50.0, average score: -49.78
+Episode:, 1043, score: -50.0, average score: -49.78
+Episode:, 1044, score: -50.0, average score: -49.78
+Episode:, 1045, score: -50.0, average score: -49.78
+Episode:, 1046, score: -50.0, average score: -49.78
+Episode:, 1047, score: -50.0, average score: -49.78
+Episode:, 1048, score: -50.0, average score: -49.78
+Episode:, 1049, score: -50.0, average score: -49.78
+Episode:, 1050, score: -50.0, average score: -49.78
+Episode:, 1051, score: -50.0, average score: -49.78
+Episode:, 1052, score: -50.0, average score: -49.78
+Episode:, 1053, score: -50.0, average score: -49.78
+Episode:, 1054, score: -50.0, average score: -49.78
+Episode:, 1055, score: -50.0, average score: -49.78
+Episode:, 1056, score: -50.0, average score: -49.78
+Episode:, 1057, score: -50.0, average score: -49.78
+Episode:, 1058, score: -50.0, average score: -49.78
+Episode:, 1059, score: -50.0, average score: -49.78
+Episode:, 1060, score: -50.0, average score: -49.78
+Episode:, 1061, score: -50.0, average score: -49.78
+Episode:, 1062, score: -50.0, average score: -49.78
+Episode:, 1063, score: -50.0, average score: -49.78
+Episode:, 1064, score: -50.0, average score: -49.78
+Episode:, 1065, score: -50.0, average score: -49.78
+Episode:, 1066, score: -50.0, average score: -49.78
+Episode:, 1067, score: -50.0, average score: -49.78
+Episode:, 1068, score: -50.0, average score: -49.78
+Episode:, 1069, score: -50.0, average score: -49.78
+Episode:, 1070, score: -50.0, average score: -49.78
+Episode:, 1071, score: -50.0, average score: -49.78
+Episode:, 1072, score: -50.0, average score: -49.78
+Episode:, 1073, score: -13.0, average score: -49.41
+Episode:, 1074, score: -50.0, average score: -49.41
+Episode:, 1075, score: -50.0, average score: -49.41
+Episode:, 1076, score: -50.0, average score: -49.41
+Episode:, 1077, score: -50.0, average score: -49.41
+Episode:, 1078, score: -50.0, average score: -49.41
+Episode:, 1079, score: -50.0, average score: -49.41
+Episode:, 1080, score: -50.0, average score: -49.41
+Episode:, 1081, score: -50.0, average score: -49.41
+Episode:, 1082, score: -50.0, average score: -49.41
+Episode:, 1083, score: -50.0, average score: -49.41
+Episode:, 1084, score: -50.0, average score: -49.41
+Episode:, 1085, score: -50.0, average score: -49.41
+Episode:, 1086, score: -50.0, average score: -49.41
+Episode:, 1087, score: -50.0, average score: -49.41
+Episode:, 1088, score: -50.0, average score: -49.41
+Episode:, 1089, score: -50.0, average score: -49.41
+Episode:, 1090, score: -50.0, average score: -49.41
+Episode:, 1091, score: -50.0, average score: -49.41
+Episode:, 1092, score: -50.0, average score: -49.41
+Episode:, 1093, score: -50.0, average score: -49.41
+Episode:, 1094, score: -50.0, average score: -49.41
+Episode:, 1095, score: -50.0, average score: -49.41
+Episode:, 1096, score: -50.0, average score: -49.41
+Episode:, 1097, score: -50.0, average score: -49.41
+Episode:, 1098, score: -50.0, average score: -49.41
+Episode:, 1099, score: -50.0, average score: -49.41
+Test Episode 101, score - -50.0
+Test Episode 102, score - -50.0
+Test Episode 103, score - -50.0
+Test Episode 104, score - -50.0
+Test Episode 105, score - -50.0
+Test Episode 106, score - -50.0
+Test Episode 107, score - -50.0
+Test Episode 108, score - -50.0
+Test Episode 109, score - -50.0
+Test Episode 110, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.39
+Episode:, 1100, score: -50.0, average score: -49.41
+Episode:, 1101, score: -50.0, average score: -49.41
+Episode:, 1102, score: -50.0, average score: -49.41
+Episode:, 1103, score: -50.0, average score: -49.41
+Episode:, 1104, score: -50.0, average score: -49.41
+Episode:, 1105, score: -50.0, average score: -49.41
+Episode:, 1106, score: -50.0, average score: -49.41
+Episode:, 1107, score: -50.0, average score: -49.41
+Episode:, 1108, score: -50.0, average score: -49.41
+Episode:, 1109, score: -50.0, average score: -49.41
+Episode:, 1110, score: -50.0, average score: -49.41
+Episode:, 1111, score: -50.0, average score: -49.41
+Episode:, 1112, score: -50.0, average score: -49.41
+Episode:, 1113, score: -50.0, average score: -49.41
+Episode:, 1114, score: -50.0, average score: -49.63
+Episode:, 1115, score: -50.0, average score: -49.63
+Episode:, 1116, score: -50.0, average score: -49.63
+Episode:, 1117, score: -50.0, average score: -49.63
+Episode:, 1118, score: -50.0, average score: -49.63
+Episode:, 1119, score: -50.0, average score: -49.63
+Episode:, 1120, score: -50.0, average score: -49.63
+Episode:, 1121, score: -50.0, average score: -49.63
+Episode:, 1122, score: -50.0, average score: -49.63
+Episode:, 1123, score: -50.0, average score: -49.63
+Episode:, 1124, score: -50.0, average score: -49.63
+Episode:, 1125, score: -50.0, average score: -49.63
+Episode:, 1126, score: -50.0, average score: -49.63
+Episode:, 1127, score: -50.0, average score: -49.63
+Episode:, 1128, score: -50.0, average score: -49.63
+Episode:, 1129, score: -50.0, average score: -49.63
+Episode:, 1130, score: -50.0, average score: -49.63
+Episode:, 1131, score: -50.0, average score: -49.63
+Episode:, 1132, score: -50.0, average score: -49.63
+Episode:, 1133, score: -50.0, average score: -49.63
+Episode:, 1134, score: -50.0, average score: -49.63
+Episode:, 1135, score: -50.0, average score: -49.63
+Episode:, 1136, score: -50.0, average score: -49.63
+Episode:, 1137, score: -50.0, average score: -49.63
+Episode:, 1138, score: -50.0, average score: -49.63
+Episode:, 1139, score: -50.0, average score: -49.63
+Episode:, 1140, score: -50.0, average score: -49.63
+Episode:, 1141, score: -50.0, average score: -49.63
+Episode:, 1142, score: -50.0, average score: -49.63
+Episode:, 1143, score: -50.0, average score: -49.63
+Episode:, 1144, score: -50.0, average score: -49.63
+Episode:, 1145, score: -50.0, average score: -49.63
+Episode:, 1146, score: -50.0, average score: -49.63
+Episode:, 1147, score: -50.0, average score: -49.63
+Episode:, 1148, score: -50.0, average score: -49.63
+Episode:, 1149, score: -50.0, average score: -49.63
+Episode:, 1150, score: -50.0, average score: -49.63
+Episode:, 1151, score: -50.0, average score: -49.63
+Episode:, 1152, score: -50.0, average score: -49.63
+Episode:, 1153, score: -50.0, average score: -49.63
+Episode:, 1154, score: -50.0, average score: -49.63
+Episode:, 1155, score: -50.0, average score: -49.63
+Episode:, 1156, score: -50.0, average score: -49.63
+Episode:, 1157, score: -50.0, average score: -49.63
+Episode:, 1158, score: -50.0, average score: -49.63
+Episode:, 1159, score: -50.0, average score: -49.63
+Episode:, 1160, score: -50.0, average score: -49.63
+Episode:, 1161, score: -50.0, average score: -49.63
+Episode:, 1162, score: -50.0, average score: -49.63
+Episode:, 1163, score: -50.0, average score: -49.63
+Episode:, 1164, score: -50.0, average score: -49.63
+Episode:, 1165, score: -50.0, average score: -49.63
+Episode:, 1166, score: -50.0, average score: -49.63
+Episode:, 1167, score: -50.0, average score: -49.63
+Episode:, 1168, score: -50.0, average score: -49.63
+Episode:, 1169, score: -50.0, average score: -49.63
+Episode:, 1170, score: -50.0, average score: -49.63
+Episode:, 1171, score: -50.0, average score: -49.63
+Episode:, 1172, score: -50.0, average score: -49.63
+Episode:, 1173, score: -50.0, average score: -50.0
+Episode:, 1174, score: -50.0, average score: -50.0
+Episode:, 1175, score: -50.0, average score: -50.0
+Episode:, 1176, score: -50.0, average score: -50.0
+Episode:, 1177, score: -50.0, average score: -50.0
+Episode:, 1178, score: -50.0, average score: -50.0
+Episode:, 1179, score: -50.0, average score: -50.0
+Episode:, 1180, score: -50.0, average score: -50.0
+Episode:, 1181, score: -50.0, average score: -50.0
+Episode:, 1182, score: -50.0, average score: -50.0
+Episode:, 1183, score: -50.0, average score: -50.0
+Episode:, 1184, score: -50.0, average score: -50.0
+Episode:, 1185, score: -50.0, average score: -50.0
+Episode:, 1186, score: -50.0, average score: -50.0
+Episode:, 1187, score: -50.0, average score: -50.0
+Episode:, 1188, score: -50.0, average score: -50.0
+Episode:, 1189, score: -50.0, average score: -50.0
+Episode:, 1190, score: -50.0, average score: -50.0
+Episode:, 1191, score: -50.0, average score: -50.0
+Episode:, 1192, score: -50.0, average score: -50.0
+Episode:, 1193, score: -50.0, average score: -50.0
+Episode:, 1194, score: -50.0, average score: -50.0
+Episode:, 1195, score: -50.0, average score: -50.0
+Episode:, 1196, score: -50.0, average score: -50.0
+Episode:, 1197, score: -50.0, average score: -50.0
+Episode:, 1198, score: -50.0, average score: -50.0
+Episode:, 1199, score: -50.0, average score: -50.0
+Test Episode 111, score - -50.0
+Test Episode 112, score - -50.0
+Test Episode 113, score - -50.0
+Test Episode 114, score - -50.0
+Test Episode 115, score - -50.0
+Test Episode 116, score - -50.0
+Test Episode 117, score - -50.0
+Test Episode 118, score - -50.0
+Test Episode 119, score - -50.0
+Test Episode 120, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.66
+Episode:, 1200, score: -50.0, average score: -50.0
+Episode:, 1201, score: -50.0, average score: -50.0
+Episode:, 1202, score: -50.0, average score: -50.0
+Episode:, 1203, score: -50.0, average score: -50.0
+Episode:, 1204, score: -50.0, average score: -50.0
+Episode:, 1205, score: -50.0, average score: -50.0
+Episode:, 1206, score: -50.0, average score: -50.0
+Episode:, 1207, score: -50.0, average score: -50.0
+Episode:, 1208, score: -50.0, average score: -50.0
+Episode:, 1209, score: -50.0, average score: -50.0
+Episode:, 1210, score: -50.0, average score: -50.0
+Episode:, 1211, score: -50.0, average score: -50.0
+Episode:, 1212, score: -50.0, average score: -50.0
+Episode:, 1213, score: -50.0, average score: -50.0
+Episode:, 1214, score: -50.0, average score: -50.0
+Episode:, 1215, score: -50.0, average score: -50.0
+Episode:, 1216, score: -50.0, average score: -50.0
+Episode:, 1217, score: -50.0, average score: -50.0
+Episode:, 1218, score: -50.0, average score: -50.0
+Episode:, 1219, score: -50.0, average score: -50.0
+Episode:, 1220, score: -50.0, average score: -50.0
+Episode:, 1221, score: -50.0, average score: -50.0
+Episode:, 1222, score: -50.0, average score: -50.0
+Episode:, 1223, score: -50.0, average score: -50.0
+Episode:, 1224, score: -50.0, average score: -50.0
+Episode:, 1225, score: -50.0, average score: -50.0
+Episode:, 1226, score: -50.0, average score: -50.0
+Episode:, 1227, score: -50.0, average score: -50.0
+Episode:, 1228, score: -50.0, average score: -50.0
+Episode:, 1229, score: -50.0, average score: -50.0
+Episode:, 1230, score: -50.0, average score: -50.0
+Episode:, 1231, score: -50.0, average score: -50.0
+Episode:, 1232, score: -50.0, average score: -50.0
+Episode:, 1233, score: -50.0, average score: -50.0
+Episode:, 1234, score: -50.0, average score: -50.0
+Episode:, 1235, score: -50.0, average score: -50.0
+Episode:, 1236, score: -50.0, average score: -50.0
+Episode:, 1237, score: -50.0, average score: -50.0
+Episode:, 1238, score: -50.0, average score: -50.0
+Episode:, 1239, score: -50.0, average score: -50.0
+Episode:, 1240, score: -50.0, average score: -50.0
+Episode:, 1241, score: -50.0, average score: -50.0
+Episode:, 1242, score: -50.0, average score: -50.0
+Episode:, 1243, score: -50.0, average score: -50.0
+Episode:, 1244, score: -50.0, average score: -50.0
+Episode:, 1245, score: -50.0, average score: -50.0
+Episode:, 1246, score: -50.0, average score: -50.0
+Episode:, 1247, score: -50.0, average score: -50.0
+Episode:, 1248, score: -50.0, average score: -50.0
+Episode:, 1249, score: -50.0, average score: -50.0
+Episode:, 1250, score: -50.0, average score: -50.0
+Episode:, 1251, score: -50.0, average score: -50.0
+Episode:, 1252, score: -50.0, average score: -50.0
+Episode:, 1253, score: -50.0, average score: -50.0
+Episode:, 1254, score: -50.0, average score: -50.0
+Episode:, 1255, score: -50.0, average score: -50.0
+Episode:, 1256, score: -50.0, average score: -50.0
+Episode:, 1257, score: -50.0, average score: -50.0
+Episode:, 1258, score: -50.0, average score: -50.0
+Episode:, 1259, score: -50.0, average score: -50.0
+Episode:, 1260, score: -50.0, average score: -50.0
+Episode:, 1261, score: -50.0, average score: -50.0
+Episode:, 1262, score: -50.0, average score: -50.0
+Episode:, 1263, score: -50.0, average score: -50.0
+Episode:, 1264, score: -50.0, average score: -50.0
+Episode:, 1265, score: -50.0, average score: -50.0
+Episode:, 1266, score: -50.0, average score: -50.0
+Episode:, 1267, score: -50.0, average score: -50.0
+Episode:, 1268, score: -50.0, average score: -50.0
+Episode:, 1269, score: -50.0, average score: -50.0
+Episode:, 1270, score: -50.0, average score: -50.0
+Episode:, 1271, score: -50.0, average score: -50.0
+Episode:, 1272, score: -50.0, average score: -50.0
+Episode:, 1273, score: -50.0, average score: -50.0
+Episode:, 1274, score: -50.0, average score: -50.0
+Episode:, 1275, score: -50.0, average score: -50.0
+Episode:, 1276, score: -50.0, average score: -50.0
+Episode:, 1277, score: -50.0, average score: -50.0
+Episode:, 1278, score: -50.0, average score: -50.0
+Episode:, 1279, score: -50.0, average score: -50.0
+Episode:, 1280, score: -50.0, average score: -50.0
+Episode:, 1281, score: -50.0, average score: -50.0
+Episode:, 1282, score: -50.0, average score: -50.0
+Episode:, 1283, score: -50.0, average score: -50.0
+Episode:, 1284, score: -50.0, average score: -50.0
+Episode:, 1285, score: -50.0, average score: -50.0
+Episode:, 1286, score: -50.0, average score: -50.0
+Episode:, 1287, score: -50.0, average score: -50.0
+Episode:, 1288, score: -50.0, average score: -50.0
+Episode:, 1289, score: -50.0, average score: -50.0
+Episode:, 1290, score: -50.0, average score: -50.0
+Episode:, 1291, score: -50.0, average score: -50.0
+Episode:, 1292, score: -50.0, average score: -50.0
+Episode:, 1293, score: -50.0, average score: -50.0
+Episode:, 1294, score: -50.0, average score: -50.0
+Episode:, 1295, score: -50.0, average score: -50.0
+Episode:, 1296, score: -50.0, average score: -50.0
+Episode:, 1297, score: -50.0, average score: -50.0
+Episode:, 1298, score: -50.0, average score: -50.0
+Episode:, 1299, score: -50.0, average score: -50.0
+Test Episode 121, score - -50.0
+Test Episode 122, score - -50.0
+Test Episode 123, score - -50.0
+Test Episode 124, score - -50.0
+Test Episode 125, score - -50.0
+Test Episode 126, score - -50.0
+Test Episode 127, score - -50.0
+Test Episode 128, score - -50.0
+Test Episode 129, score - -50.0
+Test Episode 130, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.66
+Episode:, 1300, score: -50.0, average score: -50.0
+Episode:, 1301, score: -50.0, average score: -50.0
+Episode:, 1302, score: -50.0, average score: -50.0
+Episode:, 1303, score: -50.0, average score: -50.0
+Episode:, 1304, score: -50.0, average score: -50.0
+Episode:, 1305, score: -50.0, average score: -50.0
+Episode:, 1306, score: -50.0, average score: -50.0
+Episode:, 1307, score: -50.0, average score: -50.0
+Episode:, 1308, score: -50.0, average score: -50.0
+Episode:, 1309, score: -50.0, average score: -50.0
+Episode:, 1310, score: -50.0, average score: -50.0
+Episode:, 1311, score: -50.0, average score: -50.0
+Episode:, 1312, score: -50.0, average score: -50.0
+Episode:, 1313, score: -50.0, average score: -50.0
+Episode:, 1314, score: -50.0, average score: -50.0
+Episode:, 1315, score: -50.0, average score: -50.0
+Episode:, 1316, score: -50.0, average score: -50.0
+Episode:, 1317, score: -50.0, average score: -50.0
+Episode:, 1318, score: -50.0, average score: -50.0
+Episode:, 1319, score: -50.0, average score: -50.0
+Episode:, 1320, score: -50.0, average score: -50.0
+Episode:, 1321, score: -50.0, average score: -50.0
+Episode:, 1322, score: -50.0, average score: -50.0
+Episode:, 1323, score: -50.0, average score: -50.0
+Episode:, 1324, score: -50.0, average score: -50.0
+Episode:, 1325, score: -50.0, average score: -50.0
+Episode:, 1326, score: -50.0, average score: -50.0
+Episode:, 1327, score: -50.0, average score: -50.0
+Episode:, 1328, score: -50.0, average score: -50.0
+Episode:, 1329, score: -50.0, average score: -50.0
+Episode:, 1330, score: -50.0, average score: -50.0
+Episode:, 1331, score: -50.0, average score: -50.0
+Episode:, 1332, score: -50.0, average score: -50.0
+Episode:, 1333, score: -50.0, average score: -50.0
+Episode:, 1334, score: -50.0, average score: -50.0
+Episode:, 1335, score: -50.0, average score: -50.0
+Episode:, 1336, score: -50.0, average score: -50.0
+Episode:, 1337, score: -50.0, average score: -50.0
+Episode:, 1338, score: -50.0, average score: -50.0
+Episode:, 1339, score: -50.0, average score: -50.0
+Episode:, 1340, score: -50.0, average score: -50.0
+Episode:, 1341, score: -50.0, average score: -50.0
+Episode:, 1342, score: -50.0, average score: -50.0
+Episode:, 1343, score: -50.0, average score: -50.0
+Episode:, 1344, score: -50.0, average score: -50.0
+Episode:, 1345, score: -50.0, average score: -50.0
+Episode:, 1346, score: -50.0, average score: -50.0
+Episode:, 1347, score: -50.0, average score: -50.0
+Episode:, 1348, score: -50.0, average score: -50.0
+Episode:, 1349, score: -50.0, average score: -50.0
+Episode:, 1350, score: -50.0, average score: -50.0
+Episode:, 1351, score: -50.0, average score: -50.0
+Episode:, 1352, score: -50.0, average score: -50.0
+Episode:, 1353, score: -50.0, average score: -50.0
+Episode:, 1354, score: -50.0, average score: -50.0
+Episode:, 1355, score: -50.0, average score: -50.0
+Episode:, 1356, score: -50.0, average score: -50.0
+Episode:, 1357, score: -50.0, average score: -50.0
+Episode:, 1358, score: -50.0, average score: -50.0
+Episode:, 1359, score: -50.0, average score: -50.0
+Episode:, 1360, score: -50.0, average score: -50.0
+Episode:, 1361, score: -50.0, average score: -50.0
+Episode:, 1362, score: -50.0, average score: -50.0
+Episode:, 1363, score: -50.0, average score: -50.0
+Episode:, 1364, score: -50.0, average score: -50.0
+Episode:, 1365, score: -50.0, average score: -50.0
+Episode:, 1366, score: -50.0, average score: -50.0
+Episode:, 1367, score: -12.0, average score: -49.62
+Episode:, 1368, score: -50.0, average score: -49.62
+Episode:, 1369, score: -50.0, average score: -49.62
+Episode:, 1370, score: -50.0, average score: -49.62
+Episode:, 1371, score: -50.0, average score: -49.62
+Episode:, 1372, score: -50.0, average score: -49.62
+Episode:, 1373, score: -50.0, average score: -49.62
+Episode:, 1374, score: -50.0, average score: -49.62
+Episode:, 1375, score: -50.0, average score: -49.62
+Episode:, 1376, score: -50.0, average score: -49.62
+Episode:, 1377, score: -16.0, average score: -49.28
+Episode:, 1378, score: -50.0, average score: -49.28
+Episode:, 1379, score: -50.0, average score: -49.28
+Episode:, 1380, score: -50.0, average score: -49.28
+Episode:, 1381, score: -50.0, average score: -49.28
+Episode:, 1382, score: -50.0, average score: -49.28
+Episode:, 1383, score: -50.0, average score: -49.28
+Episode:, 1384, score: -50.0, average score: -49.28
+Episode:, 1385, score: -50.0, average score: -49.28
+Episode:, 1386, score: -50.0, average score: -49.28
+Episode:, 1387, score: -50.0, average score: -49.28
+Episode:, 1388, score: -50.0, average score: -49.28
+Episode:, 1389, score: -50.0, average score: -49.28
+Episode:, 1390, score: -50.0, average score: -49.28
+Episode:, 1391, score: -50.0, average score: -49.28
+Episode:, 1392, score: -50.0, average score: -49.28
+Episode:, 1393, score: -50.0, average score: -49.28
+Episode:, 1394, score: -50.0, average score: -49.28
+Episode:, 1395, score: -50.0, average score: -49.28
+Episode:, 1396, score: -50.0, average score: -49.28
+Episode:, 1397, score: -50.0, average score: -49.28
+Episode:, 1398, score: -50.0, average score: -49.28
+Episode:, 1399, score: -50.0, average score: -49.28
+Test Episode 131, score - -50.0
+Test Episode 132, score - -50.0
+Test Episode 133, score - -50.0
+Test Episode 134, score - -50.0
+Test Episode 135, score - -50.0
+Test Episode 136, score - -50.0
+Test Episode 137, score - -50.0
+Test Episode 138, score - -50.0
+Test Episode 139, score - -50.0
+Test Episode 140, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.66
+Episode:, 1400, score: -50.0, average score: -49.28
+Episode:, 1401, score: -50.0, average score: -49.28
+Episode:, 1402, score: -50.0, average score: -49.28
+Episode:, 1403, score: -50.0, average score: -49.28
+Episode:, 1404, score: -50.0, average score: -49.28
+Episode:, 1405, score: -50.0, average score: -49.28
+Episode:, 1406, score: -50.0, average score: -49.28
+Episode:, 1407, score: -50.0, average score: -49.28
+Episode:, 1408, score: -50.0, average score: -49.28
+Episode:, 1409, score: -50.0, average score: -49.28
+Episode:, 1410, score: -50.0, average score: -49.28
+Episode:, 1411, score: -50.0, average score: -49.28
+Episode:, 1412, score: -50.0, average score: -49.28
+Episode:, 1413, score: -50.0, average score: -49.28
+Episode:, 1414, score: -50.0, average score: -49.28
+Episode:, 1415, score: -50.0, average score: -49.28
+Episode:, 1416, score: -50.0, average score: -49.28
+Episode:, 1417, score: -50.0, average score: -49.28
+Episode:, 1418, score: -50.0, average score: -49.28
+Episode:, 1419, score: -50.0, average score: -49.28
+Episode:, 1420, score: -50.0, average score: -49.28
+Episode:, 1421, score: -50.0, average score: -49.28
+Episode:, 1422, score: -50.0, average score: -49.28
+Episode:, 1423, score: -50.0, average score: -49.28
+Episode:, 1424, score: -50.0, average score: -49.28
+Episode:, 1425, score: -50.0, average score: -49.28
+Episode:, 1426, score: -50.0, average score: -49.28
+Episode:, 1427, score: -50.0, average score: -49.28
+Episode:, 1428, score: -50.0, average score: -49.28
+Episode:, 1429, score: -50.0, average score: -49.28
+Episode:, 1430, score: -50.0, average score: -49.28
+Episode:, 1431, score: -50.0, average score: -49.28
+Episode:, 1432, score: -50.0, average score: -49.28
+Episode:, 1433, score: -50.0, average score: -49.28
+Episode:, 1434, score: -50.0, average score: -49.28
+Episode:, 1435, score: -50.0, average score: -49.28
+Episode:, 1436, score: -50.0, average score: -49.28
+Episode:, 1437, score: -50.0, average score: -49.28
+Episode:, 1438, score: -50.0, average score: -49.28
+Episode:, 1439, score: -50.0, average score: -49.28
+Episode:, 1440, score: -50.0, average score: -49.28
+Episode:, 1441, score: -50.0, average score: -49.28
+Episode:, 1442, score: -50.0, average score: -49.28
+Episode:, 1443, score: -50.0, average score: -49.28
+Episode:, 1444, score: -50.0, average score: -49.28
+Episode:, 1445, score: -50.0, average score: -49.28
+Episode:, 1446, score: -50.0, average score: -49.28
+Episode:, 1447, score: -50.0, average score: -49.28
+Episode:, 1448, score: -50.0, average score: -49.28
+Episode:, 1449, score: -50.0, average score: -49.28
+Episode:, 1450, score: -50.0, average score: -49.28
+Episode:, 1451, score: -50.0, average score: -49.28
+Episode:, 1452, score: -50.0, average score: -49.28
+Episode:, 1453, score: -50.0, average score: -49.28
+Episode:, 1454, score: -50.0, average score: -49.28
+Episode:, 1455, score: -50.0, average score: -49.28
+Episode:, 1456, score: -50.0, average score: -49.28
+Episode:, 1457, score: -50.0, average score: -49.28
+Episode:, 1458, score: -50.0, average score: -49.28
+Episode:, 1459, score: -50.0, average score: -49.28
+Episode:, 1460, score: -50.0, average score: -49.28
+Episode:, 1461, score: -50.0, average score: -49.28
+Episode:, 1462, score: -50.0, average score: -49.28
+Episode:, 1463, score: -50.0, average score: -49.28
+Episode:, 1464, score: -50.0, average score: -49.28
+Episode:, 1465, score: -50.0, average score: -49.28
+Episode:, 1466, score: -50.0, average score: -49.28
+Episode:, 1467, score: -50.0, average score: -49.66
+Episode:, 1468, score: -50.0, average score: -49.66
+Episode:, 1469, score: -50.0, average score: -49.66
+Episode:, 1470, score: -50.0, average score: -49.66
+Episode:, 1471, score: -50.0, average score: -49.66
+Episode:, 1472, score: -50.0, average score: -49.66
+Episode:, 1473, score: -50.0, average score: -49.66
+Episode:, 1474, score: -50.0, average score: -49.66
+Episode:, 1475, score: -50.0, average score: -49.66
+Episode:, 1476, score: -50.0, average score: -49.66
+Episode:, 1477, score: -50.0, average score: -50.0
+Episode:, 1478, score: -50.0, average score: -50.0
+Episode:, 1479, score: -50.0, average score: -50.0
+Episode:, 1480, score: -50.0, average score: -50.0
+Episode:, 1481, score: -50.0, average score: -50.0
+Episode:, 1482, score: -50.0, average score: -50.0
+Episode:, 1483, score: -50.0, average score: -50.0
+Episode:, 1484, score: -50.0, average score: -50.0
+Episode:, 1485, score: -50.0, average score: -50.0
+Episode:, 1486, score: -50.0, average score: -50.0
+Episode:, 1487, score: -50.0, average score: -50.0
+Episode:, 1488, score: -50.0, average score: -50.0
+Episode:, 1489, score: -50.0, average score: -50.0
+Episode:, 1490, score: -50.0, average score: -50.0
+Episode:, 1491, score: -50.0, average score: -50.0
+Episode:, 1492, score: -50.0, average score: -50.0
+Episode:, 1493, score: -50.0, average score: -50.0
+Episode:, 1494, score: -50.0, average score: -50.0
+Episode:, 1495, score: -50.0, average score: -50.0
+Episode:, 1496, score: -50.0, average score: -50.0
+Episode:, 1497, score: -50.0, average score: -50.0
+Episode:, 1498, score: -50.0, average score: -50.0
+Episode:, 1499, score: -50.0, average score: -50.0
+Test Episode 141, score - -50.0
+Test Episode 142, score - -50.0
+Test Episode 143, score - -50.0
+Test Episode 144, score - -50.0
+Test Episode 145, score - -50.0
+Test Episode 146, score - -50.0
+Test Episode 147, score - -50.0
+Test Episode 148, score - -50.0
+Test Episode 149, score - -50.0
+Test Episode 150, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.66
+Episode:, 1500, score: -50.0, average score: -50.0
+Episode:, 1501, score: -50.0, average score: -50.0
+Episode:, 1502, score: -50.0, average score: -50.0
+Episode:, 1503, score: -50.0, average score: -50.0
+Episode:, 1504, score: -50.0, average score: -50.0
+Episode:, 1505, score: -50.0, average score: -50.0
+Episode:, 1506, score: -50.0, average score: -50.0
+Episode:, 1507, score: -50.0, average score: -50.0
+Episode:, 1508, score: -50.0, average score: -50.0
+Episode:, 1509, score: -50.0, average score: -50.0
+Episode:, 1510, score: -50.0, average score: -50.0
+Episode:, 1511, score: -50.0, average score: -50.0
+Episode:, 1512, score: -50.0, average score: -50.0
+Episode:, 1513, score: -50.0, average score: -50.0
+Episode:, 1514, score: -50.0, average score: -50.0
+Episode:, 1515, score: -50.0, average score: -50.0
+Episode:, 1516, score: -50.0, average score: -50.0
+Episode:, 1517, score: -50.0, average score: -50.0
+Episode:, 1518, score: -50.0, average score: -50.0
+Episode:, 1519, score: -50.0, average score: -50.0
+Episode:, 1520, score: -50.0, average score: -50.0
+Episode:, 1521, score: -50.0, average score: -50.0
+Episode:, 1522, score: -50.0, average score: -50.0
+Episode:, 1523, score: -50.0, average score: -50.0
+Episode:, 1524, score: -50.0, average score: -50.0
+Episode:, 1525, score: -50.0, average score: -50.0
+Episode:, 1526, score: -50.0, average score: -50.0
+Episode:, 1527, score: -50.0, average score: -50.0
+Episode:, 1528, score: -50.0, average score: -50.0
+Episode:, 1529, score: -50.0, average score: -50.0
+Episode:, 1530, score: -50.0, average score: -50.0
+Episode:, 1531, score: -50.0, average score: -50.0
+Episode:, 1532, score: -50.0, average score: -50.0
+Episode:, 1533, score: -50.0, average score: -50.0
+Episode:, 1534, score: -50.0, average score: -50.0
+Episode:, 1535, score: -50.0, average score: -50.0
+Episode:, 1536, score: -50.0, average score: -50.0
+Episode:, 1537, score: -50.0, average score: -50.0
+Episode:, 1538, score: -50.0, average score: -50.0
+Episode:, 1539, score: -50.0, average score: -50.0
+Episode:, 1540, score: -50.0, average score: -50.0
+Episode:, 1541, score: -50.0, average score: -50.0
+Episode:, 1542, score: -50.0, average score: -50.0
+Episode:, 1543, score: -50.0, average score: -50.0
+Episode:, 1544, score: -50.0, average score: -50.0
+Episode:, 1545, score: -50.0, average score: -50.0
+Episode:, 1546, score: -50.0, average score: -50.0
+Episode:, 1547, score: -50.0, average score: -50.0
+Episode:, 1548, score: -50.0, average score: -50.0
+Episode:, 1549, score: -50.0, average score: -50.0
+Episode:, 1550, score: -50.0, average score: -50.0
+Episode:, 1551, score: -50.0, average score: -50.0
+Episode:, 1552, score: -50.0, average score: -50.0
+Episode:, 1553, score: -50.0, average score: -50.0
+Episode:, 1554, score: -50.0, average score: -50.0
+Episode:, 1555, score: -50.0, average score: -50.0
+Episode:, 1556, score: -50.0, average score: -50.0
+Episode:, 1557, score: -50.0, average score: -50.0
+Episode:, 1558, score: -50.0, average score: -50.0
+Episode:, 1559, score: -50.0, average score: -50.0
+Episode:, 1560, score: -50.0, average score: -50.0
+Episode:, 1561, score: -50.0, average score: -50.0
+Episode:, 1562, score: -50.0, average score: -50.0
+Episode:, 1563, score: -50.0, average score: -50.0
+Episode:, 1564, score: -50.0, average score: -50.0
+Episode:, 1565, score: -50.0, average score: -50.0
+Episode:, 1566, score: -50.0, average score: -50.0
+Episode:, 1567, score: -50.0, average score: -50.0
+Episode:, 1568, score: -50.0, average score: -50.0
+Episode:, 1569, score: -50.0, average score: -50.0
+Episode:, 1570, score: -50.0, average score: -50.0
+Episode:, 1571, score: -50.0, average score: -50.0
+Episode:, 1572, score: -50.0, average score: -50.0
+Episode:, 1573, score: -50.0, average score: -50.0
+Episode:, 1574, score: -50.0, average score: -50.0
+Episode:, 1575, score: -50.0, average score: -50.0
+Episode:, 1576, score: -50.0, average score: -50.0
+Episode:, 1577, score: -50.0, average score: -50.0
+Episode:, 1578, score: -50.0, average score: -50.0
+Episode:, 1579, score: -50.0, average score: -50.0
+Episode:, 1580, score: -50.0, average score: -50.0
+Episode:, 1581, score: -50.0, average score: -50.0
+Episode:, 1582, score: -50.0, average score: -50.0
+Episode:, 1583, score: -50.0, average score: -50.0
+Episode:, 1584, score: -50.0, average score: -50.0
+Episode:, 1585, score: -50.0, average score: -50.0
+Episode:, 1586, score: -50.0, average score: -50.0
+Episode:, 1587, score: -50.0, average score: -50.0
+Episode:, 1588, score: -50.0, average score: -50.0
+Episode:, 1589, score: -50.0, average score: -50.0
+Episode:, 1590, score: -50.0, average score: -50.0
+Episode:, 1591, score: -13.0, average score: -49.63
+Episode:, 1592, score: -50.0, average score: -49.63
+Episode:, 1593, score: -50.0, average score: -49.63
+Episode:, 1594, score: -50.0, average score: -49.63
+Episode:, 1595, score: -50.0, average score: -49.63
+Episode:, 1596, score: -50.0, average score: -49.63
+Episode:, 1597, score: -50.0, average score: -49.63
+Episode:, 1598, score: -50.0, average score: -49.63
+Episode:, 1599, score: -50.0, average score: -49.63
+Test Episode 151, score - -50.0
+Test Episode 152, score - -50.0
+Test Episode 153, score - -50.0
+Test Episode 154, score - -50.0
+Test Episode 155, score - -50.0
+Test Episode 156, score - -50.0
+Test Episode 157, score - -50.0
+Test Episode 158, score - -50.0
+Test Episode 159, score - -50.0
+Test Episode 160, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.66
+Episode:, 1600, score: -50.0, average score: -49.63
+Episode:, 1601, score: -50.0, average score: -49.63
+Episode:, 1602, score: -50.0, average score: -49.63
+Episode:, 1603, score: -50.0, average score: -49.63
+Episode:, 1604, score: -50.0, average score: -49.63
+Episode:, 1605, score: -50.0, average score: -49.63
+Episode:, 1606, score: -50.0, average score: -49.63
+Episode:, 1607, score: -50.0, average score: -49.63
+Episode:, 1608, score: -50.0, average score: -49.63
+Episode:, 1609, score: -50.0, average score: -49.63
+Episode:, 1610, score: -50.0, average score: -49.63
+Episode:, 1611, score: -50.0, average score: -49.63
+Episode:, 1612, score: -50.0, average score: -49.63
+Episode:, 1613, score: -50.0, average score: -49.63
+Episode:, 1614, score: -50.0, average score: -49.63
+Episode:, 1615, score: -22.0, average score: -49.35
+Episode:, 1616, score: -50.0, average score: -49.35
+Episode:, 1617, score: -50.0, average score: -49.35
+Episode:, 1618, score: -50.0, average score: -49.35
+Episode:, 1619, score: -50.0, average score: -49.35
+Episode:, 1620, score: -50.0, average score: -49.35
+Episode:, 1621, score: -50.0, average score: -49.35
+Episode:, 1622, score: -26.0, average score: -49.11
+Episode:, 1623, score: -50.0, average score: -49.11
+Episode:, 1624, score: -50.0, average score: -49.11
+Episode:, 1625, score: -50.0, average score: -49.11
+Episode:, 1626, score: -50.0, average score: -49.11
+Episode:, 1627, score: -10.0, average score: -48.71
+Episode:, 1628, score: -50.0, average score: -48.71
+Episode:, 1629, score: -50.0, average score: -48.71
+Episode:, 1630, score: -50.0, average score: -48.71
+Episode:, 1631, score: -50.0, average score: -48.71
+Episode:, 1632, score: -50.0, average score: -48.71
+Episode:, 1633, score: -50.0, average score: -48.71
+Episode:, 1634, score: -50.0, average score: -48.71
+Episode:, 1635, score: -50.0, average score: -48.71
+Episode:, 1636, score: -50.0, average score: -48.71
+Episode:, 1637, score: -50.0, average score: -48.71
+Episode:, 1638, score: -50.0, average score: -48.71
+Episode:, 1639, score: -50.0, average score: -48.71
+Episode:, 1640, score: -50.0, average score: -48.71
+Episode:, 1641, score: -50.0, average score: -48.71
+Episode:, 1642, score: -50.0, average score: -48.71
+Episode:, 1643, score: -50.0, average score: -48.71
+Episode:, 1644, score: -50.0, average score: -48.71
+Episode:, 1645, score: -50.0, average score: -48.71
+Episode:, 1646, score: -50.0, average score: -48.71
+Episode:, 1647, score: -50.0, average score: -48.71
+Episode:, 1648, score: -50.0, average score: -48.71
+Episode:, 1649, score: -50.0, average score: -48.71
+Episode:, 1650, score: -50.0, average score: -48.71
+Episode:, 1651, score: -50.0, average score: -48.71
+Episode:, 1652, score: -50.0, average score: -48.71
+Episode:, 1653, score: -50.0, average score: -48.71
+Episode:, 1654, score: -50.0, average score: -48.71
+Episode:, 1655, score: -50.0, average score: -48.71
+Episode:, 1656, score: -50.0, average score: -48.71
+Episode:, 1657, score: -50.0, average score: -48.71
+Episode:, 1658, score: -50.0, average score: -48.71
+Episode:, 1659, score: -50.0, average score: -48.71
+Episode:, 1660, score: -50.0, average score: -48.71
+Episode:, 1661, score: -50.0, average score: -48.71
+Episode:, 1662, score: -50.0, average score: -48.71
+Episode:, 1663, score: -50.0, average score: -48.71
+Episode:, 1664, score: -50.0, average score: -48.71
+Episode:, 1665, score: -50.0, average score: -48.71
+Episode:, 1666, score: -50.0, average score: -48.71
+Episode:, 1667, score: -50.0, average score: -48.71
+Episode:, 1668, score: -50.0, average score: -48.71
+Episode:, 1669, score: -50.0, average score: -48.71
+Episode:, 1670, score: -50.0, average score: -48.71
+Episode:, 1671, score: -50.0, average score: -48.71
+Episode:, 1672, score: -50.0, average score: -48.71
+Episode:, 1673, score: -50.0, average score: -48.71
+Episode:, 1674, score: -50.0, average score: -48.71
+Episode:, 1675, score: -50.0, average score: -48.71
+Episode:, 1676, score: -50.0, average score: -48.71
+Episode:, 1677, score: -50.0, average score: -48.71
+Episode:, 1678, score: -50.0, average score: -48.71
+Episode:, 1679, score: -50.0, average score: -48.71
+Episode:, 1680, score: -50.0, average score: -48.71
+Episode:, 1681, score: -50.0, average score: -48.71
+Episode:, 1682, score: -50.0, average score: -48.71
+Episode:, 1683, score: -50.0, average score: -48.71
+Episode:, 1684, score: -50.0, average score: -48.71
+Episode:, 1685, score: -50.0, average score: -48.71
+Episode:, 1686, score: -50.0, average score: -48.71
+Episode:, 1687, score: -50.0, average score: -48.71
+Episode:, 1688, score: -50.0, average score: -48.71
+Episode:, 1689, score: -50.0, average score: -48.71
+Episode:, 1690, score: -50.0, average score: -48.71
+Episode:, 1691, score: -50.0, average score: -49.08
+Episode:, 1692, score: -50.0, average score: -49.08
+Episode:, 1693, score: -50.0, average score: -49.08
+Episode:, 1694, score: -50.0, average score: -49.08
+Episode:, 1695, score: -50.0, average score: -49.08
+Episode:, 1696, score: -50.0, average score: -49.08
+Episode:, 1697, score: -50.0, average score: -49.08
+Episode:, 1698, score: -50.0, average score: -49.08
+Episode:, 1699, score: -50.0, average score: -49.08
+Test Episode 161, score - -50.0
+Test Episode 162, score - -50.0
+Test Episode 163, score - -50.0
+Test Episode 164, score - -50.0
+Test Episode 165, score - -50.0
+Test Episode 166, score - -50.0
+Test Episode 167, score - -50.0
+Test Episode 168, score - -50.0
+Test Episode 169, score - -50.0
+Test Episode 170, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -48.66
+Episode:, 1700, score: -50.0, average score: -49.08
+Episode:, 1701, score: -50.0, average score: -49.08
+Episode:, 1702, score: -50.0, average score: -49.08
+Episode:, 1703, score: -50.0, average score: -49.08
+Episode:, 1704, score: -50.0, average score: -49.08
+Episode:, 1705, score: -50.0, average score: -49.08
+Episode:, 1706, score: -50.0, average score: -49.08
+Episode:, 1707, score: -50.0, average score: -49.08
+Episode:, 1708, score: -50.0, average score: -49.08
+Episode:, 1709, score: -50.0, average score: -49.08
+Episode:, 1710, score: -50.0, average score: -49.08
+Episode:, 1711, score: -50.0, average score: -49.08
+Episode:, 1712, score: -50.0, average score: -49.08
+Episode:, 1713, score: -50.0, average score: -49.08
+Episode:, 1714, score: -50.0, average score: -49.08
+Episode:, 1715, score: -50.0, average score: -49.36
+Episode:, 1716, score: -50.0, average score: -49.36
+Episode:, 1717, score: -50.0, average score: -49.36
+Episode:, 1718, score: -50.0, average score: -49.36
+Episode:, 1719, score: -50.0, average score: -49.36
+Episode:, 1720, score: -50.0, average score: -49.36
+Episode:, 1721, score: -50.0, average score: -49.36
+Episode:, 1722, score: -50.0, average score: -49.6
+Episode:, 1723, score: -50.0, average score: -49.6
+Episode:, 1724, score: -50.0, average score: -49.6
+Episode:, 1725, score: -50.0, average score: -49.6
+Episode:, 1726, score: -13.0, average score: -49.23
+Episode:, 1727, score: -50.0, average score: -49.63
+Episode:, 1728, score: -50.0, average score: -49.63
+Episode:, 1729, score: -50.0, average score: -49.63
+Episode:, 1730, score: -50.0, average score: -49.63
+Episode:, 1731, score: -50.0, average score: -49.63
+Episode:, 1732, score: -50.0, average score: -49.63
+Episode:, 1733, score: -50.0, average score: -49.63
+Episode:, 1734, score: -50.0, average score: -49.63
+Episode:, 1735, score: -50.0, average score: -49.63
+Episode:, 1736, score: -50.0, average score: -49.63
+Episode:, 1737, score: -50.0, average score: -49.63
+Episode:, 1738, score: -50.0, average score: -49.63
+Episode:, 1739, score: -50.0, average score: -49.63
+Episode:, 1740, score: -50.0, average score: -49.63
+Episode:, 1741, score: -50.0, average score: -49.63
+Episode:, 1742, score: -50.0, average score: -49.63
+Episode:, 1743, score: -50.0, average score: -49.63
+Episode:, 1744, score: -50.0, average score: -49.63
+Episode:, 1745, score: -50.0, average score: -49.63
+Episode:, 1746, score: -50.0, average score: -49.63
+Episode:, 1747, score: -50.0, average score: -49.63
+Episode:, 1748, score: -50.0, average score: -49.63
+Episode:, 1749, score: -50.0, average score: -49.63
+Episode:, 1750, score: -50.0, average score: -49.63
+Episode:, 1751, score: -50.0, average score: -49.63
+Episode:, 1752, score: -50.0, average score: -49.63
+Episode:, 1753, score: -50.0, average score: -49.63
+Episode:, 1754, score: -50.0, average score: -49.63
+Episode:, 1755, score: -50.0, average score: -49.63
+Episode:, 1756, score: -50.0, average score: -49.63
+Episode:, 1757, score: -50.0, average score: -49.63
+Episode:, 1758, score: -50.0, average score: -49.63
+Episode:, 1759, score: -50.0, average score: -49.63
+Episode:, 1760, score: -50.0, average score: -49.63
+Episode:, 1761, score: -50.0, average score: -49.63
+Episode:, 1762, score: -50.0, average score: -49.63
+Episode:, 1763, score: -50.0, average score: -49.63
+Episode:, 1764, score: -50.0, average score: -49.63
+Episode:, 1765, score: -50.0, average score: -49.63
+Episode:, 1766, score: -50.0, average score: -49.63
+Episode:, 1767, score: -50.0, average score: -49.63
+Episode:, 1768, score: -50.0, average score: -49.63
+Episode:, 1769, score: -50.0, average score: -49.63
+Episode:, 1770, score: -50.0, average score: -49.63
+Episode:, 1771, score: -50.0, average score: -49.63
+Episode:, 1772, score: -28.0, average score: -49.41
+Episode:, 1773, score: -50.0, average score: -49.41
+Episode:, 1774, score: -50.0, average score: -49.41
+Episode:, 1775, score: -50.0, average score: -49.41
+Episode:, 1776, score: -50.0, average score: -49.41
+Episode:, 1777, score: -50.0, average score: -49.41
+Episode:, 1778, score: -50.0, average score: -49.41
+Episode:, 1779, score: -50.0, average score: -49.41
+Episode:, 1780, score: -50.0, average score: -49.41
+Episode:, 1781, score: -50.0, average score: -49.41
+Episode:, 1782, score: -50.0, average score: -49.41
+Episode:, 1783, score: -50.0, average score: -49.41
+Episode:, 1784, score: -50.0, average score: -49.41
+Episode:, 1785, score: -50.0, average score: -49.41
+Episode:, 1786, score: -50.0, average score: -49.41
+Episode:, 1787, score: -50.0, average score: -49.41
+Episode:, 1788, score: -50.0, average score: -49.41
+Episode:, 1789, score: -50.0, average score: -49.41
+Episode:, 1790, score: -50.0, average score: -49.41
+Episode:, 1791, score: -50.0, average score: -49.41
+Episode:, 1792, score: -50.0, average score: -49.41
+Episode:, 1793, score: -50.0, average score: -49.41
+Episode:, 1794, score: -50.0, average score: -49.41
+Episode:, 1795, score: -50.0, average score: -49.41
+Episode:, 1796, score: -50.0, average score: -49.41
+Episode:, 1797, score: -50.0, average score: -49.41
+Episode:, 1798, score: -50.0, average score: -49.41
+Episode:, 1799, score: -50.0, average score: -49.41
+Test Episode 171, score - -50.0
+Test Episode 172, score - -50.0
+Test Episode 173, score - -50.0
+Test Episode 174, score - -50.0
+Test Episode 175, score - -50.0
+Test Episode 176, score - -50.0
+Test Episode 177, score - -50.0
+Test Episode 178, score - -50.0
+Test Episode 179, score - -50.0
+Test Episode 180, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.61
+Episode:, 1800, score: -50.0, average score: -49.41
+Episode:, 1801, score: -50.0, average score: -49.41
+Episode:, 1802, score: -50.0, average score: -49.41
+Episode:, 1803, score: -50.0, average score: -49.41
+Episode:, 1804, score: -50.0, average score: -49.41
+Episode:, 1805, score: -50.0, average score: -49.41
+Episode:, 1806, score: -50.0, average score: -49.41
+Episode:, 1807, score: -50.0, average score: -49.41
+Episode:, 1808, score: -50.0, average score: -49.41
+Episode:, 1809, score: -50.0, average score: -49.41
+Episode:, 1810, score: -50.0, average score: -49.41
+Episode:, 1811, score: -50.0, average score: -49.41
+Episode:, 1812, score: -50.0, average score: -49.41
+Episode:, 1813, score: -50.0, average score: -49.41
+Episode:, 1814, score: -50.0, average score: -49.41
+Episode:, 1815, score: -50.0, average score: -49.41
+Episode:, 1816, score: -50.0, average score: -49.41
+Episode:, 1817, score: -50.0, average score: -49.41
+Episode:, 1818, score: -50.0, average score: -49.41
+Episode:, 1819, score: -50.0, average score: -49.41
+Episode:, 1820, score: -50.0, average score: -49.41
+Episode:, 1821, score: -50.0, average score: -49.41
+Episode:, 1822, score: -24.0, average score: -49.15
+Episode:, 1823, score: -50.0, average score: -49.15
+Episode:, 1824, score: -50.0, average score: -49.15
+Episode:, 1825, score: -50.0, average score: -49.15
+Episode:, 1826, score: -50.0, average score: -49.52
+Episode:, 1827, score: -50.0, average score: -49.52
+Episode:, 1828, score: -50.0, average score: -49.52
+Episode:, 1829, score: -50.0, average score: -49.52
+Episode:, 1830, score: -50.0, average score: -49.52
+Episode:, 1831, score: -50.0, average score: -49.52
+Episode:, 1832, score: -50.0, average score: -49.52
+Episode:, 1833, score: -50.0, average score: -49.52
+Episode:, 1834, score: -50.0, average score: -49.52
+Episode:, 1835, score: -50.0, average score: -49.52
+Episode:, 1836, score: -50.0, average score: -49.52
+Episode:, 1837, score: -50.0, average score: -49.52
+Episode:, 1838, score: -50.0, average score: -49.52
+Episode:, 1839, score: -50.0, average score: -49.52
+Episode:, 1840, score: -50.0, average score: -49.52
+Episode:, 1841, score: -50.0, average score: -49.52
+Episode:, 1842, score: -50.0, average score: -49.52
+Episode:, 1843, score: -50.0, average score: -49.52
+Episode:, 1844, score: -50.0, average score: -49.52
+Episode:, 1845, score: -50.0, average score: -49.52
+Episode:, 1846, score: -50.0, average score: -49.52
+Episode:, 1847, score: -50.0, average score: -49.52
+Episode:, 1848, score: -50.0, average score: -49.52
+Episode:, 1849, score: -50.0, average score: -49.52
+Episode:, 1850, score: -50.0, average score: -49.52
+Episode:, 1851, score: -50.0, average score: -49.52
+Episode:, 1852, score: -50.0, average score: -49.52
+Episode:, 1853, score: -50.0, average score: -49.52
+Episode:, 1854, score: -50.0, average score: -49.52
+Episode:, 1855, score: -50.0, average score: -49.52
+Episode:, 1856, score: -50.0, average score: -49.52
+Episode:, 1857, score: -50.0, average score: -49.52
+Episode:, 1858, score: -50.0, average score: -49.52
+Episode:, 1859, score: -50.0, average score: -49.52
+Episode:, 1860, score: -50.0, average score: -49.52
+Episode:, 1861, score: -50.0, average score: -49.52
+Episode:, 1862, score: -50.0, average score: -49.52
+Episode:, 1863, score: -50.0, average score: -49.52
+Episode:, 1864, score: -50.0, average score: -49.52
+Episode:, 1865, score: -50.0, average score: -49.52
+Episode:, 1866, score: -50.0, average score: -49.52
+Episode:, 1867, score: -38.0, average score: -49.4
+Episode:, 1868, score: -50.0, average score: -49.4
+Episode:, 1869, score: -50.0, average score: -49.4
+Episode:, 1870, score: -50.0, average score: -49.4
+Episode:, 1871, score: -50.0, average score: -49.4
+Episode:, 1872, score: -50.0, average score: -49.62
+Episode:, 1873, score: -50.0, average score: -49.62
+Episode:, 1874, score: -50.0, average score: -49.62
+Episode:, 1875, score: -50.0, average score: -49.62
+Episode:, 1876, score: -50.0, average score: -49.62
+Episode:, 1877, score: -50.0, average score: -49.62
+Episode:, 1878, score: -50.0, average score: -49.62
+Episode:, 1879, score: -50.0, average score: -49.62
+Episode:, 1880, score: -50.0, average score: -49.62
+Episode:, 1881, score: -50.0, average score: -49.62
+Episode:, 1882, score: -50.0, average score: -49.62
+Episode:, 1883, score: -50.0, average score: -49.62
+Episode:, 1884, score: -50.0, average score: -49.62
+Episode:, 1885, score: -50.0, average score: -49.62
+Episode:, 1886, score: -50.0, average score: -49.62
+Episode:, 1887, score: -50.0, average score: -49.62
+Episode:, 1888, score: -50.0, average score: -49.62
+Episode:, 1889, score: -50.0, average score: -49.62
+Episode:, 1890, score: -50.0, average score: -49.62
+Episode:, 1891, score: -50.0, average score: -49.62
+Episode:, 1892, score: -50.0, average score: -49.62
+Episode:, 1893, score: -50.0, average score: -49.62
+Episode:, 1894, score: -50.0, average score: -49.62
+Episode:, 1895, score: -50.0, average score: -49.62
+Episode:, 1896, score: -50.0, average score: -49.62
+Episode:, 1897, score: -50.0, average score: -49.62
+Episode:, 1898, score: -50.0, average score: -49.62
+Episode:, 1899, score: -50.0, average score: -49.62
+Test Episode 181, score - -50.0
+Test Episode 182, score - -50.0
+Test Episode 183, score - -50.0
+Test Episode 184, score - -50.0
+Test Episode 185, score - -50.0
+Test Episode 186, score - -50.0
+Test Episode 187, score - -50.0
+Test Episode 188, score - -50.0
+Test Episode 189, score - -50.0
+Test Episode 190, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.61
+Episode:, 1900, score: -50.0, average score: -49.62
+Episode:, 1901, score: -50.0, average score: -49.62
+Episode:, 1902, score: -50.0, average score: -49.62
+Episode:, 1903, score: -50.0, average score: -49.62
+Episode:, 1904, score: -50.0, average score: -49.62
+Episode:, 1905, score: -50.0, average score: -49.62
+Episode:, 1906, score: -50.0, average score: -49.62
+Episode:, 1907, score: -50.0, average score: -49.62
+Episode:, 1908, score: -50.0, average score: -49.62
+Episode:, 1909, score: -50.0, average score: -49.62
+Episode:, 1910, score: -50.0, average score: -49.62
+Episode:, 1911, score: -50.0, average score: -49.62
+Episode:, 1912, score: -50.0, average score: -49.62
+Episode:, 1913, score: -50.0, average score: -49.62
+Episode:, 1914, score: -50.0, average score: -49.62
+Episode:, 1915, score: -50.0, average score: -49.62
+Episode:, 1916, score: -50.0, average score: -49.62
+Episode:, 1917, score: -50.0, average score: -49.62
+Episode:, 1918, score: -50.0, average score: -49.62
+Episode:, 1919, score: -50.0, average score: -49.62
+Episode:, 1920, score: -50.0, average score: -49.62
+Episode:, 1921, score: -50.0, average score: -49.62
+Episode:, 1922, score: -50.0, average score: -49.88
+Episode:, 1923, score: -50.0, average score: -49.88
+Episode:, 1924, score: -50.0, average score: -49.88
+Episode:, 1925, score: -50.0, average score: -49.88
+Episode:, 1926, score: -50.0, average score: -49.88
+Episode:, 1927, score: -50.0, average score: -49.88
+Episode:, 1928, score: -50.0, average score: -49.88
+Episode:, 1929, score: -50.0, average score: -49.88
+Episode:, 1930, score: -50.0, average score: -49.88
+Episode:, 1931, score: -50.0, average score: -49.88
+Episode:, 1932, score: -50.0, average score: -49.88
+Episode:, 1933, score: -50.0, average score: -49.88
+Episode:, 1934, score: -50.0, average score: -49.88
+Episode:, 1935, score: -50.0, average score: -49.88
+Episode:, 1936, score: -50.0, average score: -49.88
+Episode:, 1937, score: -50.0, average score: -49.88
+Episode:, 1938, score: -50.0, average score: -49.88
+Episode:, 1939, score: -50.0, average score: -49.88
+Episode:, 1940, score: -50.0, average score: -49.88
+Episode:, 1941, score: -50.0, average score: -49.88
+Episode:, 1942, score: -50.0, average score: -49.88
+Episode:, 1943, score: -50.0, average score: -49.88
+Episode:, 1944, score: -13.0, average score: -49.51
+Episode:, 1945, score: -50.0, average score: -49.51
+Episode:, 1946, score: -50.0, average score: -49.51
+Episode:, 1947, score: -50.0, average score: -49.51
+Episode:, 1948, score: -50.0, average score: -49.51
+Episode:, 1949, score: -50.0, average score: -49.51
+Episode:, 1950, score: -50.0, average score: -49.51
+Episode:, 1951, score: -50.0, average score: -49.51
+Episode:, 1952, score: -50.0, average score: -49.51
+Episode:, 1953, score: -50.0, average score: -49.51
+Episode:, 1954, score: -50.0, average score: -49.51
+Episode:, 1955, score: -50.0, average score: -49.51
+Episode:, 1956, score: -50.0, average score: -49.51
+Episode:, 1957, score: -50.0, average score: -49.51
+Episode:, 1958, score: -50.0, average score: -49.51
+Episode:, 1959, score: -50.0, average score: -49.51
+Episode:, 1960, score: -50.0, average score: -49.51
+Episode:, 1961, score: -50.0, average score: -49.51
+Episode:, 1962, score: -50.0, average score: -49.51
+Episode:, 1963, score: -50.0, average score: -49.51
+Episode:, 1964, score: -50.0, average score: -49.51
+Episode:, 1965, score: -50.0, average score: -49.51
+Episode:, 1966, score: -50.0, average score: -49.51
+Episode:, 1967, score: -50.0, average score: -49.63
+Episode:, 1968, score: -50.0, average score: -49.63
+Episode:, 1969, score: -50.0, average score: -49.63
+Episode:, 1970, score: -50.0, average score: -49.63
+Episode:, 1971, score: -50.0, average score: -49.63
+Episode:, 1972, score: -50.0, average score: -49.63
+Episode:, 1973, score: -50.0, average score: -49.63
+Episode:, 1974, score: -50.0, average score: -49.63
+Episode:, 1975, score: -50.0, average score: -49.63
+Episode:, 1976, score: -50.0, average score: -49.63
+Episode:, 1977, score: -50.0, average score: -49.63
+Episode:, 1978, score: -50.0, average score: -49.63
+Episode:, 1979, score: -50.0, average score: -49.63
+Episode:, 1980, score: -50.0, average score: -49.63
+Episode:, 1981, score: -50.0, average score: -49.63
+Episode:, 1982, score: -50.0, average score: -49.63
+Episode:, 1983, score: -50.0, average score: -49.63
+Episode:, 1984, score: -50.0, average score: -49.63
+Episode:, 1985, score: -50.0, average score: -49.63
+Episode:, 1986, score: -50.0, average score: -49.63
+Episode:, 1987, score: -50.0, average score: -49.63
+Episode:, 1988, score: -50.0, average score: -49.63
+Episode:, 1989, score: -50.0, average score: -49.63
+Episode:, 1990, score: -50.0, average score: -49.63
+Episode:, 1991, score: -50.0, average score: -49.63
+Episode:, 1992, score: -50.0, average score: -49.63
+Episode:, 1993, score: -50.0, average score: -49.63
+Episode:, 1994, score: -50.0, average score: -49.63
+Episode:, 1995, score: -50.0, average score: -49.63
+Episode:, 1996, score: -50.0, average score: -49.63
+Episode:, 1997, score: -50.0, average score: -49.63
+Episode:, 1998, score: -50.0, average score: -49.63
+Episode:, 1999, score: -50.0, average score: -49.63
+Test Episode 191, score - -50.0
+Test Episode 192, score - -50.0
+Test Episode 193, score - -50.0
+Test Episode 194, score - -50.0
+Test Episode 195, score - -50.0
+Test Episode 196, score - -50.0
+Test Episode 197, score - -50.0
+Test Episode 198, score - -41.0
+Test Episode 199, score - -50.0
+Test Episode 200, score - -50.0
+Test 10 average score: -49.1
+Test 100 average score: -49.91
+Episode:, 2000, score: -50.0, average score: -49.63
+Episode:, 2001, score: -50.0, average score: -49.63
+Episode:, 2002, score: -50.0, average score: -49.63
+Episode:, 2003, score: -50.0, average score: -49.63
+Episode:, 2004, score: -50.0, average score: -49.63
+Episode:, 2005, score: -50.0, average score: -49.63
+Episode:, 2006, score: -50.0, average score: -49.63
+Episode:, 2007, score: -50.0, average score: -49.63
+Episode:, 2008, score: -50.0, average score: -49.63
+Episode:, 2009, score: -50.0, average score: -49.63
+Episode:, 2010, score: -50.0, average score: -49.63
+Episode:, 2011, score: -50.0, average score: -49.63
+Episode:, 2012, score: -22.0, average score: -49.35
+Episode:, 2013, score: -50.0, average score: -49.35
+Episode:, 2014, score: -50.0, average score: -49.35
+Episode:, 2015, score: -50.0, average score: -49.35
+Episode:, 2016, score: -50.0, average score: -49.35
+Episode:, 2017, score: -50.0, average score: -49.35
+Episode:, 2018, score: -50.0, average score: -49.35
+Episode:, 2019, score: -50.0, average score: -49.35
+Episode:, 2020, score: -50.0, average score: -49.35
+Episode:, 2021, score: -50.0, average score: -49.35
+Episode:, 2022, score: -50.0, average score: -49.35
+Episode:, 2023, score: -50.0, average score: -49.35
+Episode:, 2024, score: -50.0, average score: -49.35
+Episode:, 2025, score: -50.0, average score: -49.35
+Episode:, 2026, score: -50.0, average score: -49.35
+Episode:, 2027, score: -50.0, average score: -49.35
+Episode:, 2028, score: -50.0, average score: -49.35
+Episode:, 2029, score: -50.0, average score: -49.35
+Episode:, 2030, score: -50.0, average score: -49.35
+Episode:, 2031, score: -50.0, average score: -49.35
+Episode:, 2032, score: -50.0, average score: -49.35
+Episode:, 2033, score: -50.0, average score: -49.35
+Episode:, 2034, score: -50.0, average score: -49.35
+Episode:, 2035, score: -50.0, average score: -49.35
+Episode:, 2036, score: -50.0, average score: -49.35
+Episode:, 2037, score: -50.0, average score: -49.35
+Episode:, 2038, score: -50.0, average score: -49.35
+Episode:, 2039, score: -50.0, average score: -49.35
+Episode:, 2040, score: -50.0, average score: -49.35
+Episode:, 2041, score: -50.0, average score: -49.35
+Episode:, 2042, score: -50.0, average score: -49.35
+Episode:, 2043, score: -50.0, average score: -49.35
+Episode:, 2044, score: -50.0, average score: -49.72
+Episode:, 2045, score: -11.0, average score: -49.33
+Episode:, 2046, score: -50.0, average score: -49.33
+Episode:, 2047, score: -50.0, average score: -49.33
+Episode:, 2048, score: -50.0, average score: -49.33
+Episode:, 2049, score: -50.0, average score: -49.33
+Episode:, 2050, score: -50.0, average score: -49.33
+Episode:, 2051, score: -50.0, average score: -49.33
+Episode:, 2052, score: -13.0, average score: -48.96
+Episode:, 2053, score: -50.0, average score: -48.96
+Episode:, 2054, score: -50.0, average score: -48.96
+Episode:, 2055, score: -50.0, average score: -48.96
+Episode:, 2056, score: -50.0, average score: -48.96
+Episode:, 2057, score: -50.0, average score: -48.96
+Episode:, 2058, score: -50.0, average score: -48.96
+Episode:, 2059, score: -50.0, average score: -48.96
+Episode:, 2060, score: -50.0, average score: -48.96
+Episode:, 2061, score: -50.0, average score: -48.96
+Episode:, 2062, score: -50.0, average score: -48.96
+Episode:, 2063, score: -50.0, average score: -48.96
+Episode:, 2064, score: -50.0, average score: -48.96
+Episode:, 2065, score: -50.0, average score: -48.96
+Episode:, 2066, score: -50.0, average score: -48.96
+Episode:, 2067, score: -50.0, average score: -48.96
+Episode:, 2068, score: -50.0, average score: -48.96
+Episode:, 2069, score: -50.0, average score: -48.96
+Episode:, 2070, score: -50.0, average score: -48.96
+Episode:, 2071, score: -50.0, average score: -48.96
+Episode:, 2072, score: -50.0, average score: -48.96
+Episode:, 2073, score: -50.0, average score: -48.96
+Episode:, 2074, score: -50.0, average score: -48.96
+Episode:, 2075, score: -50.0, average score: -48.96
+Episode:, 2076, score: -50.0, average score: -48.96
+Episode:, 2077, score: -50.0, average score: -48.96
+Episode:, 2078, score: -50.0, average score: -48.96
+Episode:, 2079, score: -50.0, average score: -48.96
+Episode:, 2080, score: -50.0, average score: -48.96
+Episode:, 2081, score: -50.0, average score: -48.96
+Episode:, 2082, score: -50.0, average score: -48.96
+Episode:, 2083, score: -50.0, average score: -48.96
+Episode:, 2084, score: -50.0, average score: -48.96
+Episode:, 2085, score: -50.0, average score: -48.96
+Episode:, 2086, score: -50.0, average score: -48.96
+Episode:, 2087, score: -50.0, average score: -48.96
+Episode:, 2088, score: -50.0, average score: -48.96
+Episode:, 2089, score: -50.0, average score: -48.96
+Episode:, 2090, score: -32.0, average score: -48.78
+Episode:, 2091, score: -50.0, average score: -48.78
+Episode:, 2092, score: -50.0, average score: -48.78
+Episode:, 2093, score: -50.0, average score: -48.78
+Episode:, 2094, score: -50.0, average score: -48.78
+Episode:, 2095, score: -50.0, average score: -48.78
+Episode:, 2096, score: -50.0, average score: -48.78
+Episode:, 2097, score: -50.0, average score: -48.78
+Episode:, 2098, score: -11.0, average score: -48.39
+Episode:, 2099, score: -50.0, average score: -48.39
+Test Episode 201, score - -50.0
+Test Episode 202, score - -50.0
+Test Episode 203, score - -50.0
+Test Episode 204, score - -50.0
+Test Episode 205, score - -50.0
+Test Episode 206, score - -50.0
+Test Episode 207, score - -50.0
+Test Episode 208, score - -50.0
+Test Episode 209, score - -50.0
+Test Episode 210, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.91
+Episode:, 2100, score: -50.0, average score: -48.39
+Episode:, 2101, score: -50.0, average score: -48.39
+Episode:, 2102, score: -50.0, average score: -48.39
+Episode:, 2103, score: -50.0, average score: -48.39
+Episode:, 2104, score: -50.0, average score: -48.39
+Episode:, 2105, score: -50.0, average score: -48.39
+Episode:, 2106, score: -50.0, average score: -48.39
+Episode:, 2107, score: -50.0, average score: -48.39
+Episode:, 2108, score: -50.0, average score: -48.39
+Episode:, 2109, score: -26.0, average score: -48.15
+Episode:, 2110, score: -50.0, average score: -48.15
+Episode:, 2111, score: -50.0, average score: -48.15
+Episode:, 2112, score: -50.0, average score: -48.43
+Episode:, 2113, score: -50.0, average score: -48.43
+Episode:, 2114, score: -50.0, average score: -48.43
+Episode:, 2115, score: -50.0, average score: -48.43
+Episode:, 2116, score: -50.0, average score: -48.43
+Episode:, 2117, score: -50.0, average score: -48.43
+Episode:, 2118, score: -50.0, average score: -48.43
+Episode:, 2119, score: -50.0, average score: -48.43
+Episode:, 2120, score: -50.0, average score: -48.43
+Episode:, 2121, score: -50.0, average score: -48.43
+Episode:, 2122, score: -50.0, average score: -48.43
+Episode:, 2123, score: -50.0, average score: -48.43
+Episode:, 2124, score: -50.0, average score: -48.43
+Episode:, 2125, score: -50.0, average score: -48.43
+Episode:, 2126, score: -50.0, average score: -48.43
+Episode:, 2127, score: -50.0, average score: -48.43
+Episode:, 2128, score: -50.0, average score: -48.43
+Episode:, 2129, score: -50.0, average score: -48.43
+Episode:, 2130, score: -50.0, average score: -48.43
+Episode:, 2131, score: -50.0, average score: -48.43
+Episode:, 2132, score: -50.0, average score: -48.43
+Episode:, 2133, score: -50.0, average score: -48.43
+Episode:, 2134, score: -50.0, average score: -48.43
+Episode:, 2135, score: -50.0, average score: -48.43
+Episode:, 2136, score: -50.0, average score: -48.43
+Episode:, 2137, score: -50.0, average score: -48.43
+Episode:, 2138, score: -50.0, average score: -48.43
+Episode:, 2139, score: -50.0, average score: -48.43
+Episode:, 2140, score: -50.0, average score: -48.43
+Episode:, 2141, score: -50.0, average score: -48.43
+Episode:, 2142, score: -50.0, average score: -48.43
+Episode:, 2143, score: -50.0, average score: -48.43
+Episode:, 2144, score: -50.0, average score: -48.43
+Episode:, 2145, score: -41.0, average score: -48.73
+Episode:, 2146, score: -50.0, average score: -48.73
+Episode:, 2147, score: -50.0, average score: -48.73
+Episode:, 2148, score: -50.0, average score: -48.73
+Episode:, 2149, score: -50.0, average score: -48.73
+Episode:, 2150, score: -50.0, average score: -48.73
+Episode:, 2151, score: -50.0, average score: -48.73
+Episode:, 2152, score: -50.0, average score: -49.1
+Episode:, 2153, score: -50.0, average score: -49.1
+Episode:, 2154, score: -50.0, average score: -49.1
+Episode:, 2155, score: -50.0, average score: -49.1
+Episode:, 2156, score: -50.0, average score: -49.1
+Episode:, 2157, score: -50.0, average score: -49.1
+Episode:, 2158, score: -50.0, average score: -49.1
+Episode:, 2159, score: -50.0, average score: -49.1
+Episode:, 2160, score: -50.0, average score: -49.1
+Episode:, 2161, score: -50.0, average score: -49.1
+Episode:, 2162, score: -50.0, average score: -49.1
+Episode:, 2163, score: -50.0, average score: -49.1
+Episode:, 2164, score: -50.0, average score: -49.1
+Episode:, 2165, score: -50.0, average score: -49.1
+Episode:, 2166, score: -50.0, average score: -49.1
+Episode:, 2167, score: -50.0, average score: -49.1
+Episode:, 2168, score: -50.0, average score: -49.1
+Episode:, 2169, score: -50.0, average score: -49.1
+Episode:, 2170, score: -50.0, average score: -49.1
+Episode:, 2171, score: -50.0, average score: -49.1
+Episode:, 2172, score: -50.0, average score: -49.1
+Episode:, 2173, score: -50.0, average score: -49.1
+Episode:, 2174, score: -50.0, average score: -49.1
+Episode:, 2175, score: -50.0, average score: -49.1
+Episode:, 2176, score: -50.0, average score: -49.1
+Episode:, 2177, score: -50.0, average score: -49.1
+Episode:, 2178, score: -50.0, average score: -49.1
+Episode:, 2179, score: -50.0, average score: -49.1
+Episode:, 2180, score: -50.0, average score: -49.1
+Episode:, 2181, score: -50.0, average score: -49.1
+Episode:, 2182, score: -50.0, average score: -49.1
+Episode:, 2183, score: -50.0, average score: -49.1
+Episode:, 2184, score: -50.0, average score: -49.1
+Episode:, 2185, score: -50.0, average score: -49.1
+Episode:, 2186, score: -50.0, average score: -49.1
+Episode:, 2187, score: -50.0, average score: -49.1
+Episode:, 2188, score: -50.0, average score: -49.1
+Episode:, 2189, score: -50.0, average score: -49.1
+Episode:, 2190, score: -50.0, average score: -49.28
+Episode:, 2191, score: -50.0, average score: -49.28
+Episode:, 2192, score: -50.0, average score: -49.28
+Episode:, 2193, score: -50.0, average score: -49.28
+Episode:, 2194, score: -50.0, average score: -49.28
+Episode:, 2195, score: -50.0, average score: -49.28
+Episode:, 2196, score: -50.0, average score: -49.28
+Episode:, 2197, score: -23.0, average score: -49.01
+Episode:, 2198, score: -50.0, average score: -49.4
+Episode:, 2199, score: -50.0, average score: -49.4
+Test Episode 211, score - -50.0
+Test Episode 212, score - -50.0
+Test Episode 213, score - -50.0
+Test Episode 214, score - -50.0
+Test Episode 215, score - -50.0
+Test Episode 216, score - -50.0
+Test Episode 217, score - -50.0
+Test Episode 218, score - -50.0
+Test Episode 219, score - -50.0
+Test Episode 220, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.91
+Episode:, 2200, score: -50.0, average score: -49.4
+Episode:, 2201, score: -50.0, average score: -49.4
+Episode:, 2202, score: -50.0, average score: -49.4
+Episode:, 2203, score: -50.0, average score: -49.4
+Episode:, 2204, score: -50.0, average score: -49.4
+Episode:, 2205, score: -50.0, average score: -49.4
+Episode:, 2206, score: -50.0, average score: -49.4
+Episode:, 2207, score: -50.0, average score: -49.4
+Episode:, 2208, score: -50.0, average score: -49.4
+Episode:, 2209, score: -50.0, average score: -49.64
+Episode:, 2210, score: -50.0, average score: -49.64
+Episode:, 2211, score: -50.0, average score: -49.64
+Episode:, 2212, score: -50.0, average score: -49.64
+Episode:, 2213, score: -50.0, average score: -49.64
+Episode:, 2214, score: -50.0, average score: -49.64
+Episode:, 2215, score: -50.0, average score: -49.64
+Episode:, 2216, score: -50.0, average score: -49.64
+Episode:, 2217, score: -50.0, average score: -49.64
+Episode:, 2218, score: -50.0, average score: -49.64
+Episode:, 2219, score: -50.0, average score: -49.64
+Episode:, 2220, score: -50.0, average score: -49.64
+Episode:, 2221, score: -50.0, average score: -49.64
+Episode:, 2222, score: -18.0, average score: -49.32
+Episode:, 2223, score: -50.0, average score: -49.32
+Episode:, 2224, score: -50.0, average score: -49.32
+Episode:, 2225, score: -50.0, average score: -49.32
+Episode:, 2226, score: -50.0, average score: -49.32
+Episode:, 2227, score: -50.0, average score: -49.32
+Episode:, 2228, score: -50.0, average score: -49.32
+Episode:, 2229, score: -50.0, average score: -49.32
+Episode:, 2230, score: -50.0, average score: -49.32
+Episode:, 2231, score: -50.0, average score: -49.32
+Episode:, 2232, score: -50.0, average score: -49.32
+Episode:, 2233, score: -50.0, average score: -49.32
+Episode:, 2234, score: -50.0, average score: -49.32
+Episode:, 2235, score: -50.0, average score: -49.32
+Episode:, 2236, score: -50.0, average score: -49.32
+Episode:, 2237, score: -50.0, average score: -49.32
+Episode:, 2238, score: -50.0, average score: -49.32
+Episode:, 2239, score: -50.0, average score: -49.32
+Episode:, 2240, score: -50.0, average score: -49.32
+Episode:, 2241, score: -50.0, average score: -49.32
+Episode:, 2242, score: -50.0, average score: -49.32
+Episode:, 2243, score: -50.0, average score: -49.32
+Episode:, 2244, score: -50.0, average score: -49.32
+Episode:, 2245, score: -50.0, average score: -49.41
+Episode:, 2246, score: -17.0, average score: -49.08
+Episode:, 2247, score: -50.0, average score: -49.08
+Episode:, 2248, score: -50.0, average score: -49.08
+Episode:, 2249, score: -50.0, average score: -49.08
+Episode:, 2250, score: -50.0, average score: -49.08
+Episode:, 2251, score: -50.0, average score: -49.08
+Episode:, 2252, score: -50.0, average score: -49.08
+Episode:, 2253, score: -50.0, average score: -49.08
+Episode:, 2254, score: -50.0, average score: -49.08
+Episode:, 2255, score: -50.0, average score: -49.08
+Episode:, 2256, score: -50.0, average score: -49.08
+Episode:, 2257, score: -50.0, average score: -49.08
+Episode:, 2258, score: -50.0, average score: -49.08
+Episode:, 2259, score: -50.0, average score: -49.08
+Episode:, 2260, score: -50.0, average score: -49.08
+Episode:, 2261, score: -50.0, average score: -49.08
+Episode:, 2262, score: -50.0, average score: -49.08
+Episode:, 2263, score: -50.0, average score: -49.08
+Episode:, 2264, score: -50.0, average score: -49.08
+Episode:, 2265, score: -50.0, average score: -49.08
+Episode:, 2266, score: -50.0, average score: -49.08
+Episode:, 2267, score: -50.0, average score: -49.08
+Episode:, 2268, score: -50.0, average score: -49.08
+Episode:, 2269, score: -16.0, average score: -48.74
+Episode:, 2270, score: -50.0, average score: -48.74
+Episode:, 2271, score: -50.0, average score: -48.74
+Episode:, 2272, score: -50.0, average score: -48.74
+Episode:, 2273, score: -50.0, average score: -48.74
+Episode:, 2274, score: -50.0, average score: -48.74
+Episode:, 2275, score: -50.0, average score: -48.74
+Episode:, 2276, score: -50.0, average score: -48.74
+Episode:, 2277, score: -50.0, average score: -48.74
+Episode:, 2278, score: -50.0, average score: -48.74
+Episode:, 2279, score: -50.0, average score: -48.74
+Episode:, 2280, score: -50.0, average score: -48.74
+Episode:, 2281, score: -50.0, average score: -48.74
+Episode:, 2282, score: -50.0, average score: -48.74
+Episode:, 2283, score: -50.0, average score: -48.74
+Episode:, 2284, score: -50.0, average score: -48.74
+Episode:, 2285, score: -50.0, average score: -48.74
+Episode:, 2286, score: -50.0, average score: -48.74
+Episode:, 2287, score: -50.0, average score: -48.74
+Episode:, 2288, score: -50.0, average score: -48.74
+Episode:, 2289, score: -50.0, average score: -48.74
+Episode:, 2290, score: -50.0, average score: -48.74
+Episode:, 2291, score: -50.0, average score: -48.74
+Episode:, 2292, score: -50.0, average score: -48.74
+Episode:, 2293, score: -50.0, average score: -48.74
+Episode:, 2294, score: -50.0, average score: -48.74
+Episode:, 2295, score: -50.0, average score: -48.74
+Episode:, 2296, score: -50.0, average score: -48.74
+Episode:, 2297, score: -50.0, average score: -49.01
+Episode:, 2298, score: -50.0, average score: -49.01
+Episode:, 2299, score: -50.0, average score: -49.01
+Test Episode 221, score - -50.0
+Test Episode 222, score - -50.0
+Test Episode 223, score - -50.0
+Test Episode 224, score - -50.0
+Test Episode 225, score - -50.0
+Test Episode 226, score - -50.0
+Test Episode 227, score - -50.0
+Test Episode 228, score - -50.0
+Test Episode 229, score - -50.0
+Test Episode 230, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.91
+Episode:, 2300, score: -50.0, average score: -49.01
+Episode:, 2301, score: -50.0, average score: -49.01
+Episode:, 2302, score: -50.0, average score: -49.01
+Episode:, 2303, score: -50.0, average score: -49.01
+Episode:, 2304, score: -50.0, average score: -49.01
+Episode:, 2305, score: -50.0, average score: -49.01
+Episode:, 2306, score: -50.0, average score: -49.01
+Episode:, 2307, score: -50.0, average score: -49.01
+Episode:, 2308, score: -50.0, average score: -49.01
+Episode:, 2309, score: -50.0, average score: -49.01
+Episode:, 2310, score: -50.0, average score: -49.01
+Episode:, 2311, score: -50.0, average score: -49.01
+Episode:, 2312, score: -50.0, average score: -49.01
+Episode:, 2313, score: -50.0, average score: -49.01
+Episode:, 2314, score: -50.0, average score: -49.01
+Episode:, 2315, score: -50.0, average score: -49.01
+Episode:, 2316, score: -50.0, average score: -49.01
+Episode:, 2317, score: -50.0, average score: -49.01
+Episode:, 2318, score: -50.0, average score: -49.01
+Episode:, 2319, score: -50.0, average score: -49.01
+Episode:, 2320, score: -50.0, average score: -49.01
+Episode:, 2321, score: -50.0, average score: -49.01
+Episode:, 2322, score: -50.0, average score: -49.33
+Episode:, 2323, score: -50.0, average score: -49.33
+Episode:, 2324, score: -50.0, average score: -49.33
+Episode:, 2325, score: -50.0, average score: -49.33
+Episode:, 2326, score: -50.0, average score: -49.33
+Episode:, 2327, score: -50.0, average score: -49.33
+Episode:, 2328, score: -50.0, average score: -49.33
+Episode:, 2329, score: -50.0, average score: -49.33
+Episode:, 2330, score: -50.0, average score: -49.33
+Episode:, 2331, score: -50.0, average score: -49.33
+Episode:, 2332, score: -50.0, average score: -49.33
+Episode:, 2333, score: -50.0, average score: -49.33
+Episode:, 2334, score: -50.0, average score: -49.33
+Episode:, 2335, score: -50.0, average score: -49.33
+Episode:, 2336, score: -50.0, average score: -49.33
+Episode:, 2337, score: -50.0, average score: -49.33
+Episode:, 2338, score: -50.0, average score: -49.33
+Episode:, 2339, score: -50.0, average score: -49.33
+Episode:, 2340, score: -50.0, average score: -49.33
+Episode:, 2341, score: -50.0, average score: -49.33
+Episode:, 2342, score: -50.0, average score: -49.33
+Episode:, 2343, score: -50.0, average score: -49.33
+Episode:, 2344, score: -50.0, average score: -49.33
+Episode:, 2345, score: -50.0, average score: -49.33
+Episode:, 2346, score: -50.0, average score: -49.66
+Episode:, 2347, score: -50.0, average score: -49.66
+Episode:, 2348, score: -50.0, average score: -49.66
+Episode:, 2349, score: -50.0, average score: -49.66
+Episode:, 2350, score: -50.0, average score: -49.66
+Episode:, 2351, score: -50.0, average score: -49.66
+Episode:, 2352, score: -50.0, average score: -49.66
+Episode:, 2353, score: -50.0, average score: -49.66
+Episode:, 2354, score: -50.0, average score: -49.66
+Episode:, 2355, score: -50.0, average score: -49.66
+Episode:, 2356, score: -50.0, average score: -49.66
+Episode:, 2357, score: -50.0, average score: -49.66
+Episode:, 2358, score: -50.0, average score: -49.66
+Episode:, 2359, score: -50.0, average score: -49.66
+Episode:, 2360, score: -50.0, average score: -49.66
+Episode:, 2361, score: -50.0, average score: -49.66
+Episode:, 2362, score: -50.0, average score: -49.66
+Episode:, 2363, score: -50.0, average score: -49.66
+Episode:, 2364, score: -50.0, average score: -49.66
+Episode:, 2365, score: -50.0, average score: -49.66
+Episode:, 2366, score: -50.0, average score: -49.66
+Episode:, 2367, score: -50.0, average score: -49.66
+Episode:, 2368, score: -50.0, average score: -49.66
+Episode:, 2369, score: -50.0, average score: -50.0
+Episode:, 2370, score: -50.0, average score: -50.0
+Episode:, 2371, score: -50.0, average score: -50.0
+Episode:, 2372, score: -50.0, average score: -50.0
+Episode:, 2373, score: -50.0, average score: -50.0
+Episode:, 2374, score: -50.0, average score: -50.0
+Episode:, 2375, score: -50.0, average score: -50.0
+Episode:, 2376, score: -18.0, average score: -49.68
+Episode:, 2377, score: -50.0, average score: -49.68
+Episode:, 2378, score: -50.0, average score: -49.68
+Episode:, 2379, score: -50.0, average score: -49.68
+Episode:, 2380, score: -50.0, average score: -49.68
+Episode:, 2381, score: -50.0, average score: -49.68
+Episode:, 2382, score: -50.0, average score: -49.68
+Episode:, 2383, score: -50.0, average score: -49.68
+Episode:, 2384, score: -50.0, average score: -49.68
+Episode:, 2385, score: -50.0, average score: -49.68
+Episode:, 2386, score: -50.0, average score: -49.68
+Episode:, 2387, score: -50.0, average score: -49.68
+Episode:, 2388, score: -50.0, average score: -49.68
+Episode:, 2389, score: -50.0, average score: -49.68
+Episode:, 2390, score: -50.0, average score: -49.68
+Episode:, 2391, score: -50.0, average score: -49.68
+Episode:, 2392, score: -50.0, average score: -49.68
+Episode:, 2393, score: -50.0, average score: -49.68
+Episode:, 2394, score: -50.0, average score: -49.68
+Episode:, 2395, score: -50.0, average score: -49.68
+Episode:, 2396, score: -50.0, average score: -49.68
+Episode:, 2397, score: -50.0, average score: -49.68
+Episode:, 2398, score: -50.0, average score: -49.68
+Episode:, 2399, score: -50.0, average score: -49.68
+Test Episode 231, score - -50.0
+Test Episode 232, score - -50.0
+Test Episode 233, score - -50.0
+Test Episode 234, score - -50.0
+Test Episode 235, score - -50.0
+Test Episode 236, score - -50.0
+Test Episode 237, score - -50.0
+Test Episode 238, score - -50.0
+Test Episode 239, score - -50.0
+Test Episode 240, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.91
+Episode:, 2400, score: -50.0, average score: -49.68
+Episode:, 2401, score: -50.0, average score: -49.68
+Episode:, 2402, score: -50.0, average score: -49.68
+Episode:, 2403, score: -50.0, average score: -49.68
+Episode:, 2404, score: -50.0, average score: -49.68
+Episode:, 2405, score: -50.0, average score: -49.68
+Episode:, 2406, score: -50.0, average score: -49.68
+Episode:, 2407, score: -50.0, average score: -49.68
+Episode:, 2408, score: -50.0, average score: -49.68
+Episode:, 2409, score: -50.0, average score: -49.68
+Episode:, 2410, score: -50.0, average score: -49.68
+Episode:, 2411, score: -50.0, average score: -49.68
+Episode:, 2412, score: -50.0, average score: -49.68
+Episode:, 2413, score: -50.0, average score: -49.68
+Episode:, 2414, score: -50.0, average score: -49.68
+Episode:, 2415, score: -11.0, average score: -49.29
+Episode:, 2416, score: -50.0, average score: -49.29
+Episode:, 2417, score: -50.0, average score: -49.29
+Episode:, 2418, score: -26.0, average score: -49.05
+Episode:, 2419, score: -50.0, average score: -49.05
+Episode:, 2420, score: -50.0, average score: -49.05
+Episode:, 2421, score: -50.0, average score: -49.05
+Episode:, 2422, score: -50.0, average score: -49.05
+Episode:, 2423, score: -50.0, average score: -49.05
+Episode:, 2424, score: -50.0, average score: -49.05
+Episode:, 2425, score: -50.0, average score: -49.05
+Episode:, 2426, score: -50.0, average score: -49.05
+Episode:, 2427, score: -50.0, average score: -49.05
+Episode:, 2428, score: -50.0, average score: -49.05
+Episode:, 2429, score: -50.0, average score: -49.05
+Episode:, 2430, score: -50.0, average score: -49.05
+Episode:, 2431, score: -50.0, average score: -49.05
+Episode:, 2432, score: -50.0, average score: -49.05
+Episode:, 2433, score: -50.0, average score: -49.05
+Episode:, 2434, score: -50.0, average score: -49.05
+Episode:, 2435, score: -50.0, average score: -49.05
+Episode:, 2436, score: -50.0, average score: -49.05
+Episode:, 2437, score: -50.0, average score: -49.05
+Episode:, 2438, score: -50.0, average score: -49.05
+Episode:, 2439, score: -50.0, average score: -49.05
+Episode:, 2440, score: -50.0, average score: -49.05
+Episode:, 2441, score: -50.0, average score: -49.05
+Episode:, 2442, score: -50.0, average score: -49.05
+Episode:, 2443, score: -50.0, average score: -49.05
+Episode:, 2444, score: -50.0, average score: -49.05
+Episode:, 2445, score: -50.0, average score: -49.05
+Episode:, 2446, score: -50.0, average score: -49.05
+Episode:, 2447, score: -50.0, average score: -49.05
+Episode:, 2448, score: -50.0, average score: -49.05
+Episode:, 2449, score: -50.0, average score: -49.05
+Episode:, 2450, score: -50.0, average score: -49.05
+Episode:, 2451, score: -50.0, average score: -49.05
+Episode:, 2452, score: -50.0, average score: -49.05
+Episode:, 2453, score: -50.0, average score: -49.05
+Episode:, 2454, score: -50.0, average score: -49.05
+Episode:, 2455, score: -50.0, average score: -49.05
+Episode:, 2456, score: -50.0, average score: -49.05
+Episode:, 2457, score: -50.0, average score: -49.05
+Episode:, 2458, score: -50.0, average score: -49.05
+Episode:, 2459, score: -50.0, average score: -49.05
+Episode:, 2460, score: -50.0, average score: -49.05
+Episode:, 2461, score: -50.0, average score: -49.05
+Episode:, 2462, score: -50.0, average score: -49.05
+Episode:, 2463, score: -50.0, average score: -49.05
+Episode:, 2464, score: -50.0, average score: -49.05
+Episode:, 2465, score: -50.0, average score: -49.05
+Episode:, 2466, score: -50.0, average score: -49.05
+Episode:, 2467, score: -50.0, average score: -49.05
+Episode:, 2468, score: -50.0, average score: -49.05
+Episode:, 2469, score: -50.0, average score: -49.05
+Episode:, 2470, score: -50.0, average score: -49.05
+Episode:, 2471, score: -50.0, average score: -49.05
+Episode:, 2472, score: -50.0, average score: -49.05
+Episode:, 2473, score: -50.0, average score: -49.05
+Episode:, 2474, score: -50.0, average score: -49.05
+Episode:, 2475, score: -50.0, average score: -49.05
+Episode:, 2476, score: -50.0, average score: -49.37
+Episode:, 2477, score: -50.0, average score: -49.37
+Episode:, 2478, score: -50.0, average score: -49.37
+Episode:, 2479, score: -50.0, average score: -49.37
+Episode:, 2480, score: -50.0, average score: -49.37
+Episode:, 2481, score: -50.0, average score: -49.37
+Episode:, 2482, score: -50.0, average score: -49.37
+Episode:, 2483, score: -50.0, average score: -49.37
+Episode:, 2484, score: -50.0, average score: -49.37
+Episode:, 2485, score: -50.0, average score: -49.37
+Episode:, 2486, score: -50.0, average score: -49.37
+Episode:, 2487, score: -50.0, average score: -49.37
+Episode:, 2488, score: -50.0, average score: -49.37
+Episode:, 2489, score: -50.0, average score: -49.37
+Episode:, 2490, score: -50.0, average score: -49.37
+Episode:, 2491, score: -50.0, average score: -49.37
+Episode:, 2492, score: -50.0, average score: -49.37
+Episode:, 2493, score: -50.0, average score: -49.37
+Episode:, 2494, score: -50.0, average score: -49.37
+Episode:, 2495, score: -50.0, average score: -49.37
+Episode:, 2496, score: -50.0, average score: -49.37
+Episode:, 2497, score: -50.0, average score: -49.37
+Episode:, 2498, score: -50.0, average score: -49.37
+Episode:, 2499, score: -50.0, average score: -49.37
+Test Episode 241, score - -15.0
+Test Episode 242, score - -50.0
+Test Episode 243, score - -50.0
+Test Episode 244, score - -50.0
+Test Episode 245, score - -50.0
+Test Episode 246, score - -50.0
+Test Episode 247, score - -50.0
+Test Episode 248, score - -50.0
+Test Episode 249, score - -50.0
+Test Episode 250, score - -50.0
+Test 10 average score: -46.5
+Test 100 average score: -49.56
+Episode:, 2500, score: -50.0, average score: -49.37
+Episode:, 2501, score: -50.0, average score: -49.37
+Episode:, 2502, score: -50.0, average score: -49.37
+Episode:, 2503, score: -50.0, average score: -49.37
+Episode:, 2504, score: -50.0, average score: -49.37
+Episode:, 2505, score: -14.0, average score: -49.01
+Episode:, 2506, score: -50.0, average score: -49.01
+Episode:, 2507, score: -50.0, average score: -49.01
+Episode:, 2508, score: -15.0, average score: -48.66
+Episode:, 2509, score: -50.0, average score: -48.66
+Episode:, 2510, score: -50.0, average score: -48.66
+Episode:, 2511, score: -50.0, average score: -48.66
+Episode:, 2512, score: -50.0, average score: -48.66
+Episode:, 2513, score: -50.0, average score: -48.66
+Episode:, 2514, score: -50.0, average score: -48.66
+Episode:, 2515, score: -50.0, average score: -49.05
+Episode:, 2516, score: -50.0, average score: -49.05
+Episode:, 2517, score: -50.0, average score: -49.05
+Episode:, 2518, score: -50.0, average score: -49.29
+Episode:, 2519, score: -50.0, average score: -49.29
+Episode:, 2520, score: -50.0, average score: -49.29
+Episode:, 2521, score: -50.0, average score: -49.29
+Episode:, 2522, score: -50.0, average score: -49.29
+Episode:, 2523, score: -50.0, average score: -49.29
+Episode:, 2524, score: -50.0, average score: -49.29
+Episode:, 2525, score: -50.0, average score: -49.29
+Episode:, 2526, score: -50.0, average score: -49.29
+Episode:, 2527, score: -50.0, average score: -49.29
+Episode:, 2528, score: -50.0, average score: -49.29
+Episode:, 2529, score: -50.0, average score: -49.29
+Episode:, 2530, score: -50.0, average score: -49.29
+Episode:, 2531, score: -50.0, average score: -49.29
+Episode:, 2532, score: -50.0, average score: -49.29
+Episode:, 2533, score: -50.0, average score: -49.29
+Episode:, 2534, score: -50.0, average score: -49.29
+Episode:, 2535, score: -50.0, average score: -49.29
+Episode:, 2536, score: -50.0, average score: -49.29
+Episode:, 2537, score: -50.0, average score: -49.29
+Episode:, 2538, score: -50.0, average score: -49.29
+Episode:, 2539, score: -50.0, average score: -49.29
+Episode:, 2540, score: -50.0, average score: -49.29
+Episode:, 2541, score: -50.0, average score: -49.29
+Episode:, 2542, score: -50.0, average score: -49.29
+Episode:, 2543, score: -50.0, average score: -49.29
+Episode:, 2544, score: -50.0, average score: -49.29
+Episode:, 2545, score: -50.0, average score: -49.29
+Episode:, 2546, score: -50.0, average score: -49.29
+Episode:, 2547, score: -50.0, average score: -49.29
+Episode:, 2548, score: -50.0, average score: -49.29
+Episode:, 2549, score: -50.0, average score: -49.29
+Episode:, 2550, score: -50.0, average score: -49.29
+Episode:, 2551, score: -50.0, average score: -49.29
+Episode:, 2552, score: -50.0, average score: -49.29
+Episode:, 2553, score: -50.0, average score: -49.29
+Episode:, 2554, score: -50.0, average score: -49.29
+Episode:, 2555, score: -50.0, average score: -49.29
+Episode:, 2556, score: -50.0, average score: -49.29
+Episode:, 2557, score: -50.0, average score: -49.29
+Episode:, 2558, score: -50.0, average score: -49.29
+Episode:, 2559, score: -50.0, average score: -49.29
+Episode:, 2560, score: -50.0, average score: -49.29
+Episode:, 2561, score: -50.0, average score: -49.29
+Episode:, 2562, score: -50.0, average score: -49.29
+Episode:, 2563, score: -50.0, average score: -49.29
+Episode:, 2564, score: -50.0, average score: -49.29
+Episode:, 2565, score: -50.0, average score: -49.29
+Episode:, 2566, score: -50.0, average score: -49.29
+Episode:, 2567, score: -50.0, average score: -49.29
+Episode:, 2568, score: -50.0, average score: -49.29
+Episode:, 2569, score: -50.0, average score: -49.29
+Episode:, 2570, score: -50.0, average score: -49.29
+Episode:, 2571, score: -50.0, average score: -49.29
+Episode:, 2572, score: -50.0, average score: -49.29
+Episode:, 2573, score: -50.0, average score: -49.29
+Episode:, 2574, score: -50.0, average score: -49.29
+Episode:, 2575, score: -19.0, average score: -48.98
+Episode:, 2576, score: -50.0, average score: -48.98
+Episode:, 2577, score: -50.0, average score: -48.98
+Episode:, 2578, score: -50.0, average score: -48.98
+Episode:, 2579, score: -50.0, average score: -48.98
+Episode:, 2580, score: -50.0, average score: -48.98
+Episode:, 2581, score: -50.0, average score: -48.98
+Episode:, 2582, score: -50.0, average score: -48.98
+Episode:, 2583, score: -50.0, average score: -48.98
+Episode:, 2584, score: -50.0, average score: -48.98
+Episode:, 2585, score: -50.0, average score: -48.98
+Episode:, 2586, score: -50.0, average score: -48.98
+Episode:, 2587, score: -50.0, average score: -48.98
+Episode:, 2588, score: -50.0, average score: -48.98
+Episode:, 2589, score: -50.0, average score: -48.98
+Episode:, 2590, score: -50.0, average score: -48.98
+Episode:, 2591, score: -50.0, average score: -48.98
+Episode:, 2592, score: -50.0, average score: -48.98
+Episode:, 2593, score: -50.0, average score: -48.98
+Episode:, 2594, score: -50.0, average score: -48.98
+Episode:, 2595, score: -50.0, average score: -48.98
+Episode:, 2596, score: -50.0, average score: -48.98
+Episode:, 2597, score: -50.0, average score: -48.98
+Episode:, 2598, score: -18.0, average score: -48.66
+Episode:, 2599, score: -50.0, average score: -48.66
+Test Episode 251, score - -50.0
+Test Episode 252, score - -50.0
+Test Episode 253, score - -50.0
+Test Episode 254, score - -50.0
+Test Episode 255, score - -50.0
+Test Episode 256, score - -50.0
+Test Episode 257, score - -50.0
+Test Episode 258, score - -50.0
+Test Episode 259, score - -50.0
+Test Episode 260, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.56
+Episode:, 2600, score: -50.0, average score: -48.66
+Episode:, 2601, score: -50.0, average score: -48.66
+Episode:, 2602, score: -50.0, average score: -48.66
+Episode:, 2603, score: -50.0, average score: -48.66
+Episode:, 2604, score: -50.0, average score: -48.66
+Episode:, 2605, score: -50.0, average score: -49.02
+Episode:, 2606, score: -50.0, average score: -49.02
+Episode:, 2607, score: -50.0, average score: -49.02
+Episode:, 2608, score: -50.0, average score: -49.37
+Episode:, 2609, score: -50.0, average score: -49.37
+Episode:, 2610, score: -50.0, average score: -49.37
+Episode:, 2611, score: -50.0, average score: -49.37
+Episode:, 2612, score: -50.0, average score: -49.37
+Episode:, 2613, score: -50.0, average score: -49.37
+Episode:, 2614, score: -50.0, average score: -49.37
+Episode:, 2615, score: -50.0, average score: -49.37
+Episode:, 2616, score: -50.0, average score: -49.37
+Episode:, 2617, score: -50.0, average score: -49.37
+Episode:, 2618, score: -50.0, average score: -49.37
+Episode:, 2619, score: -50.0, average score: -49.37
+Episode:, 2620, score: -50.0, average score: -49.37
+Episode:, 2621, score: -50.0, average score: -49.37
+Episode:, 2622, score: -50.0, average score: -49.37
+Episode:, 2623, score: -50.0, average score: -49.37
+Episode:, 2624, score: -50.0, average score: -49.37
+Episode:, 2625, score: -50.0, average score: -49.37
+Episode:, 2626, score: -50.0, average score: -49.37
+Episode:, 2627, score: -50.0, average score: -49.37
+Episode:, 2628, score: -50.0, average score: -49.37
+Episode:, 2629, score: -50.0, average score: -49.37
+Episode:, 2630, score: -50.0, average score: -49.37
+Episode:, 2631, score: -50.0, average score: -49.37
+Episode:, 2632, score: -50.0, average score: -49.37
+Episode:, 2633, score: -50.0, average score: -49.37
+Episode:, 2634, score: -50.0, average score: -49.37
+Episode:, 2635, score: -50.0, average score: -49.37
+Episode:, 2636, score: -50.0, average score: -49.37
+Episode:, 2637, score: -50.0, average score: -49.37
+Episode:, 2638, score: -50.0, average score: -49.37
+Episode:, 2639, score: -50.0, average score: -49.37
+Episode:, 2640, score: -50.0, average score: -49.37
+Episode:, 2641, score: -50.0, average score: -49.37
+Episode:, 2642, score: -50.0, average score: -49.37
+Episode:, 2643, score: -50.0, average score: -49.37
+Episode:, 2644, score: -50.0, average score: -49.37
+Episode:, 2645, score: -50.0, average score: -49.37
+Episode:, 2646, score: -50.0, average score: -49.37
+Episode:, 2647, score: -50.0, average score: -49.37
+Episode:, 2648, score: -50.0, average score: -49.37
+Episode:, 2649, score: -50.0, average score: -49.37
+Episode:, 2650, score: -50.0, average score: -49.37
+Episode:, 2651, score: -50.0, average score: -49.37
+Episode:, 2652, score: -50.0, average score: -49.37
+Episode:, 2653, score: -50.0, average score: -49.37
+Episode:, 2654, score: -50.0, average score: -49.37
+Episode:, 2655, score: -50.0, average score: -49.37
+Episode:, 2656, score: -50.0, average score: -49.37
+Episode:, 2657, score: -50.0, average score: -49.37
+Episode:, 2658, score: -50.0, average score: -49.37
+Episode:, 2659, score: -50.0, average score: -49.37
+Episode:, 2660, score: -50.0, average score: -49.37
+Episode:, 2661, score: -50.0, average score: -49.37
+Episode:, 2662, score: -50.0, average score: -49.37
+Episode:, 2663, score: -50.0, average score: -49.37
+Episode:, 2664, score: -50.0, average score: -49.37
+Episode:, 2665, score: -50.0, average score: -49.37
+Episode:, 2666, score: -50.0, average score: -49.37
+Episode:, 2667, score: -50.0, average score: -49.37
+Episode:, 2668, score: -50.0, average score: -49.37
+Episode:, 2669, score: -50.0, average score: -49.37
+Episode:, 2670, score: -50.0, average score: -49.37
+Episode:, 2671, score: -50.0, average score: -49.37
+Episode:, 2672, score: -50.0, average score: -49.37
+Episode:, 2673, score: -50.0, average score: -49.37
+Episode:, 2674, score: -50.0, average score: -49.37
+Episode:, 2675, score: -50.0, average score: -49.68
+Episode:, 2676, score: -50.0, average score: -49.68
+Episode:, 2677, score: -50.0, average score: -49.68
+Episode:, 2678, score: -50.0, average score: -49.68
+Episode:, 2679, score: -50.0, average score: -49.68
+Episode:, 2680, score: -50.0, average score: -49.68
+Episode:, 2681, score: -50.0, average score: -49.68
+Episode:, 2682, score: -50.0, average score: -49.68
+Episode:, 2683, score: -50.0, average score: -49.68
+Episode:, 2684, score: -50.0, average score: -49.68
+Episode:, 2685, score: -50.0, average score: -49.68
+Episode:, 2686, score: -50.0, average score: -49.68
+Episode:, 2687, score: -50.0, average score: -49.68
+Episode:, 2688, score: -16.0, average score: -49.34
+Episode:, 2689, score: -50.0, average score: -49.34
+Episode:, 2690, score: -50.0, average score: -49.34
+Episode:, 2691, score: -50.0, average score: -49.34
+Episode:, 2692, score: -50.0, average score: -49.34
+Episode:, 2693, score: -50.0, average score: -49.34
+Episode:, 2694, score: -50.0, average score: -49.34
+Episode:, 2695, score: -50.0, average score: -49.34
+Episode:, 2696, score: -50.0, average score: -49.34
+Episode:, 2697, score: -50.0, average score: -49.34
+Episode:, 2698, score: -50.0, average score: -49.66
+Episode:, 2699, score: -50.0, average score: -49.66
+Test Episode 261, score - -50.0
+Test Episode 262, score - -50.0
+Test Episode 263, score - -50.0
+Test Episode 264, score - -36.0
+Test Episode 265, score - -50.0
+Test Episode 266, score - -50.0
+Test Episode 267, score - -50.0
+Test Episode 268, score - -50.0
+Test Episode 269, score - -50.0
+Test Episode 270, score - -50.0
+Test 10 average score: -48.6
+Test 100 average score: -49.42
+Episode:, 2700, score: -50.0, average score: -49.66
+Episode:, 2701, score: -50.0, average score: -49.66
+Episode:, 2702, score: -50.0, average score: -49.66
+Episode:, 2703, score: -50.0, average score: -49.66
+Episode:, 2704, score: -50.0, average score: -49.66
+Episode:, 2705, score: -50.0, average score: -49.66
+Episode:, 2706, score: -50.0, average score: -49.66
+Episode:, 2707, score: -50.0, average score: -49.66
+Episode:, 2708, score: -50.0, average score: -49.66
+Episode:, 2709, score: -50.0, average score: -49.66
+Episode:, 2710, score: -50.0, average score: -49.66
+Episode:, 2711, score: -50.0, average score: -49.66
+Episode:, 2712, score: -50.0, average score: -49.66
+Episode:, 2713, score: -50.0, average score: -49.66
+Episode:, 2714, score: -50.0, average score: -49.66
+Episode:, 2715, score: -50.0, average score: -49.66
+Episode:, 2716, score: -50.0, average score: -49.66
+Episode:, 2717, score: -50.0, average score: -49.66
+Episode:, 2718, score: -50.0, average score: -49.66
+Episode:, 2719, score: -50.0, average score: -49.66
+Episode:, 2720, score: -50.0, average score: -49.66
+Episode:, 2721, score: -50.0, average score: -49.66
+Episode:, 2722, score: -50.0, average score: -49.66
+Episode:, 2723, score: -50.0, average score: -49.66
+Episode:, 2724, score: -50.0, average score: -49.66
+Episode:, 2725, score: -50.0, average score: -49.66
+Episode:, 2726, score: -50.0, average score: -49.66
+Episode:, 2727, score: -50.0, average score: -49.66
+Episode:, 2728, score: -50.0, average score: -49.66
+Episode:, 2729, score: -50.0, average score: -49.66
+Episode:, 2730, score: -50.0, average score: -49.66
+Episode:, 2731, score: -50.0, average score: -49.66
+Episode:, 2732, score: -50.0, average score: -49.66
+Episode:, 2733, score: -50.0, average score: -49.66
+Episode:, 2734, score: -50.0, average score: -49.66
+Episode:, 2735, score: -50.0, average score: -49.66
+Episode:, 2736, score: -50.0, average score: -49.66
+Episode:, 2737, score: -50.0, average score: -49.66
+Episode:, 2738, score: -50.0, average score: -49.66
+Episode:, 2739, score: -50.0, average score: -49.66
+Episode:, 2740, score: -50.0, average score: -49.66
+Episode:, 2741, score: -50.0, average score: -49.66
+Episode:, 2742, score: -50.0, average score: -49.66
+Episode:, 2743, score: -50.0, average score: -49.66
+Episode:, 2744, score: -50.0, average score: -49.66
+Episode:, 2745, score: -50.0, average score: -49.66
+Episode:, 2746, score: -50.0, average score: -49.66
+Episode:, 2747, score: -50.0, average score: -49.66
+Episode:, 2748, score: -50.0, average score: -49.66
+Episode:, 2749, score: -50.0, average score: -49.66
+Episode:, 2750, score: -50.0, average score: -49.66
+Episode:, 2751, score: -50.0, average score: -49.66
+Episode:, 2752, score: -50.0, average score: -49.66
+Episode:, 2753, score: -50.0, average score: -49.66
+Episode:, 2754, score: -50.0, average score: -49.66
+Episode:, 2755, score: -50.0, average score: -49.66
+Episode:, 2756, score: -50.0, average score: -49.66
+Episode:, 2757, score: -50.0, average score: -49.66
+Episode:, 2758, score: -50.0, average score: -49.66
+Episode:, 2759, score: -50.0, average score: -49.66
+Episode:, 2760, score: -50.0, average score: -49.66
+Episode:, 2761, score: -50.0, average score: -49.66
+Episode:, 2762, score: -50.0, average score: -49.66
+Episode:, 2763, score: -50.0, average score: -49.66
+Episode:, 2764, score: -50.0, average score: -49.66
+Episode:, 2765, score: -50.0, average score: -49.66
+Episode:, 2766, score: -50.0, average score: -49.66
+Episode:, 2767, score: -50.0, average score: -49.66
+Episode:, 2768, score: -50.0, average score: -49.66
+Episode:, 2769, score: -50.0, average score: -49.66
+Episode:, 2770, score: -50.0, average score: -49.66
+Episode:, 2771, score: -50.0, average score: -49.66
+Episode:, 2772, score: -50.0, average score: -49.66
+Episode:, 2773, score: -50.0, average score: -49.66
+Episode:, 2774, score: -50.0, average score: -49.66
+Episode:, 2775, score: -50.0, average score: -49.66
+Episode:, 2776, score: -50.0, average score: -49.66
+Episode:, 2777, score: -50.0, average score: -49.66
+Episode:, 2778, score: -50.0, average score: -49.66
+Episode:, 2779, score: -50.0, average score: -49.66
+Episode:, 2780, score: -50.0, average score: -49.66
+Episode:, 2781, score: -50.0, average score: -49.66
+Episode:, 2782, score: -50.0, average score: -49.66
+Episode:, 2783, score: -50.0, average score: -49.66
+Episode:, 2784, score: -50.0, average score: -49.66
+Episode:, 2785, score: -50.0, average score: -49.66
+Episode:, 2786, score: -50.0, average score: -49.66
+Episode:, 2787, score: -50.0, average score: -49.66
+Episode:, 2788, score: -50.0, average score: -50.0
+Episode:, 2789, score: -50.0, average score: -50.0
+Episode:, 2790, score: -14.0, average score: -49.64
+Episode:, 2791, score: -24.0, average score: -49.38
+Episode:, 2792, score: -50.0, average score: -49.38
+Episode:, 2793, score: -50.0, average score: -49.38
+Episode:, 2794, score: -50.0, average score: -49.38
+Episode:, 2795, score: -50.0, average score: -49.38
+Episode:, 2796, score: -50.0, average score: -49.38
+Episode:, 2797, score: -50.0, average score: -49.38
+Episode:, 2798, score: -50.0, average score: -49.38
+Episode:, 2799, score: -50.0, average score: -49.38
+Test Episode 271, score - -50.0
+Test Episode 272, score - -50.0
+Test Episode 273, score - -50.0
+Test Episode 274, score - -50.0
+Test Episode 275, score - -50.0
+Test Episode 276, score - -50.0
+Test Episode 277, score - -50.0
+Test Episode 278, score - -50.0
+Test Episode 279, score - -50.0
+Test Episode 280, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.42
+Episode:, 2800, score: -50.0, average score: -49.38
+Episode:, 2801, score: -28.0, average score: -49.16
+Episode:, 2802, score: -50.0, average score: -49.16
+Episode:, 2803, score: -50.0, average score: -49.16
+Episode:, 2804, score: -50.0, average score: -49.16
+Episode:, 2805, score: -50.0, average score: -49.16
+Episode:, 2806, score: -50.0, average score: -49.16
+Episode:, 2807, score: -50.0, average score: -49.16
+Episode:, 2808, score: -50.0, average score: -49.16
+Episode:, 2809, score: -50.0, average score: -49.16
+Episode:, 2810, score: -50.0, average score: -49.16
+Episode:, 2811, score: -50.0, average score: -49.16
+Episode:, 2812, score: -50.0, average score: -49.16
+Episode:, 2813, score: -50.0, average score: -49.16
+Episode:, 2814, score: -50.0, average score: -49.16
+Episode:, 2815, score: -50.0, average score: -49.16
+Episode:, 2816, score: -50.0, average score: -49.16
+Episode:, 2817, score: -50.0, average score: -49.16
+Episode:, 2818, score: -50.0, average score: -49.16
+Episode:, 2819, score: -50.0, average score: -49.16
+Episode:, 2820, score: -50.0, average score: -49.16
+Episode:, 2821, score: -50.0, average score: -49.16
+Episode:, 2822, score: -50.0, average score: -49.16
+Episode:, 2823, score: -50.0, average score: -49.16
+Episode:, 2824, score: -50.0, average score: -49.16
+Episode:, 2825, score: -50.0, average score: -49.16
+Episode:, 2826, score: -50.0, average score: -49.16
+Episode:, 2827, score: -50.0, average score: -49.16
+Episode:, 2828, score: -15.0, average score: -48.81
+Episode:, 2829, score: -50.0, average score: -48.81
+Episode:, 2830, score: -50.0, average score: -48.81
+Episode:, 2831, score: -50.0, average score: -48.81
+Episode:, 2832, score: -50.0, average score: -48.81
+Episode:, 2833, score: -50.0, average score: -48.81
+Episode:, 2834, score: -50.0, average score: -48.81
+Episode:, 2835, score: -50.0, average score: -48.81
+Episode:, 2836, score: -50.0, average score: -48.81
+Episode:, 2837, score: -50.0, average score: -48.81
+Episode:, 2838, score: -50.0, average score: -48.81
+Episode:, 2839, score: -50.0, average score: -48.81
+Episode:, 2840, score: -50.0, average score: -48.81
+Episode:, 2841, score: -50.0, average score: -48.81
+Episode:, 2842, score: -50.0, average score: -48.81
+Episode:, 2843, score: -50.0, average score: -48.81
+Episode:, 2844, score: -50.0, average score: -48.81
+Episode:, 2845, score: -50.0, average score: -48.81
+Episode:, 2846, score: -50.0, average score: -48.81
+Episode:, 2847, score: -50.0, average score: -48.81
+Episode:, 2848, score: -50.0, average score: -48.81
+Episode:, 2849, score: -50.0, average score: -48.81
+Episode:, 2850, score: -50.0, average score: -48.81
+Episode:, 2851, score: -50.0, average score: -48.81
+Episode:, 2852, score: -50.0, average score: -48.81
+Episode:, 2853, score: -50.0, average score: -48.81
+Episode:, 2854, score: -22.0, average score: -48.53
+Episode:, 2855, score: -50.0, average score: -48.53
+Episode:, 2856, score: -50.0, average score: -48.53
+Episode:, 2857, score: -50.0, average score: -48.53
+Episode:, 2858, score: -50.0, average score: -48.53
+Episode:, 2859, score: -50.0, average score: -48.53
+Episode:, 2860, score: -50.0, average score: -48.53
+Episode:, 2861, score: -50.0, average score: -48.53
+Episode:, 2862, score: -50.0, average score: -48.53
+Episode:, 2863, score: -50.0, average score: -48.53
+Episode:, 2864, score: -50.0, average score: -48.53
+Episode:, 2865, score: -50.0, average score: -48.53
+Episode:, 2866, score: -50.0, average score: -48.53
+Episode:, 2867, score: -50.0, average score: -48.53
+Episode:, 2868, score: -50.0, average score: -48.53
+Episode:, 2869, score: -50.0, average score: -48.53
+Episode:, 2870, score: -50.0, average score: -48.53
+Episode:, 2871, score: -50.0, average score: -48.53
+Episode:, 2872, score: -50.0, average score: -48.53
+Episode:, 2873, score: -50.0, average score: -48.53
+Episode:, 2874, score: -50.0, average score: -48.53
+Episode:, 2875, score: -50.0, average score: -48.53
+Episode:, 2876, score: -50.0, average score: -48.53
+Episode:, 2877, score: -50.0, average score: -48.53
+Episode:, 2878, score: -50.0, average score: -48.53
+Episode:, 2879, score: -50.0, average score: -48.53
+Episode:, 2880, score: -50.0, average score: -48.53
+Episode:, 2881, score: -50.0, average score: -48.53
+Episode:, 2882, score: -50.0, average score: -48.53
+Episode:, 2883, score: -50.0, average score: -48.53
+Episode:, 2884, score: -50.0, average score: -48.53
+Episode:, 2885, score: -50.0, average score: -48.53
+Episode:, 2886, score: -50.0, average score: -48.53
+Episode:, 2887, score: -50.0, average score: -48.53
+Episode:, 2888, score: -50.0, average score: -48.53
+Episode:, 2889, score: -50.0, average score: -48.53
+Episode:, 2890, score: -50.0, average score: -48.89
+Episode:, 2891, score: -50.0, average score: -49.15
+Episode:, 2892, score: -50.0, average score: -49.15
+Episode:, 2893, score: -50.0, average score: -49.15
+Episode:, 2894, score: -50.0, average score: -49.15
+Episode:, 2895, score: -50.0, average score: -49.15
+Episode:, 2896, score: -50.0, average score: -49.15
+Episode:, 2897, score: -50.0, average score: -49.15
+Episode:, 2898, score: -50.0, average score: -49.15
+Episode:, 2899, score: -50.0, average score: -49.15
+Test Episode 281, score - -50.0
+Test Episode 282, score - -50.0
+Test Episode 283, score - -50.0
+Test Episode 284, score - -50.0
+Test Episode 285, score - -50.0
+Test Episode 286, score - -50.0
+Test Episode 287, score - -50.0
+Test Episode 288, score - -33.0
+Test Episode 289, score - -50.0
+Test Episode 290, score - -50.0
+Test 10 average score: -48.3
+Test 100 average score: -49.25
+Episode:, 2900, score: -50.0, average score: -49.15
+Episode:, 2901, score: -50.0, average score: -49.37
+Episode:, 2902, score: -50.0, average score: -49.37
+Episode:, 2903, score: -50.0, average score: -49.37
+Episode:, 2904, score: -50.0, average score: -49.37
+Episode:, 2905, score: -50.0, average score: -49.37
+Episode:, 2906, score: -50.0, average score: -49.37
+Episode:, 2907, score: -50.0, average score: -49.37
+Episode:, 2908, score: -50.0, average score: -49.37
+Episode:, 2909, score: -50.0, average score: -49.37
+Episode:, 2910, score: -50.0, average score: -49.37
+Episode:, 2911, score: -50.0, average score: -49.37
+Episode:, 2912, score: -50.0, average score: -49.37
+Episode:, 2913, score: -50.0, average score: -49.37
+Episode:, 2914, score: -50.0, average score: -49.37
+Episode:, 2915, score: -50.0, average score: -49.37
+Episode:, 2916, score: -50.0, average score: -49.37
+Episode:, 2917, score: -50.0, average score: -49.37
+Episode:, 2918, score: -50.0, average score: -49.37
+Episode:, 2919, score: -50.0, average score: -49.37
+Episode:, 2920, score: -50.0, average score: -49.37
+Episode:, 2921, score: -50.0, average score: -49.37
+Episode:, 2922, score: -50.0, average score: -49.37
+Episode:, 2923, score: -50.0, average score: -49.37
+Episode:, 2924, score: -50.0, average score: -49.37
+Episode:, 2925, score: -50.0, average score: -49.37
+Episode:, 2926, score: -50.0, average score: -49.37
+Episode:, 2927, score: -50.0, average score: -49.37
+Episode:, 2928, score: -50.0, average score: -49.72
+Episode:, 2929, score: -50.0, average score: -49.72
+Episode:, 2930, score: -50.0, average score: -49.72
+Episode:, 2931, score: -50.0, average score: -49.72
+Episode:, 2932, score: -50.0, average score: -49.72
+Episode:, 2933, score: -50.0, average score: -49.72
+Episode:, 2934, score: -50.0, average score: -49.72
+Episode:, 2935, score: -50.0, average score: -49.72
+Episode:, 2936, score: -50.0, average score: -49.72
+Episode:, 2937, score: -50.0, average score: -49.72
+Episode:, 2938, score: -50.0, average score: -49.72
+Episode:, 2939, score: -50.0, average score: -49.72
+Episode:, 2940, score: -50.0, average score: -49.72
+Episode:, 2941, score: -50.0, average score: -49.72
+Episode:, 2942, score: -50.0, average score: -49.72
+Episode:, 2943, score: -50.0, average score: -49.72
+Episode:, 2944, score: -50.0, average score: -49.72
+Episode:, 2945, score: -50.0, average score: -49.72
+Episode:, 2946, score: -50.0, average score: -49.72
+Episode:, 2947, score: -50.0, average score: -49.72
+Episode:, 2948, score: -50.0, average score: -49.72
+Episode:, 2949, score: -50.0, average score: -49.72
+Episode:, 2950, score: -50.0, average score: -49.72
+Episode:, 2951, score: -50.0, average score: -49.72
+Episode:, 2952, score: -25.0, average score: -49.47
+Episode:, 2953, score: -50.0, average score: -49.47
+Episode:, 2954, score: -50.0, average score: -49.75
+Episode:, 2955, score: -50.0, average score: -49.75
+Episode:, 2956, score: -50.0, average score: -49.75
+Episode:, 2957, score: -50.0, average score: -49.75
+Episode:, 2958, score: -50.0, average score: -49.75
+Episode:, 2959, score: -50.0, average score: -49.75
+Episode:, 2960, score: -50.0, average score: -49.75
+Episode:, 2961, score: -50.0, average score: -49.75
+Episode:, 2962, score: -50.0, average score: -49.75
+Episode:, 2963, score: -50.0, average score: -49.75
+Episode:, 2964, score: -50.0, average score: -49.75
+Episode:, 2965, score: -21.0, average score: -49.46
+Episode:, 2966, score: -50.0, average score: -49.46
+Episode:, 2967, score: -50.0, average score: -49.46
+Episode:, 2968, score: -50.0, average score: -49.46
+Episode:, 2969, score: -50.0, average score: -49.46
+Episode:, 2970, score: -50.0, average score: -49.46
+Episode:, 2971, score: -50.0, average score: -49.46
+Episode:, 2972, score: -50.0, average score: -49.46
+Episode:, 2973, score: -50.0, average score: -49.46
+Episode:, 2974, score: -50.0, average score: -49.46
+Episode:, 2975, score: -50.0, average score: -49.46
+Episode:, 2976, score: -50.0, average score: -49.46
+Episode:, 2977, score: -50.0, average score: -49.46
+Episode:, 2978, score: -50.0, average score: -49.46
+Episode:, 2979, score: -50.0, average score: -49.46
+Episode:, 2980, score: -50.0, average score: -49.46
+Episode:, 2981, score: -50.0, average score: -49.46
+Episode:, 2982, score: -50.0, average score: -49.46
+Episode:, 2983, score: -50.0, average score: -49.46
+Episode:, 2984, score: -50.0, average score: -49.46
+Episode:, 2985, score: -50.0, average score: -49.46
+Episode:, 2986, score: -50.0, average score: -49.46
+Episode:, 2987, score: -50.0, average score: -49.46
+Episode:, 2988, score: -50.0, average score: -49.46
+Episode:, 2989, score: -50.0, average score: -49.46
+Episode:, 2990, score: -50.0, average score: -49.46
+Episode:, 2991, score: -50.0, average score: -49.46
+Episode:, 2992, score: -50.0, average score: -49.46
+Episode:, 2993, score: -50.0, average score: -49.46
+Episode:, 2994, score: -50.0, average score: -49.46
+Episode:, 2995, score: -50.0, average score: -49.46
+Episode:, 2996, score: -50.0, average score: -49.46
+Episode:, 2997, score: -50.0, average score: -49.46
+Episode:, 2998, score: -50.0, average score: -49.46
+Episode:, 2999, score: -50.0, average score: -49.46
+Test Episode 291, score - -50.0
+Test Episode 292, score - -50.0
+Test Episode 293, score - -50.0
+Test Episode 294, score - -50.0
+Test Episode 295, score - -50.0
+Test Episode 296, score - -50.0
+Test Episode 297, score - -50.0
+Test Episode 298, score - -50.0
+Test Episode 299, score - -50.0
+Test Episode 300, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.34
+Episode:, 3000, score: -50.0, average score: -49.46
+Episode:, 3001, score: -50.0, average score: -49.46
+Episode:, 3002, score: -50.0, average score: -49.46
+Episode:, 3003, score: -50.0, average score: -49.46
+Episode:, 3004, score: -50.0, average score: -49.46
+Episode:, 3005, score: -50.0, average score: -49.46
+Episode:, 3006, score: -50.0, average score: -49.46
+Episode:, 3007, score: -50.0, average score: -49.46
+Episode:, 3008, score: -50.0, average score: -49.46
+Episode:, 3009, score: -50.0, average score: -49.46
+Episode:, 3010, score: -50.0, average score: -49.46
+Episode:, 3011, score: -50.0, average score: -49.46
+Episode:, 3012, score: -50.0, average score: -49.46
+Episode:, 3013, score: -50.0, average score: -49.46
+Episode:, 3014, score: -50.0, average score: -49.46
+Episode:, 3015, score: -50.0, average score: -49.46
+Episode:, 3016, score: -50.0, average score: -49.46
+Episode:, 3017, score: -50.0, average score: -49.46
+Episode:, 3018, score: -50.0, average score: -49.46
+Episode:, 3019, score: -50.0, average score: -49.46
+Episode:, 3020, score: -50.0, average score: -49.46
+Episode:, 3021, score: -50.0, average score: -49.46
+Episode:, 3022, score: -50.0, average score: -49.46
+Episode:, 3023, score: -50.0, average score: -49.46
+Episode:, 3024, score: -50.0, average score: -49.46
+Episode:, 3025, score: -50.0, average score: -49.46
+Episode:, 3026, score: -50.0, average score: -49.46
+Episode:, 3027, score: -50.0, average score: -49.46
+Episode:, 3028, score: -50.0, average score: -49.46
+Episode:, 3029, score: -50.0, average score: -49.46
+Episode:, 3030, score: -50.0, average score: -49.46
+Episode:, 3031, score: -50.0, average score: -49.46
+Episode:, 3032, score: -50.0, average score: -49.46
+Episode:, 3033, score: -50.0, average score: -49.46
+Episode:, 3034, score: -50.0, average score: -49.46
+Episode:, 3035, score: -50.0, average score: -49.46
+Episode:, 3036, score: -50.0, average score: -49.46
+Episode:, 3037, score: -50.0, average score: -49.46
+Episode:, 3038, score: -50.0, average score: -49.46
+Episode:, 3039, score: -50.0, average score: -49.46
+Episode:, 3040, score: -50.0, average score: -49.46
+Episode:, 3041, score: -50.0, average score: -49.46
+Episode:, 3042, score: -50.0, average score: -49.46
+Episode:, 3043, score: -50.0, average score: -49.46
+Episode:, 3044, score: -50.0, average score: -49.46
+Episode:, 3045, score: -50.0, average score: -49.46
+Episode:, 3046, score: -50.0, average score: -49.46
+Episode:, 3047, score: -50.0, average score: -49.46
+Episode:, 3048, score: -50.0, average score: -49.46
+Episode:, 3049, score: -50.0, average score: -49.46
+Episode:, 3050, score: -50.0, average score: -49.46
+Episode:, 3051, score: -50.0, average score: -49.46
+Episode:, 3052, score: -50.0, average score: -49.71
+Episode:, 3053, score: -50.0, average score: -49.71
+Episode:, 3054, score: -50.0, average score: -49.71
+Episode:, 3055, score: -50.0, average score: -49.71
+Episode:, 3056, score: -50.0, average score: -49.71
+Episode:, 3057, score: -50.0, average score: -49.71
+Episode:, 3058, score: -50.0, average score: -49.71
+Episode:, 3059, score: -50.0, average score: -49.71
+Episode:, 3060, score: -50.0, average score: -49.71
+Episode:, 3061, score: -50.0, average score: -49.71
+Episode:, 3062, score: -50.0, average score: -49.71
+Episode:, 3063, score: -50.0, average score: -49.71
+Episode:, 3064, score: -50.0, average score: -49.71
+Episode:, 3065, score: -50.0, average score: -50.0
+Episode:, 3066, score: -50.0, average score: -50.0
+Episode:, 3067, score: -50.0, average score: -50.0
+Episode:, 3068, score: -50.0, average score: -50.0
+Episode:, 3069, score: -50.0, average score: -50.0
+Episode:, 3070, score: -50.0, average score: -50.0
+Episode:, 3071, score: -50.0, average score: -50.0
+Episode:, 3072, score: -50.0, average score: -50.0
+Episode:, 3073, score: -50.0, average score: -50.0
+Episode:, 3074, score: -50.0, average score: -50.0
+Episode:, 3075, score: -50.0, average score: -50.0
+Episode:, 3076, score: -50.0, average score: -50.0
+Episode:, 3077, score: -50.0, average score: -50.0
+Episode:, 3078, score: -50.0, average score: -50.0
+Episode:, 3079, score: -50.0, average score: -50.0
+Episode:, 3080, score: -50.0, average score: -50.0
+Episode:, 3081, score: -50.0, average score: -50.0
+Episode:, 3082, score: -50.0, average score: -50.0
+Episode:, 3083, score: -50.0, average score: -50.0
+Episode:, 3084, score: -50.0, average score: -50.0
+Episode:, 3085, score: -50.0, average score: -50.0
+Episode:, 3086, score: -50.0, average score: -50.0
+Episode:, 3087, score: -50.0, average score: -50.0
+Episode:, 3088, score: -50.0, average score: -50.0
+Episode:, 3089, score: -50.0, average score: -50.0
+Episode:, 3090, score: -50.0, average score: -50.0
+Episode:, 3091, score: -50.0, average score: -50.0
+Episode:, 3092, score: -50.0, average score: -50.0
+Episode:, 3093, score: -50.0, average score: -50.0
+Episode:, 3094, score: -50.0, average score: -50.0
+Episode:, 3095, score: -50.0, average score: -50.0
+Episode:, 3096, score: -50.0, average score: -50.0
+Episode:, 3097, score: -50.0, average score: -50.0
+Episode:, 3098, score: -50.0, average score: -50.0
+Episode:, 3099, score: -50.0, average score: -50.0
+Test Episode 301, score - -50.0
+Test Episode 302, score - -50.0
+Test Episode 303, score - -50.0
+Test Episode 304, score - -50.0
+Test Episode 305, score - -50.0
+Test Episode 306, score - -50.0
+Test Episode 307, score - -50.0
+Test Episode 308, score - -50.0
+Test Episode 309, score - -50.0
+Test Episode 310, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.34
+Episode:, 3100, score: -50.0, average score: -50.0
+Episode:, 3101, score: -50.0, average score: -50.0
+Episode:, 3102, score: -50.0, average score: -50.0
+Episode:, 3103, score: -50.0, average score: -50.0
+Episode:, 3104, score: -50.0, average score: -50.0
+Episode:, 3105, score: -50.0, average score: -50.0
+Episode:, 3106, score: -50.0, average score: -50.0
+Episode:, 3107, score: -50.0, average score: -50.0
+Episode:, 3108, score: -50.0, average score: -50.0
+Episode:, 3109, score: -50.0, average score: -50.0
+Episode:, 3110, score: -50.0, average score: -50.0
+Episode:, 3111, score: -50.0, average score: -50.0
+Episode:, 3112, score: -50.0, average score: -50.0
+Episode:, 3113, score: -50.0, average score: -50.0
+Episode:, 3114, score: -50.0, average score: -50.0
+Episode:, 3115, score: -50.0, average score: -50.0
+Episode:, 3116, score: -50.0, average score: -50.0
+Episode:, 3117, score: -50.0, average score: -50.0
+Episode:, 3118, score: -50.0, average score: -50.0
+Episode:, 3119, score: -50.0, average score: -50.0
+Episode:, 3120, score: -50.0, average score: -50.0
+Episode:, 3121, score: -50.0, average score: -50.0
+Episode:, 3122, score: -50.0, average score: -50.0
+Episode:, 3123, score: -50.0, average score: -50.0
+Episode:, 3124, score: -50.0, average score: -50.0
+Episode:, 3125, score: -50.0, average score: -50.0
+Episode:, 3126, score: -50.0, average score: -50.0
+Episode:, 3127, score: -50.0, average score: -50.0
+Episode:, 3128, score: -50.0, average score: -50.0
+Episode:, 3129, score: -50.0, average score: -50.0
+Episode:, 3130, score: -50.0, average score: -50.0
+Episode:, 3131, score: -50.0, average score: -50.0
+Episode:, 3132, score: -50.0, average score: -50.0
+Episode:, 3133, score: -50.0, average score: -50.0
+Episode:, 3134, score: -50.0, average score: -50.0
+Episode:, 3135, score: -50.0, average score: -50.0
+Episode:, 3136, score: -50.0, average score: -50.0
+Episode:, 3137, score: -50.0, average score: -50.0
+Episode:, 3138, score: -50.0, average score: -50.0
+Episode:, 3139, score: -50.0, average score: -50.0
+Episode:, 3140, score: -50.0, average score: -50.0
+Episode:, 3141, score: -50.0, average score: -50.0
+Episode:, 3142, score: -50.0, average score: -50.0
+Episode:, 3143, score: -50.0, average score: -50.0
+Episode:, 3144, score: -50.0, average score: -50.0
+Episode:, 3145, score: -50.0, average score: -50.0
+Episode:, 3146, score: -50.0, average score: -50.0
+Episode:, 3147, score: -50.0, average score: -50.0
+Episode:, 3148, score: -50.0, average score: -50.0
+Episode:, 3149, score: -50.0, average score: -50.0
+Episode:, 3150, score: -50.0, average score: -50.0
+Episode:, 3151, score: -50.0, average score: -50.0
+Episode:, 3152, score: -50.0, average score: -50.0
+Episode:, 3153, score: -50.0, average score: -50.0
+Episode:, 3154, score: -50.0, average score: -50.0
+Episode:, 3155, score: -50.0, average score: -50.0
+Episode:, 3156, score: -50.0, average score: -50.0
+Episode:, 3157, score: -50.0, average score: -50.0
+Episode:, 3158, score: -50.0, average score: -50.0
+Episode:, 3159, score: -50.0, average score: -50.0
+Episode:, 3160, score: -38.0, average score: -49.88
+Episode:, 3161, score: -50.0, average score: -49.88
+Episode:, 3162, score: -50.0, average score: -49.88
+Episode:, 3163, score: -50.0, average score: -49.88
+Episode:, 3164, score: -50.0, average score: -49.88
+Episode:, 3165, score: -50.0, average score: -49.88
+Episode:, 3166, score: -50.0, average score: -49.88
+Episode:, 3167, score: -50.0, average score: -49.88
+Episode:, 3168, score: -50.0, average score: -49.88
+Episode:, 3169, score: -50.0, average score: -49.88
+Episode:, 3170, score: -50.0, average score: -49.88
+Episode:, 3171, score: -50.0, average score: -49.88
+Episode:, 3172, score: -50.0, average score: -49.88
+Episode:, 3173, score: -50.0, average score: -49.88
+Episode:, 3174, score: -50.0, average score: -49.88
+Episode:, 3175, score: -50.0, average score: -49.88
+Episode:, 3176, score: -50.0, average score: -49.88
+Episode:, 3177, score: -50.0, average score: -49.88
+Episode:, 3178, score: -50.0, average score: -49.88
+Episode:, 3179, score: -50.0, average score: -49.88
+Episode:, 3180, score: -50.0, average score: -49.88
+Episode:, 3181, score: -50.0, average score: -49.88
+Episode:, 3182, score: -50.0, average score: -49.88
+Episode:, 3183, score: -50.0, average score: -49.88
+Episode:, 3184, score: -50.0, average score: -49.88
+Episode:, 3185, score: -50.0, average score: -49.88
+Episode:, 3186, score: -15.0, average score: -49.53
+Episode:, 3187, score: -50.0, average score: -49.53
+Episode:, 3188, score: -50.0, average score: -49.53
+Episode:, 3189, score: -50.0, average score: -49.53
+Episode:, 3190, score: -50.0, average score: -49.53
+Episode:, 3191, score: -50.0, average score: -49.53
+Episode:, 3192, score: -50.0, average score: -49.53
+Episode:, 3193, score: -50.0, average score: -49.53
+Episode:, 3194, score: -50.0, average score: -49.53
+Episode:, 3195, score: -50.0, average score: -49.53
+Episode:, 3196, score: -50.0, average score: -49.53
+Episode:, 3197, score: -50.0, average score: -49.53
+Episode:, 3198, score: -50.0, average score: -49.53
+Episode:, 3199, score: -50.0, average score: -49.53
+Test Episode 311, score - -50.0
+Test Episode 312, score - -50.0
+Test Episode 313, score - -50.0
+Test Episode 314, score - -50.0
+Test Episode 315, score - -50.0
+Test Episode 316, score - -50.0
+Test Episode 317, score - -50.0
+Test Episode 318, score - -50.0
+Test Episode 319, score - -50.0
+Test Episode 320, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.34
+Episode:, 3200, score: -50.0, average score: -49.53
+Episode:, 3201, score: -50.0, average score: -49.53
+Episode:, 3202, score: -50.0, average score: -49.53
+Episode:, 3203, score: -50.0, average score: -49.53
+Episode:, 3204, score: -50.0, average score: -49.53
+Episode:, 3205, score: -50.0, average score: -49.53
+Episode:, 3206, score: -50.0, average score: -49.53
+Episode:, 3207, score: -50.0, average score: -49.53
+Episode:, 3208, score: -50.0, average score: -49.53
+Episode:, 3209, score: -50.0, average score: -49.53
+Episode:, 3210, score: -50.0, average score: -49.53
+Episode:, 3211, score: -50.0, average score: -49.53
+Episode:, 3212, score: -50.0, average score: -49.53
+Episode:, 3213, score: -50.0, average score: -49.53
+Episode:, 3214, score: -50.0, average score: -49.53
+Episode:, 3215, score: -50.0, average score: -49.53
+Episode:, 3216, score: -50.0, average score: -49.53
+Episode:, 3217, score: -50.0, average score: -49.53
+Episode:, 3218, score: -50.0, average score: -49.53
+Episode:, 3219, score: -50.0, average score: -49.53
+Episode:, 3220, score: -50.0, average score: -49.53
+Episode:, 3221, score: -50.0, average score: -49.53
+Episode:, 3222, score: -50.0, average score: -49.53
+Episode:, 3223, score: -50.0, average score: -49.53
+Episode:, 3224, score: -50.0, average score: -49.53
+Episode:, 3225, score: -50.0, average score: -49.53
+Episode:, 3226, score: -50.0, average score: -49.53
+Episode:, 3227, score: -50.0, average score: -49.53
+Episode:, 3228, score: -50.0, average score: -49.53
+Episode:, 3229, score: -50.0, average score: -49.53
+Episode:, 3230, score: -50.0, average score: -49.53
+Episode:, 3231, score: -50.0, average score: -49.53
+Episode:, 3232, score: -50.0, average score: -49.53
+Episode:, 3233, score: -50.0, average score: -49.53
+Episode:, 3234, score: -50.0, average score: -49.53
+Episode:, 3235, score: -50.0, average score: -49.53
+Episode:, 3236, score: -50.0, average score: -49.53
+Episode:, 3237, score: -50.0, average score: -49.53
+Episode:, 3238, score: -50.0, average score: -49.53
+Episode:, 3239, score: -50.0, average score: -49.53
+Episode:, 3240, score: -50.0, average score: -49.53
+Episode:, 3241, score: -50.0, average score: -49.53
+Episode:, 3242, score: -50.0, average score: -49.53
+Episode:, 3243, score: -50.0, average score: -49.53
+Episode:, 3244, score: -50.0, average score: -49.53
+Episode:, 3245, score: -50.0, average score: -49.53
+Episode:, 3246, score: -50.0, average score: -49.53
+Episode:, 3247, score: -50.0, average score: -49.53
+Episode:, 3248, score: -50.0, average score: -49.53
+Episode:, 3249, score: -50.0, average score: -49.53
+Episode:, 3250, score: -50.0, average score: -49.53
+Episode:, 3251, score: -50.0, average score: -49.53
+Episode:, 3252, score: -50.0, average score: -49.53
+Episode:, 3253, score: -50.0, average score: -49.53
+Episode:, 3254, score: -50.0, average score: -49.53
+Episode:, 3255, score: -50.0, average score: -49.53
+Episode:, 3256, score: -50.0, average score: -49.53
+Episode:, 3257, score: -50.0, average score: -49.53
+Episode:, 3258, score: -50.0, average score: -49.53
+Episode:, 3259, score: -50.0, average score: -49.53
+Episode:, 3260, score: -50.0, average score: -49.65
+Episode:, 3261, score: -50.0, average score: -49.65
+Episode:, 3262, score: -50.0, average score: -49.65
+Episode:, 3263, score: -50.0, average score: -49.65
+Episode:, 3264, score: -50.0, average score: -49.65
+Episode:, 3265, score: -50.0, average score: -49.65
+Episode:, 3266, score: -50.0, average score: -49.65
+Episode:, 3267, score: -50.0, average score: -49.65
+Episode:, 3268, score: -50.0, average score: -49.65
+Episode:, 3269, score: -50.0, average score: -49.65
+Episode:, 3270, score: -50.0, average score: -49.65
+Episode:, 3271, score: -50.0, average score: -49.65
+Episode:, 3272, score: -50.0, average score: -49.65
+Episode:, 3273, score: -50.0, average score: -49.65
+Episode:, 3274, score: -50.0, average score: -49.65
+Episode:, 3275, score: -50.0, average score: -49.65
+Episode:, 3276, score: -50.0, average score: -49.65
+Episode:, 3277, score: -50.0, average score: -49.65
+Episode:, 3278, score: -50.0, average score: -49.65
+Episode:, 3279, score: -50.0, average score: -49.65
+Episode:, 3280, score: -50.0, average score: -49.65
+Episode:, 3281, score: -50.0, average score: -49.65
+Episode:, 3282, score: -50.0, average score: -49.65
+Episode:, 3283, score: -13.0, average score: -49.28
+Episode:, 3284, score: -50.0, average score: -49.28
+Episode:, 3285, score: -50.0, average score: -49.28
+Episode:, 3286, score: -50.0, average score: -49.63
+Episode:, 3287, score: -50.0, average score: -49.63
+Episode:, 3288, score: -50.0, average score: -49.63
+Episode:, 3289, score: -50.0, average score: -49.63
+Episode:, 3290, score: -50.0, average score: -49.63
+Episode:, 3291, score: -50.0, average score: -49.63
+Episode:, 3292, score: -50.0, average score: -49.63
+Episode:, 3293, score: -50.0, average score: -49.63
+Episode:, 3294, score: -50.0, average score: -49.63
+Episode:, 3295, score: -50.0, average score: -49.63
+Episode:, 3296, score: -50.0, average score: -49.63
+Episode:, 3297, score: -50.0, average score: -49.63
+Episode:, 3298, score: -50.0, average score: -49.63
+Episode:, 3299, score: -50.0, average score: -49.63
+Test Episode 321, score - -50.0
+Test Episode 322, score - -50.0
+Test Episode 323, score - -50.0
+Test Episode 324, score - -50.0
+Test Episode 325, score - -50.0
+Test Episode 326, score - -50.0
+Test Episode 327, score - -50.0
+Test Episode 328, score - -50.0
+Test Episode 329, score - -50.0
+Test Episode 330, score - -50.0
+Test 10 average score: -50.0
+Test 100 average score: -49.34
+Episode:, 3300, score: -50.0, average score: -49.63
+Episode:, 3301, score: -50.0, average score: -49.63
+Episode:, 3302, score: -50.0, average score: -49.63
+Episode:, 3303, score: -50.0, average score: -49.63
+Episode:, 3304, score: -50.0, average score: -49.63
+Episode:, 3305, score: -50.0, average score: -49.63
+Episode:, 3306, score: -50.0, average score: -49.63
+Episode:, 3307, score: -50.0, average score: -49.63
+Episode:, 3308, score: -50.0, average score: -49.63
+Episode:, 3309, score: -50.0, average score: -49.63
+Episode:, 3310, score: -50.0, average score: -49.63
+Episode:, 3311, score: -50.0, average score: -49.63
+Episode:, 3312, score: -50.0, average score: -49.63
+Episode:, 3313, score: -50.0, average score: -49.63
+Episode:, 3314, score: -50.0, average score: -49.63
+Episode:, 3315, score: -50.0, average score: -49.63
+Episode:, 3316, score: -50.0, average score: -49.63
+Episode:, 3317, score: -50.0, average score: -49.63
+Episode:, 3318, score: -50.0, average score: -49.63
+Episode:, 3319, score: -50.0, average score: -49.63
+Episode:, 3320, score: -50.0, average score: -49.63
+Episode:, 3321, score: -50.0, average score: -49.63
+Episode:, 3322, score: -50.0, average score: -49.63
+Episode:, 3323, score: -50.0, average score: -49.63
+Episode:, 3324, score: -50.0, average score: -49.63
+Episode:, 3325, score: -50.0, average score: -49.63
+Episode:, 3326, score: -50.0, average score: -49.63
+Episode:, 3327, score: -50.0, average score: -49.63
+Episode:, 3328, score: -50.0, average score: -49.63
+Episode:, 3329, score: -50.0, average score: -49.63
+Episode:, 3330, score: -50.0, average score: -49.63
+Episode:, 3331, score: -50.0, average score: -49.63
+Episode:, 3332, score: -50.0, average score: -49.63
+Episode:, 3333, score: -50.0, average score: -49.63
+Episode:, 3334, score: -50.0, average score: -49.63
+Episode:, 3335, score: -50.0, average score: -49.63
+Episode:, 3336, score: -50.0, average score: -49.63
+Episode:, 3337, score: -50.0, average score: -49.63
+Episode:, 3338, score: -50.0, average score: -49.63
+Episode:, 3339, score: -50.0, average score: -49.63
+Episode:, 3340, score: -24.0, average score: -49.37
+Episode:, 3341, score: -50.0, average score: -49.37
+Episode:, 3342, score: -50.0, average score: -49.37
+Episode:, 3343, score: -50.0, average score: -49.37
+Episode:, 3344, score: -50.0, average score: -49.37
+Episode:, 3345, score: -50.0, average score: -49.37
+Episode:, 3346, score: -50.0, average score: -49.37
+Episode:, 3347, score: -50.0, average score: -49.37
+Episode:, 3348, score: -50.0, average score: -49.37
+Episode:, 3349, score: -50.0, average score: -49.37
+Episode:, 3350, score: -50.0, average score: -49.37
+Episode:, 3351, score: -50.0, average score: -49.37
+Episode:, 3352, score: -50.0, average score: -49.37
+Episode:, 3353, score: -50.0, average score: -49.37
+Episode:, 3354, score: -50.0, average score: -49.37
+Episode:, 3355, score: -50.0, average score: -49.37
+Episode:, 3356, score: -50.0, average score: -49.37
+Episode:, 3357, score: -50.0, average score: -49.37
+Episode:, 3358, score: -50.0, average score: -49.37
+Episode:, 3359, score: -50.0, average score: -49.37
+Episode:, 3360, score: -50.0, average score: -49.37
+Episode:, 3361, score: -50.0, average score: -49.37
+Episode:, 3362, score: -50.0, average score: -49.37
+Episode:, 3363, score: -50.0, average score: -49.37
+Episode:, 3364, score: -50.0, average score: -49.37
+Episode:, 3365, score: -50.0, average score: -49.37
+Episode:, 3366, score: -50.0, average score: -49.37
+Episode:, 3367, score: -50.0, average score: -49.37
+Episode:, 3368, score: -50.0, average score: -49.37
+Episode:, 3369, score: -50.0, average score: -49.37
+Episode:, 3370, score: -50.0, average score: -49.37
+Episode:, 3371, score: -50.0, average score: -49.37
+Episode:, 3372, score: -50.0, average score: -49.37
+Episode:, 3373, score: -50.0, average score: -49.37

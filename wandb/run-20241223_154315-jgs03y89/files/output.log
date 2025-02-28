@@ -1,0 +1,123 @@
+  0%|                                                                                               | 0/200 [00:00<?, ?it/s]/home/viktor/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:125: UserWarning: Attempting to use hipBLASLt on an unsupported architecture! Overriding blas backend to hipblas (Triggered internally at ../aten/src/ATen/Context.cpp:296.)
+  return F.linear(input, self.weight, self.bias)
+Episode:, 0, score: -50.0, average score: -50.0
+ 16%|█████████████▊                                                                        | 32/200 [00:04<01:14,  2.25it/s]
+Episode:, 1, score: -50.0, average score: -50.0
+Episode:, 2, score: -50.0, average score: -50.0
+Episode:, 3, score: -50.0, average score: -50.0
+Episode:, 4, score: -50.0, average score: -50.0
+Episode:, 5, score: -50.0, average score: -50.0
+Episode:, 6, score: -50.0, average score: -50.0
+Episode:, 7, score: -50.0, average score: -50.0
+Episode:, 8, score: -50.0, average score: -50.0
+Episode:, 9, score: -50.0, average score: -50.0
+Episode:, 10, score: -50.0, average score: -50.0
+Episode:, 11, score: -14.0, average score: -47.0
+Episode:, 12, score: -13.0, average score: -44.38461538461539
+Episode:, 13, score: -50.0, average score: -44.785714285714285
+Episode:, 14, score: -50.0, average score: -45.13333333333333
+Episode:, 15, score: -50.0, average score: -45.4375
+Episode:, 16, score: -50.0, average score: -45.705882352941174
+Episode:, 17, score: -50.0, average score: -45.94444444444444
+Episode:, 18, score: -50.0, average score: -46.1578947368421
+Episode:, 19, score: -50.0, average score: -46.35
+Episode:, 20, score: -50.0, average score: -46.523809523809526
+Episode:, 21, score: -50.0, average score: -46.68181818181818
+Episode:, 22, score: -50.0, average score: -46.82608695652174
+Episode:, 23, score: -50.0, average score: -46.958333333333336
+Episode:, 24, score: -50.0, average score: -47.08
+Episode:, 25, score: -50.0, average score: -47.19230769230769
+Episode:, 26, score: -50.0, average score: -47.2962962962963
+Episode:, 27, score: -50.0, average score: -47.392857142857146
+Episode:, 28, score: -50.0, average score: -47.48275862068966
+Episode:, 29, score: -50.0, average score: -47.56666666666667
+Episode:, 30, score: -50.0, average score: -47.645161290322584
+Episode:, 31, score: -50.0, average score: -47.71875
+Episode:, 32, score: -50.0, average score: -47.78787878787879
+Episode:, 33, score: -50.0, average score: -47.85294117647059
+Episode:, 34, score: -50.0, average score: -47.91428571428571
+Episode:, 35, score: -50.0, average score: -47.97222222222222
+Episode:, 36, score: -50.0, average score: -48.027027027027025
+Episode:, 37, score: -50.0, average score: -48.078947368421055
+Episode:, 38, score: -50.0, average score: -48.12820512820513
+Episode:, 39, score: -50.0, average score: -48.175
+Episode:, 40, score: -12.0, average score: -47.292682926829265
+Episode:, 41, score: -50.0, average score: -47.357142857142854
+Episode:, 42, score: -50.0, average score: -47.41860465116279
+Episode:, 43, score: -50.0, average score: -47.47727272727273
+Episode:, 44, score: -50.0, average score: -47.53333333333333
+Episode:, 45, score: -50.0, average score: -47.58695652173913
+Episode:, 46, score: -10.0, average score: -46.787234042553195
+Episode:, 47, score: -50.0, average score: -46.854166666666664
+Episode:, 48, score: -50.0, average score: -46.91836734693877
+Episode:, 49, score: -50.0, average score: -46.98
+Episode:, 50, score: -50.0, average score: -47.03921568627451
+Episode:, 51, score: -50.0, average score: -47.09615384615385
+Episode:, 52, score: -50.0, average score: -47.15094339622642
+Episode:, 53, score: -50.0, average score: -47.2037037037037
+Episode:, 54, score: -50.0, average score: -47.25454545454546
+Episode:, 55, score: -50.0, average score: -47.30357142857143
+Episode:, 56, score: -50.0, average score: -47.35087719298246
+Episode:, 57, score: -50.0, average score: -47.39655172413793
+Episode:, 58, score: -50.0, average score: -47.440677966101696
+Episode:, 59, score: -50.0, average score: -47.483333333333334
+Episode:, 60, score: -50.0, average score: -47.52459016393443
+Episode:, 61, score: -50.0, average score: -47.564516129032256
+Episode:, 62, score: -50.0, average score: -47.6031746031746
+Episode:, 63, score: -50.0, average score: -47.640625
+Episode:, 64, score: -27.0, average score: -47.323076923076925
+Episode:, 65, score: -50.0, average score: -47.36363636363637
+Episode:, 66, score: -50.0, average score: -47.40298507462686
+Episode:, 67, score: -50.0, average score: -47.44117647058823
+Episode:, 68, score: -15.0, average score: -46.971014492753625
+Episode:, 69, score: -50.0, average score: -47.01428571428571
+Episode:, 70, score: -50.0, average score: -47.056338028169016
+Episode:, 71, score: -50.0, average score: -47.09722222222222
+Episode:, 72, score: -50.0, average score: -47.136986301369866
+Episode:, 73, score: -50.0, average score: -47.17567567567568
+Episode:, 74, score: -50.0, average score: -47.21333333333333
+Episode:, 75, score: -50.0, average score: -47.25
+Episode:, 76, score: -50.0, average score: -47.285714285714285
+Episode:, 77, score: -50.0, average score: -47.32051282051282
+Episode:, 78, score: -50.0, average score: -47.35443037974684
+Episode:, 79, score: -50.0, average score: -47.3875
+Episode:, 80, score: -50.0, average score: -47.41975308641975
+Episode:, 81, score: -19.0, average score: -47.073170731707314
+Episode:, 82, score: -50.0, average score: -47.10843373493976
+Episode:, 83, score: -50.0, average score: -47.142857142857146
+Episode:, 84, score: -50.0, average score: -47.1764705882353
+Episode:, 85, score: -50.0, average score: -47.2093023255814
+Episode:, 86, score: -50.0, average score: -47.241379310344826
+Episode:, 87, score: -50.0, average score: -47.27272727272727
+Episode:, 88, score: -50.0, average score: -47.30337078651685
+Episode:, 89, score: -50.0, average score: -47.333333333333336
+Episode:, 90, score: -50.0, average score: -47.362637362637365
+Episode:, 91, score: -50.0, average score: -47.391304347826086
+Episode:, 92, score: -50.0, average score: -47.41935483870968
+Episode:, 93, score: -50.0, average score: -47.4468085106383
+Episode:, 94, score: -50.0, average score: -47.473684210526315
+Episode:, 95, score: -50.0, average score: -47.5
+Episode:, 96, score: -50.0, average score: -47.52577319587629
+Episode:, 97, score: -50.0, average score: -47.55102040816327
+Episode:, 98, score: -50.0, average score: -47.57575757575758
+Episode:, 99, score: -50.0, average score: -47.6
+Traceback (most recent call last):
+  File "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/proba.py", line 169, in <module>
+    test()
+  File "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/proba.py", line 56, in test
+    test_env = XarmRobotGolf(test_config)
+  File "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/XarmGolfEnv.py", line 26, in __init__
+    self.physics_client = bc.BulletClient(p.GUI)
+  File "/home/viktor/.local/lib/python3.10/site-packages/pybullet_utils/bullet_client.py", line 33, in __init__
+    self._client = pybullet.connect(connection_mode, options=options)
+pybullet.error: Only one local in-process GUI/GUI_SERVER connection allowed. Use DIRECT connection mode or start a separate GUI physics server (ExampleBrowser, App_SharedMemoryPhysics_GUI, App_SharedMemoryPhysics_VR) and connect over SHARED_MEMORY, UDP or TCP instead.
+Traceback (most recent call last):
+  File "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/proba.py", line 169, in <module>
+    test()
+  File "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/proba.py", line 56, in test
+    test_env = XarmRobotGolf(test_config)
+  File "/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/XarmGolfEnv.py", line 26, in __init__
+    self.physics_client = bc.BulletClient(p.GUI)
+  File "/home/viktor/.local/lib/python3.10/site-packages/pybullet_utils/bullet_client.py", line 33, in __init__
+    self._client = pybullet.connect(connection_mode, options=options)
+pybullet.error: Only one local in-process GUI/GUI_SERVER connection allowed. Use DIRECT connection mode or start a separate GUI physics server (ExampleBrowser, App_SharedMemoryPhysics_GUI, App_SharedMemoryPhysics_VR) and connect over SHARED_MEMORY, UDP or TCP instead.

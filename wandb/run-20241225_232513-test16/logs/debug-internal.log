@@ -1,0 +1,10 @@
+{"time":"2024-12-25T23:25:13.721445292+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-25T23:25:13.721458357+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241225_232513-test16/logs/debug-core.log"}
+{"time":"2024-12-25T23:25:13.826298551+01:00","level":"INFO","msg":"created new stream","id":"test16"}
+{"time":"2024-12-25T23:25:13.826346361+01:00","level":"INFO","msg":"stream: started","id":"test16"}
+{"time":"2024-12-25T23:25:13.826349417+01:00","level":"INFO","msg":"handler: started","stream_id":"test16"}
+{"time":"2024-12-25T23:25:13.826373021+01:00","level":"INFO","msg":"sender: started","stream_id":"test16"}
+{"time":"2024-12-25T23:25:13.826381908+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test16"}
+{"time":"2024-12-25T23:25:14.220087111+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-25T23:54:34.220667755+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/4000389/statm: no such file or directory"}
+{"time":"2024-12-25T23:54:34.220689266+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/4000389/stat: no such file or directory\nopen /proc/4000389/status: no such file or directory"}

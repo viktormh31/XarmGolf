@@ -1,0 +1,122 @@
+  0%|                                                                                                                                                                                      | 0/20000 [00:00<?, ?it/s]/home/viktor/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:125: UserWarning: Attempting to use hipBLASLt on an unsupported architecture! Overriding blas backend to hipblas (Triggered internally at ../aten/src/ATen/Context.cpp:296.)
+  return F.linear(input, self.weight, self.bias)
+Episode:, 0, score: -50.0, average score: -50.0
+  0%|▎                                                                                                                                                                            | 32/20000 [00:03<39:30,  8.42it/s]
+Episode:, 1, score: -50.0, average score: -50.0
+Episode:, 2, score: -50.0, average score: -50.0
+Episode:, 3, score: -50.0, average score: -50.0
+Episode:, 4, score: -50.0, average score: -50.0
+Episode:, 5, score: -50.0, average score: -50.0
+Episode:, 6, score: -50.0, average score: -50.0
+Episode:, 7, score: -50.0, average score: -50.0
+Episode:, 8, score: -50.0, average score: -50.0
+Episode:, 9, score: -50.0, average score: -50.0
+Episode:, 10, score: -50.0, average score: -50.0
+Episode:, 11, score: -50.0, average score: -50.0
+Episode:, 12, score: -50.0, average score: -50.0
+Episode:, 13, score: -50.0, average score: -50.0
+Episode:, 14, score: -50.0, average score: -50.0
+Episode:, 15, score: -50.0, average score: -50.0
+Episode:, 16, score: -50.0, average score: -50.0
+Episode:, 17, score: -50.0, average score: -50.0
+Episode:, 18, score: -50.0, average score: -50.0
+Episode:, 19, score: -50.0, average score: -50.0
+Episode:, 20, score: -50.0, average score: -50.0
+Episode:, 21, score: -11.0, average score: -48.22727272727273
+Episode:, 22, score: -50.0, average score: -48.30434782608695
+Episode:, 23, score: -50.0, average score: -48.375
+Episode:, 24, score: -50.0, average score: -48.44
+Episode:, 25, score: -50.0, average score: -48.5
+Episode:, 26, score: -50.0, average score: -48.55555555555556
+Episode:, 27, score: -50.0, average score: -48.607142857142854
+Episode:, 28, score: -50.0, average score: -48.6551724137931
+Episode:, 29, score: -50.0, average score: -48.7
+Episode:, 30, score: -50.0, average score: -48.74193548387097
+Episode:, 31, score: -50.0, average score: -48.78125
+Episode:, 32, score: -50.0, average score: -48.81818181818182
+Episode:, 33, score: -17.0, average score: -47.88235294117647
+Episode:, 34, score: -50.0, average score: -47.94285714285714
+Episode:, 35, score: -50.0, average score: -48.0
+Episode:, 36, score: -50.0, average score: -48.054054054054056
+Episode:, 37, score: -50.0, average score: -48.10526315789474
+Episode:, 38, score: -50.0, average score: -48.15384615384615
+Episode:, 39, score: -35.0, average score: -47.825
+Episode:, 40, score: -50.0, average score: -47.8780487804878
+Episode:, 41, score: -50.0, average score: -47.92857142857143
+Episode:, 42, score: -50.0, average score: -47.97674418604651
+Episode:, 43, score: -50.0, average score: -48.02272727272727
+Episode:, 44, score: -50.0, average score: -48.06666666666667
+Episode:, 45, score: -50.0, average score: -48.108695652173914
+Episode:, 46, score: -50.0, average score: -48.148936170212764
+Episode:, 47, score: -50.0, average score: -48.1875
+Episode:, 48, score: -50.0, average score: -48.224489795918366
+Episode:, 49, score: -50.0, average score: -48.26
+Episode:, 50, score: -50.0, average score: -48.294117647058826
+Episode:, 51, score: -50.0, average score: -48.32692307692308
+Episode:, 52, score: -50.0, average score: -48.35849056603774
+Episode:, 53, score: -50.0, average score: -48.388888888888886
+Episode:, 54, score: -50.0, average score: -48.41818181818182
+Episode:, 55, score: -50.0, average score: -48.44642857142857
+Episode:, 56, score: -50.0, average score: -48.473684210526315
+Episode:, 57, score: -50.0, average score: -48.5
+Episode:, 58, score: -50.0, average score: -48.52542372881356
+Episode:, 59, score: -50.0, average score: -48.55
+Episode:, 60, score: -50.0, average score: -48.57377049180328
+Episode:, 61, score: -50.0, average score: -48.596774193548384
+Episode:, 62, score: -50.0, average score: -48.61904761904762
+Episode:, 63, score: -50.0, average score: -48.640625
+Episode:, 64, score: -50.0, average score: -48.66153846153846
+Episode:, 65, score: -50.0, average score: -48.68181818181818
+Episode:, 66, score: -50.0, average score: -48.701492537313435
+Episode:, 67, score: -50.0, average score: -48.720588235294116
+Episode:, 68, score: -50.0, average score: -48.73913043478261
+Episode:, 69, score: -50.0, average score: -48.75714285714286
+Episode:, 70, score: -50.0, average score: -48.774647887323944
+Episode:, 71, score: -50.0, average score: -48.791666666666664
+Episode:, 72, score: -50.0, average score: -48.80821917808219
+Episode:, 73, score: -50.0, average score: -48.82432432432432
+Episode:, 74, score: -50.0, average score: -48.84
+Episode:, 75, score: -50.0, average score: -48.85526315789474
+Episode:, 76, score: -50.0, average score: -48.87012987012987
+Episode:, 77, score: -50.0, average score: -48.88461538461539
+Episode:, 78, score: -50.0, average score: -48.89873417721519
+Episode:, 79, score: -50.0, average score: -48.9125
+Episode:, 80, score: -50.0, average score: -48.925925925925924
+Episode:, 81, score: -50.0, average score: -48.9390243902439
+Episode:, 82, score: -50.0, average score: -48.95180722891566
+Episode:, 83, score: -50.0, average score: -48.964285714285715
+Episode:, 84, score: -50.0, average score: -48.976470588235294
+Episode:, 85, score: -50.0, average score: -48.98837209302326
+Episode:, 86, score: -50.0, average score: -49.0
+Episode:, 87, score: -50.0, average score: -49.01136363636363
+Episode:, 88, score: -50.0, average score: -49.02247191011236
+Episode:, 89, score: -50.0, average score: -49.03333333333333
+Episode:, 90, score: -50.0, average score: -49.043956043956044
+Episode:, 91, score: -50.0, average score: -49.05434782608695
+Episode:, 92, score: -50.0, average score: -49.064516129032256
+Episode:, 93, score: -50.0, average score: -49.07446808510638
+Episode:, 94, score: -50.0, average score: -49.084210526315786
+Episode:, 95, score: -50.0, average score: -49.09375
+Episode:, 96, score: -50.0, average score: -49.103092783505154
+Episode:, 97, score: -15.0, average score: -48.755102040816325
+Episode:, 98, score: -16.0, average score: -48.42424242424242
+Episode:, 99, score: -50.0, average score: -48.44
+Test Episode 1, score - -50.0
+Test Episode 2, score - -50.0
+Test Episode 3, score - -50.0
+Test Episode 4, score - -50.0
+Test Episode 5, score - -32.0
+Test Episode 6, score - -50.0
+Test Episode 7, score - -50.0
+Test Episode 8, score - -50.0
+Test Episode 9, score - -50.0
+Test Episode 10, score - -50.0
+Test 10 average score: -48.2
+Test 100 average score: -48.2
+Episode:, 100, score: -50.0, average score: -48.44
+Episode:, 101, score: -50.0, average score: -48.44
+Episode:, 102, score: -50.0, average score: -48.44
+Episode:, 103, score: -50.0, average score: -48.44
+Episode:, 104, score: -50.0, average score: -48.44
+Episode:, 105, score: -50.0, average score: -48.44
+Episode:, 106, score: -50.0, average score: -48.44

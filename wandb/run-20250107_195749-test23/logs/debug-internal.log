@@ -1,0 +1,9 @@
+{"time":"2025-01-07T19:57:49.962913595+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-07T19:57:49.962927371+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20250107_195749-test23/logs/debug-core.log"}
+{"time":"2025-01-07T19:57:50.06747256+01:00","level":"INFO","msg":"created new stream","id":"test23"}
+{"time":"2025-01-07T19:57:50.067502155+01:00","level":"INFO","msg":"stream: started","id":"test23"}
+{"time":"2025-01-07T19:57:50.067555255+01:00","level":"INFO","msg":"sender: started","stream_id":"test23"}
+{"time":"2025-01-07T19:57:50.067592535+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test23"}
+{"time":"2025-01-07T19:57:50.067599979+01:00","level":"INFO","msg":"handler: started","stream_id":"test23"}
+{"time":"2025-01-07T19:57:50.352143277+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-07T22:12:06.254766342+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/viktorsalaj01-faculty-of-technical-sciences-novi-sad/Xarm-golf/test23/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}

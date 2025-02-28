@@ -1,0 +1,10 @@
+{"time":"2024-12-25T19:01:52.983079142+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-25T19:01:52.983089842+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241225_190152-test12/logs/debug-core.log"}
+{"time":"2024-12-25T19:01:53.087326898+01:00","level":"INFO","msg":"created new stream","id":"test12"}
+{"time":"2024-12-25T19:01:53.087363447+01:00","level":"INFO","msg":"stream: started","id":"test12"}
+{"time":"2024-12-25T19:01:53.087397832+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test12"}
+{"time":"2024-12-25T19:01:53.087401048+01:00","level":"INFO","msg":"handler: started","stream_id":"test12"}
+{"time":"2024-12-25T19:01:53.087435022+01:00","level":"INFO","msg":"sender: started","stream_id":"test12"}
+{"time":"2024-12-25T19:01:53.467436398+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-25T19:59:19.211760029+01:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/viktorsalaj01-faculty-of-technical-sciences-novi-sad/Xarm-golf/test12/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2024-12-25T20:00:16.851372769+01:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/viktorsalaj01-faculty-of-technical-sciences-novi-sad/Xarm-golf/test12/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}

@@ -1,0 +1,18 @@
+{"time":"2025-01-06T19:38:26.175260359+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-06T19:38:26.175273103+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20250106_193826-test22/logs/debug-core.log"}
+{"time":"2025-01-06T19:38:26.280233513+01:00","level":"INFO","msg":"created new stream","id":"test22"}
+{"time":"2025-01-06T19:38:26.280266876+01:00","level":"INFO","msg":"stream: started","id":"test22"}
+{"time":"2025-01-06T19:38:26.280288857+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"test22"}
+{"time":"2025-01-06T19:38:26.280298495+01:00","level":"INFO","msg":"sender: started","stream_id":"test22"}
+{"time":"2025-01-06T19:38:26.280364179+01:00","level":"INFO","msg":"handler: started","stream_id":"test22"}
+{"time":"2025-01-06T19:38:26.668620971+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-07T00:43:19.235477817+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-07T07:54:46.152265357+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-07T07:54:46.152610628+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-07T07:54:47.152928882+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.396991179,"progress":"1.1MB/1.1MB"}],"total_operations":1}}
+{"time":"2025-01-07T07:54:47.826037017+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-07T07:54:49.076779097+01:00","level":"INFO","msg":"stream: closing","id":"test22"}
+{"time":"2025-01-07T07:54:49.076800237+01:00","level":"INFO","msg":"handler: closed","stream_id":"test22"}
+{"time":"2025-01-07T07:54:49.076811588+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"test22"}
+{"time":"2025-01-07T07:54:49.076820505+01:00","level":"INFO","msg":"sender: closed","stream_id":"test22"}
+{"time":"2025-01-07T07:54:49.076862094+01:00","level":"INFO","msg":"stream: closed","id":"test22"}

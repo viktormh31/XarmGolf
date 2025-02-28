@@ -1,0 +1,32 @@
+  0%|                                                                                                                  | 0/10000 [00:00<?, ?it/s]/home/viktor/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:125: UserWarning: Attempting to use hipBLASLt on an unsupported architecture! Overriding blas backend to hipblas (Triggered internally at ../aten/src/ATen/Context.cpp:296.)
+  return F.linear(input, self.weight, self.bias)
+Episode:, 0, score: -50.0, average score: -50.0
+  0%|▎                                                                                                        | 29/10000 [00:03<19:28,  8.53it/s]
+Episode:, 1, score: -50.0, average score: -50.0
+Episode:, 2, score: -50.0, average score: -50.0
+Episode:, 3, score: -50.0, average score: -50.0
+Episode:, 4, score: -50.0, average score: -50.0
+Episode:, 5, score: -50.0, average score: -50.0
+Episode:, 6, score: -50.0, average score: -50.0
+Episode:, 7, score: -50.0, average score: -50.0
+Episode:, 8, score: -50.0, average score: -50.0
+Episode:, 9, score: -50.0, average score: -50.0
+Episode:, 10, score: -50.0, average score: -50.0
+Episode:, 11, score: -50.0, average score: -50.0
+Episode:, 12, score: -50.0, average score: -50.0
+Episode:, 13, score: -50.0, average score: -50.0
+Episode:, 14, score: -50.0, average score: -50.0
+Episode:, 15, score: -50.0, average score: -50.0
+Episode:, 16, score: -50.0, average score: -50.0
+Episode:, 17, score: -50.0, average score: -50.0
+Episode:, 18, score: -50.0, average score: -50.0
+Episode:, 19, score: -50.0, average score: -50.0
+Episode:, 20, score: -50.0, average score: -50.0
+Episode:, 21, score: -50.0, average score: -50.0
+Episode:, 22, score: -50.0, average score: -50.0
+Episode:, 23, score: -50.0, average score: -50.0
+Episode:, 24, score: -19.0, average score: -48.76
+Episode:, 25, score: -50.0, average score: -48.80769230769231
+Episode:, 26, score: -50.0, average score: -48.851851851851855
+Episode:, 27, score: -50.0, average score: -48.892857142857146
+Episode:, 28, score: -50.0, average score: -48.93103448275862

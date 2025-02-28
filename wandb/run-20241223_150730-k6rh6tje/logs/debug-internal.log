@@ -1,0 +1,17 @@
+{"time":"2024-12-23T15:07:30.083416843+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T15:07:30.083433995+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241223_150730-k6rh6tje/logs/debug-core.log"}
+{"time":"2024-12-23T15:07:30.188631325+01:00","level":"INFO","msg":"created new stream","id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:30.188662464+01:00","level":"INFO","msg":"stream: started","id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:30.188685327+01:00","level":"INFO","msg":"sender: started","stream_id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:30.188683684+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:30.188725813+01:00","level":"INFO","msg":"handler: started","stream_id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:30.595963006+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T15:07:30.720917506+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T15:07:30.721248828+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T15:07:31.683213885+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.312052505,"progress":"144B/144B"},{"desc":"uploading output.log","runtime_seconds":0.123466948},{"desc":"uploading config.yaml","runtime_seconds":0.123456148,"progress":"534B/534B"}],"total_operations":3}}
+{"time":"2024-12-23T15:07:31.921301559+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T15:07:33.171944267+01:00","level":"INFO","msg":"stream: closing","id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:33.171960417+01:00","level":"INFO","msg":"handler: closed","stream_id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:33.171967952+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:33.171973211+01:00","level":"INFO","msg":"sender: closed","stream_id":"k6rh6tje"}
+{"time":"2024-12-23T15:07:33.17200985+01:00","level":"INFO","msg":"stream: closed","id":"k6rh6tje"}

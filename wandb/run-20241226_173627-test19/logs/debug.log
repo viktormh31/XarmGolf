@@ -1,0 +1,22 @@
+2024-12-26 17:36:27,928 INFO    MainThread:81835 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-26 17:36:27,928 INFO    MainThread:81835 [wandb_setup.py:_flush():68] Configure stats pid to 81835
+2024-12-26 17:36:27,928 INFO    MainThread:81835 [wandb_setup.py:_flush():68] Loading settings from /home/viktor/.config/wandb/settings
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_setup.py:_flush():68] Loading settings from /home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/settings
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_init.py:_log_setup():528] Logging user logs to /home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241226_173627-test19/logs/debug.log
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_init.py:_log_setup():529] Logging internal logs to /home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241226_173627-test19/logs/debug-internal.log
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_init.py:init():644] calling init triggers
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'lr_actor': 0.0001, 'lr_critic': 0.01, 'batch_size': 2048, 'nn_dims': 512, 'temperature': 0.3, 'episodes': 10000, 'entropy': -2, 'init weights': 'Xavier_uniform_', 'optimizer': 'Adam'}
+2024-12-26 17:36:27,929 INFO    MainThread:81835 [wandb_init.py:init():680] starting backend
+2024-12-26 17:36:27,930 INFO    MainThread:81835 [wandb_init.py:init():684] sending inform_init request
+2024-12-26 17:36:27,933 INFO    MainThread:81835 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-26 17:36:27,935 INFO    MainThread:81835 [wandb_init.py:init():697] backend started and connected
+2024-12-26 17:36:27,936 INFO    MainThread:81835 [wandb_init.py:init():790] updated telemetry
+2024-12-26 17:36:27,940 INFO    MainThread:81835 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2024-12-26 17:36:28,337 INFO    MainThread:81835 [wandb_init.py:init():874] starting run threads in backend
+2024-12-26 17:36:28,515 INFO    MainThread:81835 [wandb_run.py:_console_start():2374] atexit reg
+2024-12-26 17:36:28,516 INFO    MainThread:81835 [wandb_run.py:_redirect():2224] redirect: wrap_raw
+2024-12-26 17:36:28,516 INFO    MainThread:81835 [wandb_run.py:_redirect():2289] Wrapping output streams.
+2024-12-26 17:36:28,516 INFO    MainThread:81835 [wandb_run.py:_redirect():2314] Redirects installed.
+2024-12-26 17:36:28,517 INFO    MainThread:81835 [wandb_init.py:init():916] run started, returning control to user process

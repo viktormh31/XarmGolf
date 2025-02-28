@@ -1,0 +1,17 @@
+{"time":"2024-12-23T15:06:59.256750832+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T15:06:59.256761722+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241223_150659-1fds3zbi/logs/debug-core.log"}
+{"time":"2024-12-23T15:06:59.361904483+01:00","level":"INFO","msg":"created new stream","id":"1fds3zbi"}
+{"time":"2024-12-23T15:06:59.361931514+01:00","level":"INFO","msg":"stream: started","id":"1fds3zbi"}
+{"time":"2024-12-23T15:06:59.361955659+01:00","level":"INFO","msg":"handler: started","stream_id":"1fds3zbi"}
+{"time":"2024-12-23T15:06:59.361963614+01:00","level":"INFO","msg":"sender: started","stream_id":"1fds3zbi"}
+{"time":"2024-12-23T15:06:59.361955068+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"1fds3zbi"}
+{"time":"2024-12-23T15:06:59.876768794+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T15:07:00.006899784+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T15:07:00.007280118+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T15:07:00.969079499+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.159574505,"progress":"534B/534B"},{"desc":"uploading output.log","runtime_seconds":0.159561551}],"total_operations":2}}
+{"time":"2024-12-23T15:07:01.06011411+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T15:07:02.327984083+01:00","level":"INFO","msg":"stream: closing","id":"1fds3zbi"}
+{"time":"2024-12-23T15:07:02.327999321+01:00","level":"INFO","msg":"handler: closed","stream_id":"1fds3zbi"}
+{"time":"2024-12-23T15:07:02.328014049+01:00","level":"INFO","msg":"sender: closed","stream_id":"1fds3zbi"}
+{"time":"2024-12-23T15:07:02.328007136+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1fds3zbi"}
+{"time":"2024-12-23T15:07:02.328049405+01:00","level":"INFO","msg":"stream: closed","id":"1fds3zbi"}

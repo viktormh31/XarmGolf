@@ -1,0 +1,8 @@
+  0%|                                                                                                                                                                                      | 0/10000 [00:00<?, ?it/s]/home/viktor/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py:125: UserWarning: Attempting to use hipBLASLt on an unsupported architecture! Overriding blas backend to hipblas (Triggered internally at ../aten/src/ATen/Context.cpp:296.)
+  return F.linear(input, self.weight, self.bias)
+Episode:, 0, score: -50.0, average score: -50.0
+  0%|                                                                                                                                                                            | 5/10000 [00:15<8:47:25,  3.17s/it]
+Episode:, 1, score: -45.0, average score: -47.5
+Episode:, 2, score: -50.0, average score: -48.333333333333336
+Episode:, 3, score: -50.0, average score: -48.75
+Episode:, 4, score: -50.0, average score: -49.0

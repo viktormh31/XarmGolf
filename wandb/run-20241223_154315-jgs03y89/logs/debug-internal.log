@@ -1,0 +1,16 @@
+{"time":"2024-12-23T15:43:15.769183502+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T15:43:15.769194413+01:00","level":"INFO","msg":"created symlink","path":"/home/viktor/Documents/Diplomski/CustomGolf/XarmGolf/wandb/run-20241223_154315-jgs03y89/logs/debug-core.log"}
+{"time":"2024-12-23T15:43:15.874066067+01:00","level":"INFO","msg":"created new stream","id":"jgs03y89"}
+{"time":"2024-12-23T15:43:15.874096354+01:00","level":"INFO","msg":"stream: started","id":"jgs03y89"}
+{"time":"2024-12-23T15:43:15.874112304+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"jgs03y89"}
+{"time":"2024-12-23T15:43:15.874122313+01:00","level":"INFO","msg":"sender: started","stream_id":"jgs03y89"}
+{"time":"2024-12-23T15:43:15.87414201+01:00","level":"INFO","msg":"handler: started","stream_id":"jgs03y89"}
+{"time":"2024-12-23T15:43:16.255492003+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T15:44:16.175669778+01:00","level":"INFO","msg":"stream: closing","id":"jgs03y89"}
+{"time":"2024-12-23T15:44:16.175694474+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T15:44:16.175991703+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T15:44:16.944292707+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T15:44:18.033271832+01:00","level":"INFO","msg":"handler: closed","stream_id":"jgs03y89"}
+{"time":"2024-12-23T15:44:18.033299334+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jgs03y89"}
+{"time":"2024-12-23T15:44:18.033330612+01:00","level":"INFO","msg":"sender: closed","stream_id":"jgs03y89"}
+{"time":"2024-12-23T15:44:18.03336635+01:00","level":"INFO","msg":"stream: closed","id":"jgs03y89"}
